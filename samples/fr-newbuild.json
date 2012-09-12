@@ -1,0 +1,86 @@
+[
+    {
+        "buildNumber": 103,
+        "versionString": "Sprint TESTING",
+        "dateString": "8-13-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-12",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "La complétion de code pour les attributs HTML",
+                "description": "Code de base faisant allusion aux noms des attributs HTML. Apparaît lorsque vous tapez l'espace intérieur d'une balise (ou appuyez sur Ctrl + Espace)."
+            },
+            {
+                "name": "CEF3 coquille améliorations",
+                "description": "Ajout du support pour le développement Live et modifier un certain nombre de bugs. Tous les tests unitaires passent maintenant dans la coquille CEF3."
+            },
+            {
+                "name": "Autres améliorations",
+                "description": "Ajouter une ligne de déplacement (s) Haut / Bas de commande. Ajouter commande Enregistrer tout."
+            }
+        ]
+    },
+    {
+        "buildNumber": 93,
+        "versionString": "Sprint 12",
+        "dateString": "8-13-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-12",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "La complétion de code pour les attributs HTML",
+                "description": "Code de base faisant allusion aux noms des attributs HTML. Apparaît lorsque vous tapez l'espace intérieur d'une balise (ou appuyez sur Ctrl + Espace)."
+            },
+            {
+                "name": "CEF3 coquille améliorations",
+                "description": "Ajout du support pour le développement Live et modifier un certain nombre de bugs. Tous les tests unitaires passent maintenant dans la coquille CEF3."
+            },
+            {
+                "name": "Autres améliorations",
+                "description": "Ajouter une ligne de déplacement (s) Haut / Bas de commande. Ajouter commande Enregistrer tout."
+            }
+        ]
+    },
+    {
+        "buildNumber": 72,
+        "versionString": "Sprint 11",
+        "dateString": "7-20-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-11",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "La complétion de code pour les balises HTML",
+                "description": "Code de base faisant allusion aux noms de balise HTML. Apparaît lorsque vous tapez \"<\" ou Ctrl + Espace."
+            },
+            {
+                "name": "CEF3 coquille améliorations",
+                "description": "Correction de bugs et tu auras la plupart des tests unitaires passent dans la coquille expérimentale nouvelle, basée sur le Chromium Embedding Framework 3 (Brackets utilise actuellement CEF 1)."
+            },
+            {
+                "name": "Amélioration des performances",
+                "description": "Améliorer les performances lors de la commutation des projets."
+            }
+        ]
+    },
+    {
+        "buildNumber": 56,
+        "versionString": "Sprint 10",
+        "dateString": "6-25-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-10",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "JavaScript edition rapide",
+                "description": "Frapper Cmd / Ctrl-E sur un nom de fonction ouvre toutes les définitions de fonction portant ce nom dans un éditeur en ligne."
+            },
+            {
+                "name": "Menus contextuels HTML",
+                "description": "Cela étend l'API menu précédent pour soutenir les menus contextuels."
+            },
+            {
+                "name": "Feuilles de style d'extension",
+                "description": "Les extensions peuvent maintenant utiliser le ExtensionUtils.loadStyleSheet() API pour charger une feuille de style personnalisée pour l'interface utilisateur d'extension."
+            }
+        ]
+    }
+]
