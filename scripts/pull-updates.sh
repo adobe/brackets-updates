@@ -3,7 +3,7 @@
 echo "Getting latest update info..."
 
 if [ -z "$1" ]; then
-    echo "Usage: pull-updates.sh <path>"
+    echo "Usage: pull-updates.sh <path-within-repo>"
     exit 1
 fi
 
@@ -12,8 +12,8 @@ cd "$tmproot"
 
 /usr/bin/git clone git@github.com:adobe/brackets-updates.git update-repo || { echo "Couldn't clone repo"; exit 1; }
 cd update-repo
-rm -rf /var/www/updates.old
-mv /var/www/updates /var/www/updates.old
+rm -rf /tmp/updates.old
+mv /var/www/updates /tmp/updates.old
 mv "$1" /var/www/updates
 
 cd /tmp
