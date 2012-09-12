@@ -13,7 +13,9 @@ cd "$tmproot"
 /usr/bin/git clone git@github.com:adobe/brackets-updates.git update-repo || { echo "Couldn't clone repo"; exit 1; }
 cd update-repo
 rm -rf /tmp/updates.old
-mv /var/www/updates /tmp/updates.old
+if [ -d /var/www/updates ]; then
+    mv /var/www/updates /tmp/updates.old
+fi
 mv "$1/updates" /var/www/updates
 
 cd /tmp
