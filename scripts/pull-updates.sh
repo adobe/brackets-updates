@@ -3,7 +3,7 @@
 echo "Getting latest update info..."
 
 if [ -z "$1" ]; then
-    echo "Usage: pull-updates.sh <path-within-repo>"
+    echo "Usage: pull-updates.sh <path-within-repo> [<branch>]"
     exit 1
 fi
 
