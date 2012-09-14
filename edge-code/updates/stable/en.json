@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "buildNumber": 3811,
+        "versionString": "Preview",
+        "dateString": "9-13-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-14",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "Edge Web Fonts",
+                "description": "Discover and add Edge Web Fonts while editing CSS files."
+            }
+        ]
+    }
+]
