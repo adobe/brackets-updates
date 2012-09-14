@@ -8,11 +8,15 @@
         "newFeatures": [
             {
                 "name": "New Editor Font: Source Code Pro",
-                "description": "Editor uses a new, open source, monowidth Source Code Pro OpenType font."
+                "description": "Brackets now uses a new, open-source monospace font called Source Code Pro."
             },
             {
                 "name": "Help Menu",
                 "description": "Moved Debug menu items \"Show Extensions Folder\" and \"Check for Updates\" to a new Help menu."
+            },
+            {
+                "name": "Improved Development Workflow",
+                "description": "See the brackets-shell README."
             },
             {
                 "name": "Version Info",
