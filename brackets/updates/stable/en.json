@@ -19,6 +19,10 @@
                 "description": "See the brackets-shell README."
             },
             {
+                "name": "Finished French Localization",
+                "description": "Both the application and installers are now localized in French."
+            },
+            {
                 "name": "Version Info",
                 "description": "Version info can be accessed via the Help > About menu."
             }
