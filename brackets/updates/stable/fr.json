@@ -1,1 +1,31 @@
-[]
+[
+    {
+        "buildNumber": 3764,
+        "versionString": "Sprint 14",
+        "dateString": "13-9-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-14",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "Nouvelle police de l’Editeur : Source Code Pro",
+                "description": "Brackets utilise désormais une nouvelle police monospace gratuite, appelée Source Code Pro."
+            },
+            {
+                "name": "Menu Aide",
+                "description": "Eléments du menu de débogage \"Afficher le dossier d’extensions\" et \"Rechercher les mises à jour\" déplacés vers un nouveau menu Aide."
+            },
+            {
+                "name": "Flux de travaux de développement amélioré",
+                "description": "Consultez le fichier README brackets-shell."
+            },
+            {
+                "name": "Localisation en français terminée",
+                "description": "L’application et le programme d’installation existent désormais en français."
+            },
+            {
+                "name": "Informations de version",
+                "description": "Les informations de version sont accessibles via le menu Aide > A propos."
+            }
+        ]
+    }
+]
