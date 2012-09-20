@@ -23,6 +23,10 @@
                 "description": "Both the application and installers are now localized in French."
             },
             {
+                "name": "Community Localizations",
+                "description": "Norwegian and Spanish translations, as well as an improved German translation, were provided by the Brackets community. Thanks!"
+            },
+            {
                 "name": "Version Info",
                 "description": "Version info can be accessed via the Help > About menu."
             }
