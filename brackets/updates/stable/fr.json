@@ -23,6 +23,10 @@
                 "description": "L’application et le programme d’installation existent désormais en français."
             },
             {
+                "name": "Localisations par la communauté",
+                "description": "Les traductions en norvégien et espagnol, ainsi qu’une version améliorée de la traduction allemande ont été fournies par la communauté Brackets. Merci !"
+            },
+            {
                 "name": "Informations de version",
                 "description": "Les informations de version sont accessibles via le menu Aide > A propos."
             }
