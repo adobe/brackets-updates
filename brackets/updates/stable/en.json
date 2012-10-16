@@ -48,8 +48,12 @@
                 "description": "Reloads the browser when saving non-CSS files."
             },
             {
+                "name": "Resizable Bottom Panels",
+                "description": "Search Results and JSLint panels can now resize vertically."
+            },
+            {
                 "name": "Incremental Find",
-                "description": "Highlights the first matching result when typing the Find dialog."
+                "description": "Highlights the first matching result when typing in the Find dialog."
             },
             {
                 "name": "Delete Line",
