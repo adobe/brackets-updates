@@ -31,5 +31,58 @@
                 "description": "Version info can be accessed via the Help > About menu."
             }
         ]
+    },
+    {
+        "buildNumber": 3792,
+        "versionString": "Sprint 15",
+        "dateString": "10-18-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-15",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "Status Bar",
+                "description": "Displays cursor info, file size, file type, JSLint notification, indentation preferences and busy spinner."
+            },
+            {
+                "name": "Indentation Preferences",
+                "description": "Toggle between indentation via tabs or spaces and set the indentations size from the status bar."
+            },
+            {
+                "name": "Auto Reload in Live Preview",
+                "description": "Reloads the browser when saving non-CSS files."
+            },
+            {
+                "name": "Resizable Bottom Panels",
+                "description": "Search Results and JSLint panels can now resize vertically."
+            },
+            {
+                "name": "Incremental Find",
+                "description": "Highlights the first matching result when typing in the Find dialog."
+            },
+            {
+                "name": "Delete Line",
+                "description": "Ctrl+Shift+D or \u2318\u21E7D to delete the current line or lines if there is a selection."
+            },
+            {
+                "name": "Code Hints for Relative URLs",
+                "description": "href and src attributes show relative paths for files on disk."
+            },
+            {
+                "name": "New Folder",
+                "description": "Create a new folder using the File > New Folder menu item or when right clicking in the project tree."
+            },
+            {
+                "name": "Rename Files and Folders",
+                "description": "Right click on a file or folder in the project tree and choose Rename."
+            },
+            {
+                "name": "Show in File Tree",
+                "description": "Navigate > Show in File Tree menu item will highlight the current file."
+            },
+            {
+                "name": "New Translations",
+                "description": "Italian and Brazilian Portuguese community contributed translations."
+            }
+        ]
     }
 ]
