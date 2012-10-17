@@ -27,5 +27,58 @@
                 "description": "Les informations de version sont accessibles via le menu Aide > A propos."
             }
         ]
+    },
+    {
+        "buildNumber": 3792,
+        "versionString": "Sprint 15",
+        "dateString": "18-10-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-15",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "Barre d’état",
+                "description": "Affiche les informations du curseur, la taille du fichier, le type de fichier, la notification JSLint, les préférences de mise en retrait et le compteur actif."
+            },
+            {
+                "name": "Préférences de mise en retrait",
+                "description": "Choisissez entre le retrait par tabulation ou par espace, et définissez la taille du retrait par rapport à la barre d’état."
+            },
+            {
+                "name": "Rechargement automatique dans l’Aperçu en direct",
+                "description": "Permet de recharger le navigateur lorsque vous enregistrez des fichiers non CSS."
+            },
+            {
+                "name": "Panneaux inférieurs redimensionnables",
+                "description": "Les panneaux de résultats de recherche et JSLint peuvent désormais être redimensionnés verticalement."
+            },
+            {
+                "name": "Recherche incrémentielle",
+                "description": "Met en évidence le premier résultat trouvé dès que vous saisissez du texte dans la boîte de dialogue Rechercher."
+            },
+            {
+                "name": "Supprimer la ligne",
+                "description": "Utilisez la combinaison Ctrl+Maj+D ou \u2318\u21E7D pour supprimer la ou les lignes actives en cas de sélection."
+            },
+            {
+                "name": "Indicateurs de code pour adresses URL relatives",
+                "description": "Les attributs href et src indiquent les chemins d’accès relatifs des fichiers sur le disque."
+            },
+            {
+                "name": "Nouveau dossier",
+                "description": "Pour créer un dossier, cliquez sur l’option de menu Fichier > Nouveau dossier, ou cliquez avec le bouton droit dans l’arborescence du projet."
+            },
+            {
+                "name": "Renommer des fichiers et des dossiers",
+                "description": "Dans l’arborescence du projet, cliquez avec le bouton droit sur un fichier ou un dossier, puis sélectionnez Renommer."
+            },
+            {
+                "name": "Afficher dans l’arborescence de fichiers",
+                "description": "Cliquez sur Naviguer > Afficher dans l’arborescence de fichiers pour mettre en évidence le fichier en cours."
+            },
+            {
+                "name": "Nouvelles traductions",
+                "description": "Des traductions en italien et en portugais brésilien sont désormais disponibles grâce aux contributions de la communauté d’utilisateurs."
+            }
+        ]
     }
 ]
