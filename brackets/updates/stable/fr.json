@@ -37,7 +37,7 @@
         "newFeatures": [
             {
                 "name": "Barre d’état",
-                "description": "Affiche les informations du curseur, la taille du fichier, le type de fichier, la notification JSLint, les préférences de mise en retrait et le compteur actif."
+                "description": "Affiche les informations du curseur, la taille du fichier, le type de fichier, la notification JSLint, les préférences de mise en retrait et l’indicateur de chargement."
             },
             {
                 "name": "Préférences de mise en retrait",
