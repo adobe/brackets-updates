@@ -1,34 +1,5 @@
 [
     {
-        "buildNumber": 3791,
-        "versionString": "Sprint 14",
-        "dateString": "9-20-2012",
-        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-14",
-        "downloadURL": "https://github.com/adobe/brackets/downloads",
-        "newFeatures": [
-            {
-                "name": "New Editor Font: Source Code Pro",
-                "description": "Brackets now uses a new, open-source monospace font called Source Code Pro."
-            },
-            {
-                "name": "Help Menu",
-                "description": "Moved Debug menu items \"Show Extensions Folder\" and \"Check for Updates\" to a new Help menu."
-            },
-            {
-                "name": "Improved Development Workflow",
-                "description": "See the brackets-shell README."
-            },
-            {
-                "name": "Finished French Localization",
-                "description": "Both the application and installers are now localized in French."
-            },
-            {
-                "name": "Version Info",
-                "description": "Version info can be accessed via the Help > About menu."
-            }
-        ]
-    },
-    {
         "buildNumber": 4083,
         "versionString": "Sprint 15",
         "dateString": "10-18-2012",
@@ -78,6 +49,35 @@
             {
                 "name": "New Translations",
                 "description": "Italian and Brazilian Portuguese community contributed translations."
+            }
+        ]
+    },
+    {
+        "buildNumber": 3791,
+        "versionString": "Sprint 14",
+        "dateString": "9-20-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-14",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "New Editor Font: Source Code Pro",
+                "description": "Brackets now uses a new, open-source monospace font called Source Code Pro."
+            },
+            {
+                "name": "Help Menu",
+                "description": "Moved Debug menu items \"Show Extensions Folder\" and \"Check for Updates\" to a new Help menu."
+            },
+            {
+                "name": "Improved Development Workflow",
+                "description": "See the brackets-shell README."
+            },
+            {
+                "name": "Finished French Localization",
+                "description": "Both the application and installers are now localized in French."
+            },
+            {
+                "name": "Version Info",
+                "description": "Version info can be accessed via the Help > About menu."
             }
         ]
     }
