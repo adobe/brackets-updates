@@ -33,7 +33,7 @@
         ]
     },
     {
-        "buildNumber": 3792,
+        "buildNumber": 4083,
         "versionString": "Sprint 15",
         "dateString": "18-10-2012",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-15",
@@ -41,7 +41,7 @@
         "newFeatures": [
             {
                 "name": "Barre d’état",
-                "description": "Affiche les informations du curseur, la taille du fichier, le type de fichier, la notification JSLint, les préférences de mise en retrait et le compteur actif."
+                "description": "Affiche les informations du curseur, la taille du fichier, le type de fichier, la notification JSLint, les préférences de mise en retrait et l’indicateur de chargement."
             },
             {
                 "name": "Préférences de mise en retrait",
