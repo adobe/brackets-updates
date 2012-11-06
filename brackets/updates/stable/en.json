@@ -8,15 +8,11 @@
         "newFeatures": [
             {
                 "name": "URL Mapping for Live Preview",
-                "description": "Users can specify a base URL for mapping the root folder of a project to a server for Live Preview."
+                "description": "You can now use Live Preview with server-based content by specifying a base URL in Project Settings."
             },
             {
                 "name": "Extensions Stored Outside of the Application Folder",
                 "description": "Extensions are now stored per user. Windows: C:\Users\<user>\AppData\Roaming\Brackets\extensions. Mac: /Users/<user>/Library/Application Support/Brackets/extensions."
-            },
-            {
-                "name": "Color Picker",
-                "description": "An inline editor for colors in CSS and HTML files. Supports rgba, hex, and hsla."
             },
             {
                 "name": "Working Set Sorting and Reordering",
