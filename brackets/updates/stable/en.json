@@ -23,8 +23,8 @@
                 "description": "A new Japanese translation for Brackets was added and the German translation has been updated (both are community contributed)."
             },
             {
-                "name": "Automated Unit Tests",
-                "description": "Unit tests now run automatically on a Mac build server behind the Adobe firewall."
+                "name": "Improved Quick Open",
+                "description": "Quick Open now searches on the whole path (not just filename), and accepts CamelCase abbreviations and other non-contiguous matches."
             }
         ]
     },
