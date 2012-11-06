@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "URL Mapping for Live Preview",
-                "description": "Users can specify a base URL for the root folder of a project."
+                "description": "Users can specify a base URL for mapping the root folder of a project to a server for Live Preview."
             },
             {
                 "name": "Extensions Stored Outside of the Application Folder",
