@@ -12,7 +12,7 @@
             },
             {
                 "name": "Extensions stockées en dehors du dossier d’application",
-                "description": "Les extensions sont désormais stockées par utilisateur. Windows : C:\Utilisateurs\<utilisateur>\AppData\Roaming\Brackets\extensions. Mac : /Users/<utilisateur>/Library/Application Support/Brackets/extensions."
+                "description": "Les extensions sont désormais stockées par utilisateur. Windows : C:\\Utilisateurs\\<utilisateur>\\AppData\\Roaming\\Brackets\\extensions. Mac : /Users/<utilisateur>/Library/Application Support/Brackets/extensions."
             },
             {
                 "name": "Tri et réorganisation de l’ensemble de documents de travail",
