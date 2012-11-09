@@ -12,7 +12,7 @@
             },
             {
                 "name": "Extensions Stored Outside of the Application Folder",
-                "description": "Extensions are now stored per user. Windows: C:\Users\<user>\AppData\Roaming\Brackets\extensions. Mac: /Users/<user>/Library/Application Support/Brackets/extensions."
+                "description": "Extensions are now stored per user. Windows: C:\\Users\\<user>\\AppData\\Roaming\\Brackets\\extensions. Mac: /Users/<user>/Library/Application Support/Brackets/extensions."
             },
             {
                 "name": "Working Set Sorting and Reordering",
