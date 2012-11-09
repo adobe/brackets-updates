@@ -2,7 +2,7 @@ This repo contains the update JSON files for Brackets and Edge Code.
 
 To push new update files:
 
-1. Make sure the JSON parses cleanly (you can use (http://jsonlint.com), but the errors might not be as good as calling `JSON.parse()`).
+1. Make sure the JSON parses cleanly (you can use http://jsonlint.com, but the errors might not be as good as calling `JSON.parse()`).
 2. Check the files into this repo's master.
 3. SSH into the update server: dev.brackets.io or update.edgecode.io. 
    (Usernames/passwords are available from Adam or nj.)
