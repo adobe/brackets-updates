@@ -1,1 +1,71 @@
-[]
+﻿[
+    {
+        "buildNumber": 10000000,
+        "versionString": "Update",
+        "dateString": "12-11-2012",
+        "releaseNotesURL": "TODO",
+        "downloadURL": "https://creative.adobe.com/apps",
+        "newFeatures": [
+            {
+                "name": "Editeur : Sélecteur de couleurs en ligne",
+                "description": "Lorsque vous placez le curseur sur une couleur HEX, RVB() ou TSL(), vous pouvez utiliser les touches Ctrl+E ou \u2318E pour modifier cette couleur en ligne."
+            },
+            {
+                "name": "Editeur : Préférences de mise en retrait",
+                "description": "Choisissez entre le retrait par tabulation ou par espace, et définissez la taille du retrait depuis la barre d’état."
+            },
+            {
+                "name": "Editeur : Nouvelles commandes de modification du code",
+                "description": "Utilisez la combinaison Ctrl+Maj+/ ou \u2318\u21E7/ pour activer ou désactiver les commentaires relatifs aux blocs, et la combinaison Ctrl+Maj+D ou \u2318\u21E7D pour supprimer des lignes."
+            },
+            {
+                "name": "Editeur : Indicateurs de code pour adresses URL relatives",
+                "description": "Lorsque vous saisissez un attribut href ou src en HTML, des indicateurs de code vous fournissent les chemins d’accès relatifs des fichiers sur le disque."
+            },
+            {
+                "name": "Editeur : Recherche incrémentielle",
+                "description": "Désormais, l’éditeur met en évidence le premier résultat trouvé dès que vous saisissez du texte dans la boîte de dialogue Rechercher."
+            },
+            {
+                "name": "Editeur : Fonction d’ouverture rapide améliorée",
+                "description": "Désormais, la fonction Ouverture rapide fait porter la recherche sur le chemin d’accès complet (et non simplement sur le nom de fichier) ; elle accepte également les abréviations CamelCase et les résultats non contigus."
+            },
+            {
+                "name": "Aperçu en direct : Surlignage CSS",
+                "description": "Lorsque le module Aperçu en direct est activé, si vous placez le curseur sur une règle dans un fichier CSS, les éléments concernés par cette règle apparaissent surlignés dans le navigateur."
+            },
+            {
+                "name": "Aperçu en direct : Rechargement automatique",
+                "description": "Le module Aperçu en direct permet désormais de recharger le navigateur lorsque vous enregistrez des fichiers non CSS."
+            },
+            {
+                "name": "Aperçu en direct : Prise en charge de serveurs locaux",
+                "description": "Vous pouvez désormais utiliser l’Aperçu en direct avec du contenu de serveur en spécifiant une URL de base dans les paramètres du projet."
+            },
+            {
+                "name": "Barre latérale : Rechercher dans un fichier ou un dossier",
+                "description": "Lancez une recherche portant sur le contenu d’un fichier ou d’un dossier en cliquant sur \"Rechercher dans\u2026\" dans le menu contextuel de l’arborescence de fichiers."
+            },
+            {
+                "name": "Barre latérale : Amélioration de l’arborescence de fichiers",
+                "description": "Vous pouvez désormais créer des dossiers et renommer des fichiers ou des dossiers depuis le menu contextuel de l’arborescence de fichiers, puis mettre en évidence le fichier actif en cliquant sur Naviguer > Afficher dans l’arborescence de fichiers."
+            },
+            {
+                "name": "Barre latérale : Tri et réorganisation de l’ensemble de documents de travail",
+                "description": "Triez vos documents par nom, type ou heure d’ajout en choisissant l’option souhaitée dans le menu contextuel. Vous pouvez également réorganiser votre ensemble de documents à l’aide d’opérations de glisser-déposer."
+            },
+            {
+                "name": "Interface utilisateur : Barre d’état",
+                "description": "Affiche les informations du curseur, la taille du fichier, le type de fichier, la notification JSLint et les préférences de mise en retrait."
+            },
+            {
+                "name": "Interface utilisateur : Panneaux inférieurs redimensionnables",
+                "description": "Les panneaux de résultats de recherche et JSLint peuvent désormais être redimensionnés verticalement."
+            },
+            {
+                "name": "Extensions : Stockage par utilisateur",
+                "description": "Les extensions sont désormais stockées dans des dossiers propres à chaque utilisateur, et non plus dans le dossier de l’application. Windows : C:\\Utilisateurs\\<utilisateur>\\AppData\\Roaming\\Brackets\\extensions. Mac : /Users/<utilisateur>/Library/Application Support/Brackets/extensions." 
+            }
+        ]
+    }
+]
