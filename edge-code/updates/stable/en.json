@@ -16,7 +16,7 @@
             },
             {
                 "name": "Editor: New Code Editing Commands",
-                "description": "You can now use Ctrl-Shift-/ or \u2318\u21E7/ to toggle block comments and Ctrl-Shift-D or \u2318\u21E7D to delete lines."
+                "description": "Use Ctrl-Shift-/ or \u2318\u21E7/ to toggle block comments and Ctrl-Shift-D or \u2318\u21E7D to delete lines."
             },
             {
                 "name": "Editor: Code Hints for Relative URLs",
