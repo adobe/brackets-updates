@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Editor: Inline Color Editor",
-                "description": "When the cursor is on a hex, rgb() or hsl() color, you can use Ctrl/\u2318-E to edit the color inline."
+                "description": "When the cursor is on a hex, rgb() or hsl() color, you can use Ctrl-E or \u2318E to edit the color inline."
             },
             {
                 "name": "Editor: Indentation Preferences",
@@ -16,7 +16,7 @@
             },
             {
                 "name": "Editor: New Code Editing Commands",
-                "description": "You can now use Ctrl/\u2318-Shift-/ to toggle block comments and Ctrl/\u2318-Shift-D to delete lines."
+                "description": "You can now use Ctrl-Shift-/ or \u2318\u21E7/ to toggle block comments and Ctrl-Shift-D or \u2318\u21E7D to delete lines."
             },
             {
                 "name": "Editor: Code Hints for Relative URLs",
@@ -44,7 +44,7 @@
             },
             {
                 "name": "Sidebar: Find in File or Folder",
-                "description": "Search in a specific file or folder by choosing \"Find in...\" from the context menu in the file tree."
+                "description": "Search in a specific file or folder by choosing \"Find in\u2026\" from the context menu in the file tree."
             },
             {
                 "name": "Sidebar: File Tree Improvements",
@@ -56,7 +56,7 @@
             },
             {
                 "name": "UI: Status Bar",
-                "description": "Displays cursor info, file size, file type, JSLint notification, indentation preferences and busy spinner."
+                "description": "Displays cursor info, file size, file type, JSLint notification, and indentation preferences."
             },
             {
                 "name": "UI: Resizable Bottom Panels",

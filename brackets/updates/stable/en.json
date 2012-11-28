@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Inline Color Editor",
-                "description": "When the cursor is on a hex, rgb() or hsl() color, you can use Ctrl/Cmd-E to edit the color inline."
+                "description": "When the cursor is on a hex, rgb() or hsl() color, you can use Ctrl-E or \u2318E to edit the color inline."
             },
             {
                 "name": "CSS Highlighting in Live Preview",
@@ -16,11 +16,11 @@
             },
             {
                 "name": "Block Comment/Uncomment",
-                "description": "Use Ctrl/Cmd-Shift-/ to toggle block comments around the current selection."
+                "description": "Use Ctrl-Shift-/ or \u2318\u21E7/ to toggle block comments around the current selection."
             },
             {
                 "name": "Find in File or Folder",
-                "description": "You can now search in a specific file or folder by choosing \"Find in...\" from the context menu in the file tree."
+                "description": "You can now search the contents of a specific file or folder by choosing \"Find in\u2026\" from the context menu in the file tree."
             },
             {
                 "name": "New/Updated Translations",
