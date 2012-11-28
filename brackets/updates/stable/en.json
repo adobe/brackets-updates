@@ -7,7 +7,7 @@
         "downloadURL": "https://github.com/adobe/brackets/downloads",
         "newFeatures": [
             {
-                "name": "Inline Color Editor",
+                "name": "Inline Color Picker",
                 "description": "When the cursor is on a hex, rgb() or hsl() color, you can use Ctrl-E or \u2318E to edit the color inline."
             },
             {
