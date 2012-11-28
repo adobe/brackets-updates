@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Sélecteur de couleurs en ligne",
-                "description": "Lorsque vous placez le curseur sur une couleur HEX, RVB() ou TSL(), vous pouvez utiliser les touches Ctrl+E ou \u2318E pour modifier cette couleur en ligne."
+                "description": "Lorsque vous placez le curseur sur une couleur hexadécimal, rgb() ou hsl(), vous pouvez utiliser les touches Ctrl+E ou \u2318E pour modifier cette couleur en ligne."
             },
             {
                 "name": "Surlignage CSS dans l’Aperçu en direct",

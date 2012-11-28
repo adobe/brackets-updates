@@ -64,7 +64,7 @@
             },
             {
                 "name": "Extensions: Per-User Storage",
-                "description": "Extensions are now stored in per-user folders instead of inside the application folder. Windows: C:\\Users\\<user>\\AppData\\Roaming\\Brackets\\extensions. Mac: /Users/<user>/Library/Application Support/Brackets/extensions."
+                "description": "Extensions are now stored in per-user folders instead of inside the application folder. Windows: C:\\Users\\<user>\\AppData\\Roaming\\Adobe\\Edge Code\\extensions. Mac: /Users/<user>/Library/Application Support/Adobe/Edge Code/extensions."
             }
         ]
     }

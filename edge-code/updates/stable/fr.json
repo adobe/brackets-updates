@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "buildNumber": 10000000,
         "versionString": "Update",
@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Editeur : Sélecteur de couleurs en ligne",
-                "description": "Lorsque vous placez le curseur sur une couleur HEX, RVB() ou TSL(), vous pouvez utiliser les touches Ctrl+E ou \u2318E pour modifier cette couleur en ligne."
+                "description": "Lorsque vous placez le curseur sur une couleur hexadécimal, rgb() ou hsl(), vous pouvez utiliser les touches Ctrl+E ou \u2318E pour modifier cette couleur en ligne."
             },
             {
                 "name": "Editeur : Préférences de mise en retrait",
@@ -64,7 +64,7 @@
             },
             {
                 "name": "Extensions : Stockage par utilisateur",
-                "description": "Les extensions sont désormais stockées dans des dossiers propres à chaque utilisateur, et non plus dans le dossier de l’application. Windows : C:\\Utilisateurs\\<utilisateur>\\AppData\\Roaming\\Brackets\\extensions. Mac : /Users/<utilisateur>/Library/Application Support/Brackets/extensions." 
+                "description": "Les extensions sont désormais stockées dans des dossiers propres à chaque utilisateur, et non plus dans le dossier de l’application. Windows : C:\\Utilisateurs\\<utilisateur>\\AppData\\Roaming\\Adobe\\Edge Code\\extensions. Mac : /Users/<utilisateur>/Library/Application Support/Adobe/Edge Code/extensions." 
             }
         ]
     }
