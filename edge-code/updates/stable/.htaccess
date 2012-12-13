@@ -1,5 +1,0 @@
-Options FollowSymLinks
-RewriteEngine on
-RewriteRule ^fr.*\.json$ fr.json [L]
-RewriteRule .* en.json
-
