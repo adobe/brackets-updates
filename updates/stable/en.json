@@ -1,5 +1,30 @@
 [
     {
+        "buildNumber": 4729,
+        "versionString": "Sprint 18",
+        "dateString": "12-20-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-18",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "CSS/HTML Toggle Comment Improvements",
+                "description": "Fixed several issues when handling Toggle Line/Block Comment in CSS and HTML files."
+            },
+            {
+                "name": "HTML Attribute Filtering in Code Hints",
+                "description": "When showing attribute code hints, the existing attributes on the tag are filtered."
+            },
+            {
+                "name": "Rename File in Working Set",
+                "description": "Clicking on the active file in the working set triggers a file rename."
+            },
+            {
+                "name": "New/Updated Translations",
+                "description": "A new Russian translation was contributed this sprint. Also, German and Spanish translations have been updated."
+            }
+        ]
+    },
+    {
         "buildNumber": 4728,
         "versionString": "Sprint 17",
         "dateString": "11-30-2012",
