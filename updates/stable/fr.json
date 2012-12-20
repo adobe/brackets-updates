@@ -1,5 +1,30 @@
 [
     {
+        "buildNumber": 4729,
+        "versionString": "Sprint 18",
+        "dateString": "20-12-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-18",
+        "downloadURL": "http://downloads.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Amélioration de la fonction d’activation/désactivation des commentaires CSS/HTML",
+                "description": "Plusieurs problèmes ont été résolus concernant le traitement de la fonction d’activation/désactivation des commentaires sur les lignes ou les blocs dans les fichiers CSS et HTML."
+            },
+            {
+                "name": "Filtrage des attributs HTML dans les indicateurs de code",
+                "description": "Lorsque vous affichez les indicateurs de code associés à des attributs, les attributs existants de la balise sont filtrés.."
+            },
+            {
+                "name": "Renommer un fichier dans l’ensemble de documents de travail",
+                "description": "En cliquant sur le fichier actif dans l’ensemble de documents de travail, vous avez désormais la possibilité de le renommer."
+            },
+            {
+                "name": "Nouvelles traductions et mises à jour",
+                "description": "Une nouvelle traduction en russe a été ajoutée à cette version. Par ailleurs, les traductions en allemand et en espagnol ont été mises à jour."
+            }
+        ]
+    },
+    {
         "buildNumber": 4728,
         "versionString": "Sprint 17",
         "dateString": "30-11-2012",
