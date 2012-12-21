@@ -4,7 +4,7 @@
         "versionString": "Sprint 18",
         "dateString": "20-12-2012",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-18",
-        "downloadURL": "http://downloads.brackets.io",
+        "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
                 "name": "Amélioration de la fonction d’activation/désactivation des commentaires CSS/HTML",
