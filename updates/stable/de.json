@@ -1,0 +1,167 @@
+[
+    {
+        "buildNumber": 5070,
+        "versionString": "Sprint 18",
+        "dateString": "12-20-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-18",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Verbesserungen beim Umschalten von Kommentaren für CSS/HTML",
+                "description": "Verschiedene Fehler beim Verarbeiten vom Umschalten bei Zeilen- und Block-Kommentaren in CSS- und HTML-Dateien."
+            },
+            {
+                "name": "Filterung von HTML-Attributen in Code-Vorschlägen",
+                "description": "Beim Anzeigen von Code-Vorschlägen für Attribute werden die bestehenden Attribute des Tags nicht erneut vorgeschlagen."
+            },
+            {
+                "name": "Datei im Arbeitsbereich umbenennen",
+                "description": "Klicken auf die aktive Datei im Arbeitsbereich bewirkt ein Umbenennen der Datei."
+            },
+            {
+                "name": "Neue/Aktualisierte Übersetzungen",
+                "description": "In diesem Sprint wurde eine neue russische Übersetzung beigesteuert. Auch die deutschen und spanischen Übersetzungen wurden aktualisiert."
+            }
+        ]
+    },
+    {
+        "buildNumber": 4728,
+        "versionString": "Sprint 17",
+        "dateString": "11-30-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-17",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "Inline Color Picker",
+                "description": "When the cursor is on a hex, rgb() or hsl() color, you can use Ctrl-E or \u2318E to edit the color inline."
+            },
+            {
+                "name": "CSS Highlighting in Live Preview",
+                "description": "While Live Preview is active, putting the cursor in a rule in a CSS file highlights items affected by that rule in the browser."
+            },
+            {
+                "name": "Block Comment/Uncomment",
+                "description": "Use Ctrl-Shift-/ or \u2318\u21E7/ to toggle block comments around the current selection."
+            },
+            {
+                "name": "Find in File or Folder",
+                "description": "You can now search the contents of a specific file or folder by choosing \"Find in\u2026\" from the context menu in the file tree."
+            },
+            {
+                "name": "New/Updated Translations",
+                "description": "A new Turkish translation for Brackets was added and the Japanese, German, Spanish, French and Italian translations were updated, all by community members."
+            }
+        ]
+    },
+    {
+        "buildNumber": 4439,
+        "versionString": "Sprint 16",
+        "dateString": "11-06-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-16",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "URL Mapping for Live Preview",
+                "description": "You can now use Live Preview with server-based content by specifying a base URL in Project Settings."
+            },
+            {
+                "name": "Extensions Stored Outside of the Application Folder",
+                "description": "Extensions are now stored per user. Windows: C:\\Users\\<user>\\AppData\\Roaming\\Brackets\\extensions. Mac: /Users/<user>/Library/Application Support/Brackets/extensions."
+            },
+            {
+                "name": "Working Set Sorting and Reordering",
+                "description": "Sort by name, type or time added by choosing an option from the context menu. Also, the working set may be reordered using drag and drop."
+            },
+            {
+                "name": "New/Updated Translations",
+                "description": "A new Japanese translation for Brackets was added and the German translation has been updated (both are community contributed)."
+            },
+            {
+                "name": "Improved Quick Open",
+                "description": "Quick Open now searches on the whole path (not just filename), and accepts CamelCase abbreviations and other non-contiguous matches."
+            }
+        ]
+    },
+    {
+        "buildNumber": 4083,
+        "versionString": "Sprint 15",
+        "dateString": "10-18-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-15",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "Status Bar",
+                "description": "Displays cursor info, file size, file type, JSLint notification, indentation preferences and busy spinner."
+            },
+            {
+                "name": "Indentation Preferences",
+                "description": "Toggle between indentation via tabs or spaces and set the indentations size from the status bar."
+            },
+            {
+                "name": "Auto Reload in Live Preview",
+                "description": "Reloads the browser when saving non-CSS files."
+            },
+            {
+                "name": "Resizable Bottom Panels",
+                "description": "Search Results and JSLint panels can now resize vertically."
+            },
+            {
+                "name": "Incremental Find",
+                "description": "Highlights the first matching result when typing in the Find dialog."
+            },
+            {
+                "name": "Delete Line",
+                "description": "Ctrl+Shift+D or \u2318\u21E7D to delete the current line or lines if there is a selection."
+            },
+            {
+                "name": "Code Hints for Relative URLs",
+                "description": "href and src attributes show relative paths for files on disk."
+            },
+            {
+                "name": "New Folder",
+                "description": "Create a new folder using the File > New Folder menu item or when right clicking in the project tree."
+            },
+            {
+                "name": "Rename Files and Folders",
+                "description": "Right click on a file or folder in the project tree and choose Rename."
+            },
+            {
+                "name": "Show in File Tree",
+                "description": "Navigate > Show in File Tree menu item will highlight the current file."
+            },
+            {
+                "name": "New Translations",
+                "description": "Italian and Brazilian Portuguese community contributed translations."
+            }
+        ]
+    },
+    {
+        "buildNumber": 3791,
+        "versionString": "Sprint 14",
+        "dateString": "9-20-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-14",
+        "downloadURL": "https://github.com/adobe/brackets/downloads",
+        "newFeatures": [
+            {
+                "name": "New Editor Font: Source Code Pro",
+                "description": "Brackets now uses a new, open-source monospace font called Source Code Pro."
+            },
+            {
+                "name": "Help Menu",
+                "description": "Moved Debug menu items \"Show Extensions Folder\" and \"Check for Updates\" to a new Help menu."
+            },
+            {
+                "name": "Improved Development Workflow",
+                "description": "See the brackets-shell README."
+            },
+            {
+                "name": "Finished French Localization",
+                "description": "Both the application and installers are now localized in French."
+            },
+            {
+                "name": "Version Info",
+                "description": "Version info can be accessed via the Help > About menu."
+            }
+        ]
+    }
+]
