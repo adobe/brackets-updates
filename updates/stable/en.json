@@ -52,10 +52,6 @@
                 "description": "Clicking on the active file in the working set triggers a file rename."
             },
             {
-                "name": "Rename File in Working Set",
-                "description": "Clicking on the active file in the working set triggers a file rename."
-            },
-            {
                 "name": "New/Updated Translations",
                 "description": "A new Russian translation was contributed this sprint. Also, German and Spanish translations have been updated."
             }
