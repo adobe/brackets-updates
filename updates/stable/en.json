@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 5242,
+        "versionString": "Sprint 19",
+        "dateString": "01-18-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-19",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Native Menu Bar",
+                "description": "Menus now appear in the Mac/Windows native menus."
+            },
+            {
+                "name": "CSS Code Hints",
+                "description": "Code hinting for CSS properties and values now appear for CSS files and <style> blocks."
+            },
+            {
+                "name": "Quick Open and Go to Definition Improvements",
+                "description": "Result rankings and query response times are improved."
+            },
+            {
+                "name": "Highlighted Find Results",
+                "description": "When using Find, all results in the current file are highlighted in yellow."
+            },
+            {
+                "name": "Mac Keyboard Shortcut Changes",
+                "description": "Toggle Block Comment now uses \u2318\u2325/. \u2318←, previously used as a Home shortcut, now acts as a Smart Home shortcut. Smart home moves the cursor to the first non-whitespace character on the line."
+            },
+            {
+                "name": "New/Updated Translations",
+                "description": "New Swedish and Portuguese translations were added. Also, French, Russian, Spanish and Turkish translations have been updated."
+            }
+        ]
+    },
+    {
         "buildNumber": 5070,
         "versionString": "Sprint 18",
         "dateString": "12-20-2012",
