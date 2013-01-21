@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 5242,
+        "buildNumber": 5290,
         "versionString": "Sprint 19",
-        "dateString": "01-18-2012",
+        "dateString": "01-18-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-19",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -17,10 +17,6 @@
             {
                 "name": "Quick Open and Go to Definition Improvements",
                 "description": "Result rankings and query response times are improved."
-            },
-            {
-                "name": "Highlighted Find Results",
-                "description": "When using Find, all results in the current file are highlighted in yellow."
             },
             {
                 "name": "Mac Keyboard Shortcut Changes",
