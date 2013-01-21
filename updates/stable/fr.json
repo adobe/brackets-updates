@@ -1,5 +1,34 @@
 [
     {
+        "buildNumber": 5290,
+        "versionString": "Sprint 19",
+        "dateString": "01-18-2012",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-19",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Barre de menu natif",
+                "description": "Les menus apparaissent désormais dans les menus natifs Mac/Windows."
+            },
+            {
+                "name": "Indicateurs de code CSS",
+                "description": "Les indicateurs de code des propriétés et valeurs CSS sont maintenant disponibles pour les fichiers CSS et les blocs <style>."
+            },
+            {
+                "name": "Amélioration des commandes Ouverture rapide et Atteindre la définition",
+                "description": "Le classement des résultats et les temps de réponse des requêtes ont été améliorés."
+            },
+            {
+                "name": "Modification des raccourcis clavier sous Mac",
+                "description": "Le raccourci permettant de Commenter les blocs/Annuler les commentaires est maintenant \u2318\u2325/. \u2318←, qui renvoyait auparavant vers l’accueil, fonctionne maintenant comme un raccourci d’accueil intelligent. Il déplace le curseur jusqu’au premier caractère (hors espace) de la ligne."
+            },
+            {
+                "name": "Traductions nouvelles/mises à jour",
+                "description": "De nouvelles traductions en suédois et en portugais ont été ajoutées. Les traductions en français, russe, espagnol et turc ont été mises à jour."
+            }
+        ]
+    },
+    {
         "buildNumber": 5070,
         "versionString": "Sprint 18",
         "dateString": "20-12-2012",
