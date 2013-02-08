@@ -11,7 +11,7 @@
                 "description": "The core code editor has been updated to CodeMirror 3, fixing many issues and enabling new functionality."
             },
             {
-                "name": "Better Undo/Redo",
+                "name": "Improved Undo/Redo",
                 "description": "Undo restores the old selection and cursor position."
             },
             {
@@ -24,7 +24,7 @@
             },
             {
                 "name": "Search Improvements",
-                "description": "All Find results are highlighted when search bar is open. Current result is centered in the viewport."
+                "description": "All Find results are highlighted when search bar is open. Current result is centered in the editor."
             }
         ]
     },
