@@ -1,8 +1,37 @@
 [
     {
+        "buildNumber": 5672,
+        "versionString": "Sprint 20",
+        "dateString": "02-14-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-20",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Upgrade auf CodeMirrot 3",
+                "description": "Der zentrale Code-Editor wurde auf CodeMirror 3 aktualisiert, was viele Probleme behebt und neue Funktionen ermöglicht."
+            },
+            {
+                "name": "Verbessertes Rückgängig/Wiederholen",
+                "description": "Rückgängig stellt die alte Auswahl und Cursor-Position wieder her."
+            },
+            {
+                "name": "Zeilennummern immer sichtbar",
+                "description": "Die Zeilennummern am linken Rand bleiben beim horizontalen Scrollen sichtbar."
+            },
+            {
+                "name": "Doppel-/Dreifach-Klick-und-Ziehen",
+                "description": "Doppel-Klick-ziehen und Dreifach-Klick-ziehen Sie, um mehrere Wörter/Zeilen schnell zu markieren."
+            },
+            {
+                "name": "Verbesserte Suchfunktion",
+                "description": "Alle Suchergebnisse werden hervorgehoben, wenn die Suchleiste offen ist. Das aktuelle Ergebnis wird im Editor zentriert."
+            }
+        ]
+    },
+    {
         "buildNumber": 5242,
         "versionString": "Sprint 19",
-        "dateString": "01-18-2012",
+        "dateString": "01-18-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-19",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
