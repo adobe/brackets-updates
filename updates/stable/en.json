@@ -24,7 +24,7 @@
             },
             {
                 "name": "Remember Cursor & Scroll Position",
-                "description": "Files left open after close will retain cursor and scroll position on launch. During a session, cursor and scroll position is retained for closed files upon reopening.'
+                "description": "Files left open after close will retain cursor and scroll position on launch. During a session, cursor and scroll position is retained for closed files upon reopening."
             }
         ]
     },
