@@ -1,5 +1,34 @@
 [
     {
+        "buildNumber": 5926,
+        "versionString": "Sprint 21",
+        "dateString": "03-01-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-21",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "JavaScript Code Hinting",
+                "description": "New code hinting for JavaScript includes keywords, local variables, arguments, and property names."
+            },
+            {
+                "name": "Default Live Development on Localhost (w/ node.js)",
+                "description": "By default, Live Development uses a built-in webserver powered by node.js."
+            },
+            {
+                "name": "Drag to Dock to Open Files (OSX)",
+                "description": "Drag a file directly to the Brackets dock icon to open."
+            },
+            {
+                "name": "Drag and Drop to Open Files (Windows)",
+                "description": "Drag a file directly into Brackets to open."
+            },
+            {
+                "name": "Remember Cursor & Scroll Position",
+                "description": "Files left open after close will retain cursor and scroll position on launch. During a session, cursor and scroll position is retained for closed files upon reopening."
+            }
+        ]
+    },
+    {
         "buildNumber": 5672,
         "versionString": "Sprint 20",
         "dateString": "02-14-2013",
