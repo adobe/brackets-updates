@@ -7,24 +7,24 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "JavaScript Code Hints",
-                "description": "Smart code hinting includes keywords, local variables, arguments, and property names based on nearby code."
+                "name": "JavaScript Code Hinting",
+                "description": "New code hinting for JavaScript includes keywords, local variables, arguments, and property names."
             },
             {
-                "name": "Default localhost for Live Preview",
-                "description": "By default, Live Preview now launches an http://localhost URL instead of file:// thanks to a build-in Node.js server. Pointing Live Preview at your own local server remains supported (see File > Project Settings)."
+                "name": "Default Live Development on Localhost (w/ node.js)",
+                "description": "By default, Live Development uses a built-in webserver powered by node.js."
             },
             {
-                "name": "Line Numbers Always Visible",
-                "description": "Gutter line numbers stay in view when scrolling horiontally."
+                "name": "Drag to Dock to Open Files (OSX)",
+                "description": "Drag a file directly to the Brackets dock icon to open."
             },
             {
-                "name": "Drag & Drop to Open Files",
-                "description": "Drag files onto the Dock icon (on Mac) or the Brackets window itself (on Windows) to open them."
+                "name": "Drag and Drop to Open Files (Windows)",
+                "description": "Drag a file directly into Brackets to open."
             },
             {
                 "name": "Remember Cursor & Scroll Position",
-                "description": "Files you leave open when you quit or switch projects will be reopened right where you left off. Within a session, this also works for files you open, close, then reopen later."
+                "description": "Files left open after close will retain cursor and scroll position on launch. During a session, cursor and scroll position is retained for closed files upon reopening.'
             }
         ]
     },
