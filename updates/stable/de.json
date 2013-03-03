@@ -1,5 +1,34 @@
 [
     {
+        "buildNumber": 5926,
+        "versionString": "Sprint 21",
+        "dateString": "03-01-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-21",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "JavaScript-Code-Vorschläge",
+                "description": "Die neuen Code-Vorschläge für JavaScript beinhalten Schlüsselwörter, lokale Variablen, Argumente und Eigenschaften-Namen."
+            },
+            {
+                "name": "Live-Entwicklung standardmäßig auf Localhost (mit node.js)",
+                "description": "Standardmäßig verwendet die Live-Entwicklung einen eingebauten Webserver, umgesetzt mit node.js."
+            },
+            {
+                "name": "Auf Dock ziehen, um Dateien zu öffnen (OSX)",
+                "description": "Ziehen Sie eine Datei direkt auf das Dock-Symbol von Brackets, um sie zu öffnen."
+            },
+            {
+                "name": "Ziehen und Ablegen, um Dateien zu öffnen (Windows)",
+                "description": "Ziehen Sie eine Datei direkt in Brackets, um sie zu öffnen."
+            },
+            {
+                "name": "Cursor- und Scroll-Position merken",
+                "description": "Bei Dateien, die beim Beenden noch offen sind, werden die Cursor- und Scroll-Position beim erneuten Starten beibehalten. Während einer Sitzung werden die Cursor- und Scroll-Position für geschlossene Dateien beim erneuten Öffnen beibehalten."
+            }
+        ]
+    },
+    {
         "buildNumber": 5672,
         "versionString": "Sprint 20",
         "dateString": "02-14-2013",
