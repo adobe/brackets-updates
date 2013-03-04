@@ -1,6 +1,6 @@
 [
     {
-        "buildNumber": 5926,
+        "buildNumber": 5990,
         "versionString": "Sprint 21",
         "dateString": "03-01-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-21",
@@ -11,7 +11,7 @@
                 "description": "Die neuen Code-Vorschläge für JavaScript beinhalten Schlüsselwörter, lokale Variablen, Argumente und Eigenschaften-Namen."
             },
             {
-                "name": "Live-Entwicklung standardmäßig auf Localhost (mit node.js)",
+                "name": "Live-Entwicklung standardmäßig auf Localhost (mit Node.js)",
                 "description": "Standardmäßig verwendet die Live-Entwicklung einen eingebauten Webserver, umgesetzt mit node.js."
             },
             {
