@@ -1,5 +1,34 @@
 [
     {
+        "buildNumber": 5990,
+        "versionString": "Sprint 21",
+        "dateString": "01-03-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-21",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Indicateurs de code JavaScript :",
+                "description": "Les nouveaux indicateurs de code JavaScript comprennent des mots-clés, des variables locales, des arguments et des noms de propriétés."
+            },
+            {
+                "name": "Live Development par défaut sur Localhost (avec Node.js)",
+                "description": "Live Development utilise par défaut un serveur Web intégré avec node.js."
+            },
+            {
+                "name": "Ouverture d’un fichier par glissement sur le Dock (OSX)",
+                "description": "Pour ouvrir un fichier, faites-le directement glisser sur l’icône Brackets dans le dock."
+            },
+            {
+                "name": "Ouverture de fichier par glisser-déposer (Windows)",
+                "description": "Pour ouvrir un fichier, faites-le directement glisser dans Brackets."
+            },
+            {
+                "name": "Mémorisation de la position du curseur et de la position de défilement",
+                "description": "Les fichiers restés ouverts à la fermeture conservent la position du curseur et la position de défilement au démarrage. Au cours d’une même session, la position du curseur et la position de défilement sont restaurées à chaque réouverture de fichiers fermés."
+            }
+        ]
+    },
+    {
         "buildNumber": 5672,
         "versionString": "Sprint 20",
         "dateString": "14-02-2013",
