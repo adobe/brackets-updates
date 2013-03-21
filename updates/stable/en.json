@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 6385,
+        "versionString": "Sprint 22",
+        "dateString": "03-22-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-22",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Easier Extension Installation",
+                "description": "Install extensions in the Brackets UI via File > Install Extensions\u2026. A URL to a ZIP file or GitHub repo is required."
+            },
+            {
+                "name": "Word Wrap",
+                "description": "Word wrap is now enabled by default. Use the View > Enable Word Wrap menu to toggle."
+            },
+            {
+                "name": "Show Active Line",
+                "description": "Active line highlighting emphasizes which line the cursor is positioned on. Use the View > Show Active Line menu to toggle."
+            },
+            {
+                "name": "Hide Line Numbers",
+                "description": "Line numbers can now be hidden. Use the View > Show Line Numbers menu to toggle."
+            },
+            {
+                "name": "Live Development Reliability",
+                "description": "Improvements and bug fixes were made to make the connection to Chrome more reliable and to report errors more effectively."
+            },
+            {
+                "name": "New/Updated Translations",
+                "description": "New Chinese translation was added. Also, French, Japanese, German and Italian translations have been updated."
+            }
+        ]
+    },
+    {
         "buildNumber": 5990,
         "versionString": "Sprint 21",
         "dateString": "03-01-2013",
