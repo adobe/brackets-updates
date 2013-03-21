@@ -7,7 +7,7 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Extension Installation",
+                "name": "Easier Extension Installation",
                 "description": "Install extensions in the Brackets UI via File > Install Extensions\u2026. A URL to a ZIP file or GitHub repo is required."
             },
             {
@@ -16,15 +16,19 @@
             },
             {
                 "name": "Show Active Line",
-                "description": "Active line highlighting emphasizes which line the cursor is positioned on. This is now enabled by default. Use the View > Show Active Line menu to toggle."
+                "description": "Active line highlighting emphasizes which line the cursor is positioned on. Use the View > Show Active Line menu to toggle."
             },
             {
-                "name": "Show Line Numbers",
+                "name": "Hide Line Numbers",
                 "description": "Line numbers can now be hidden. Use the View > Show Line Numbers menu to toggle."
             },
             {
                 "name": "Live Development Reliability",
                 "description": "Improvements and bug fixes were made to make the connection to Chrome more reliable and to report errors more effectively."
+            },
+            {
+                "name": "New/Updated Translations",
+                "description": "New Chinese translation was added. Also, French, Japanese, German and Italian translations have been updated."
             }
         ]
     },
