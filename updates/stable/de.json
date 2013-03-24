@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 6385,
+        "versionString": "Sprint 22",
+        "dateString": "03-22-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-22",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Einfachere Installation von Erweiterungen",
+                "description": "Installieren Sie Erweiterungen in der Brackets-Oberfläche via Datei > Erweiterungen installieren\u2026. Eine URL zu einer ZIP-Datei oder einem Github-Repo ist erforderlich."
+            },
+            {
+                "name": "Zeilenumbruch",
+                "description": "Zeilenumbruch ist jetzt standardmäßig eingeschaltet. Verwenden Sie zum Ein-/Ausschalten das Menü Ansicht > Zeilenumbruch aktivieren."
+            },
+            {
+                "name": "Aktive Zeile anzeigen",
+                "description": "Die Hervorhebung der aktiven Zeile hebt die Zeile hervor, in der sich der Cursor befindet. Verwenden Sie zum Ein-/Ausschalten das Menü Ansicht > Aktive Zeile anzeigen."
+            },
+            {
+                "name": "Zeilennummern ausblenden",
+                "description": "Zeilennummern können jetzt ausgeblendet werden. Verwenden Sie zum Ein-/Ausschalten das Menü Ansicht > Zeilennummern anzeigen."
+            },
+            {
+                "name": "Verlässlichkeit der Live-Entwicklung",
+                "description": "Verbesserungen und Fehlerkorrekturen wurden gemacht, um die Verbindung zu Chrome verlässlicher zu machen, und um Fehler effektiver zu berichten."
+            },
+            {
+                "name": "Neue/Aktualisierte Übersetzungen",
+                "description": "Eine neue chinesische Übersetzung wurde hinzugefügt. Außerdem wurden die französische, japanische, deutsche und italienische Übersetzung aktualisiert."
+            }
+        ]
+    },
+    {
         "buildNumber": 5990,
         "versionString": "Sprint 21",
         "dateString": "03-01-2013",
