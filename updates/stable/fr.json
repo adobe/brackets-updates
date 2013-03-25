@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 6426,
+        "versionString": "Sprint 22",
+        "dateString": "22-03-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-22",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Installation plus facile des extensions",
+                "description": "Installez les extensions dans l’interface utilisateur de Brackets en sélectionnant Fichier > Installer les extensions\u2026. Vous devez obligatoirement indiquer l’URL d’un fichier ZIP ou d’un référentiel GitHub."
+            },
+            {
+                "name": "Renvoi à la ligne",
+                "description": "Le renvoi à la ligne est désormais activé par défaut. Pour activer/désactiver cette fonction, sélectionnez le menu Affichage > Activer le retour à la ligne."
+            },
+            {
+                "name": "Afficher la ligne active",
+                "description": "Le surlignage de la ligne active met en évidence la ligne sur laquelle le curseur est positionné. Pour activer/désactiver cette fonction, sélectionnez le menu Affichage > Afficher la ligne active."
+            },
+            {
+                "name": "Masquer les numéros de ligne",
+                "description": "Vous pouvez désormais masquer les numéros de ligne. Pour activer/désactiver cette fonction, sélectionnez le menu Affichage > Afficher les numéros de ligne."
+            },
+            {
+                "name": "Fiabilité de la connexion Live Development",
+                "description": "Des améliorations et des correctifs ont été appliqués afin que la connexion avec Chrome soit plus fiable et que les rapports d’erreurs soient générés plus efficacement."
+            },
+            {
+                "name": "Traductions nouvelles/mises à jour",
+                "description": "Il existe désormais une nouvelle traduction en chinois. Par ailleurs, les traductions en allemand, espagnol, français, italien et japonais ont été mises à jour."
+            }
+        ]
+    },
+    {
         "buildNumber": 5990,
         "versionString": "Sprint 21",
         "dateString": "01-03-2013",

@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 6426,
+        "versionString": "Sprint 22",
+        "dateString": "2013-03-22",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-22",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "拡張機能を簡単にインストール",
+                "description": "拡張機能を Brackets UI の ファイル／拡張機能をインストール\u2026 からインストールできます。ZIP ファイルの URL または GitHub のレポジトリが必要です。"
+            },
+            {
+                "name": "文字列の折り返し",
+                "description": "文字列の折り返しがデフォルトで有効になりました。表示／文字列の折り返しを有効にするを使用して切り替えられます。"
+            },
+            {
+                "name": "アクティブな行を表示",
+                "description": "カーソルが置いてある行がハイライト表示されて強調されます。表示／アクティブな行を表示を使用して切り替えられます。"
+            },
+            {
+                "name": "行番号を隠す",
+                "description": "行番号を隠すことができます。表示／行番号を表示を使用して切り替えられます。"
+            },
+            {
+                "name": "ライブ開発の信頼性",
+                "description": "改善とバグ修正により、Chrome との接続の信頼性が向上し、エラー報告がより効果的になりました。"
+            },
+            {
+                "name": "翻訳の追加と更新",
+                "description": "中国語をご利用いただけるようになりました。また、フランス語、日本語、ドイツ語、イタリア語の翻訳が更新されました。"
+            }
+        ]
+    },
+    {
         "buildNumber": 5990,
         "versionString": "Sprint 21",
         "dateString": "2013-03-01",
