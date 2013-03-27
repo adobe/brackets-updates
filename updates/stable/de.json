@@ -12,15 +12,15 @@
             },
             {
                 "name": "Zeilenumbruch",
-                "description": "Zeilenumbruch ist jetzt standardmäßig eingeschaltet. Verwenden Sie zum Ein-/Ausschalten das Menü Ansicht > Zeilenumbruch aktivieren."
+                "description": "Zeilenumbruch ist jetzt standardmäßig eingeschaltet. Verwenden Sie zum Ein-/Ausschalten das Menü Ansicht > Zeilenumbruch."
             },
             {
-                "name": "Aktive Zeile anzeigen",
-                "description": "Die Hervorhebung der aktiven Zeile hebt die Zeile hervor, in der sich der Cursor befindet. Verwenden Sie zum Ein-/Ausschalten das Menü Ansicht > Aktive Zeile anzeigen."
+                "name": "Aktive Zeile hervorheben",
+                "description": "Hiermit wird die Zeile hervorgehoben, in der sich der Cursor befindet. Verwenden Sie zum Ein-/Ausschalten das Menü Ansicht > Aktive Zeile hervorheben."
             },
             {
                 "name": "Zeilennummern ausblenden",
-                "description": "Zeilennummern können jetzt ausgeblendet werden. Verwenden Sie zum Ein-/Ausschalten das Menü Ansicht > Zeilennummern anzeigen."
+                "description": "Zeilennummern können jetzt ausgeblendet werden. Verwenden Sie zum Ein-/Ausschalten das Menü Ansicht > Zeilennummern."
             },
             {
                 "name": "Verlässlichkeit der Live-Entwicklung",
