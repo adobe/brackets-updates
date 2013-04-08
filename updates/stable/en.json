@@ -1,5 +1,30 @@
 [
     {
+        "buildNumber": 6642,
+        "versionString": "Sprint 23",
+        "dateString": "04-10-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-23",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "HTML Highlighting in Live Preview",
+                "description": "While Live Preview is active, placing the cursor on an HTML element highlights that element in the browser. Support is currently limited to files with saved changes."
+            },
+            {
+                "name": "UI Update",
+                "description": "The old toolbar (and HTML menu) have been removed. The toolbar now appears docked on the right of the window."
+            },
+            {
+                "name": "Brackets Extension Registry",
+                "description": "Extensions can be published and downloaded at a new central repository https://extend.brackets.io/."
+            },
+            {
+                "name": "New/Updated Translations",
+                "description": "New Polish translation was added. Also, French, German, Czech and Chinese translations have been updated."
+            }
+        ]
+    },
+    {
         "buildNumber": 6428,
         "versionString": "Sprint 22",
         "dateString": "03-22-2013",
