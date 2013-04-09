@@ -7,20 +7,20 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "HTML Highlighting in Live Preview",
-                "description": "While Live Preview is active, placing the cursor on an HTML element highlights that element in the browser. Support is currently limited to files with saved changes."
+                "name": "HTML Highlight w/ Live Preview",
+                "description": "When in Live Preview mode, place the cursor on an HTML element to highlight that element in the browser. Highlighting can be toggled on/off with Ctrl/Cmd + Shift + C. Support is currently limited to files with saved changes."
             },
             {
-                "name": "UI Update",
-                "description": "The old toolbar (and HTML menu) have been removed. The toolbar now appears docked on the right of the window."
+                "name": "New Toolbar",
+                "description": "A new toolbar is now docked on the right in Brackets. This replaces the top title bar and HTML menus. Icons for Live Preview and other extensions will be found here."
             },
             {
-                "name": "Brackets Extension Registry",
-                "description": "Extensions can be published and downloaded at a new central repository https://extend.brackets.io/."
+                "name": "extend.brackets.io",
+                "description": "Browse and install new Brackets features at https://extend.brackets.io, a central repository for community-built Brackets extensions."
             },
             {
-                "name": "New/Updated Translations",
-                "description": "New Polish translation was added. Also, French, German, Czech and Chinese translations have been updated."
+                "name": "New Polish Support and Language Updates",
+                "description": "A new Polish translation has been created for Brackets. French, German, Czech and Chinese translations have been updated."
             }
         ]
     },
