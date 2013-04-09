@@ -1,5 +1,30 @@
 [
     {
+        "buildNumber": 6642,
+        "versionString": "Sprint 23",
+        "dateString": "04-10-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-23",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "HTML-Highlight mit Live-Vorschau",
+                "description": "Während die Live-Vorschau aktiv ist, setzen Sie den Cursor auf ein HTML-Element, um das Element im Browser hervorzuheben. Das Hervorheben kann mit Ctrl+Shift+C oder \u21E7\u2318C ein- und ausgeschaltet werden. Diese Funktion wird momentan nur für Dateien mit gespeicherten Änderungen unterstützt."
+            },
+            {
+                "name": "Neue Symbolleiste",
+                "description": "Eine neue Symbolleiste ist jetzt rechts in Brackets angedockt. Sie ersetzt die obere Titelleiste und die HTML-Menüs. Symbole für Live-Vorschau und andere Erweiterungen können hier gefunden werden."
+            },
+            {
+                "name": "extend.brackets.io",
+                "description": "Durchsuchen und installieren Sie neue Brackets-Funktionen auf https://extend.brackets.io, einem zentralen Repository für von der Community erstellte Brackets-Erweiterungen."
+            },
+            {
+                "name": "Neue Unterstützung für Polnisch und Sprach-Updates",
+                "description": "Eine neue polnische Übersetzung wurde für Brackets erstellt. Die Übersetzungen auf Französisch, Deutsch, Tschechisch und Chinesisch wurden auf den neusten Stand gebracht."
+            }
+        ]
+    },
+    {
         "buildNumber": 6428,
         "versionString": "Sprint 22",
         "dateString": "03-22-2013",
