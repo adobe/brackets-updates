@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "HTML Highlight w/ Live Preview",
-                "description": "When in Live Preview mode, place the cursor on an HTML element to highlight that element in the browser. Highlighting can be toggled on/off with Ctrl/Cmd + Shift + C. Support is currently limited to files with saved changes."
+                "description": "When in Live Preview mode, place the cursor on an HTML element to highlight that element in the browser. Highlighting can be toggled on/off with Ctrl+Shift+C or \u21E7\u2318C. Support is currently limited to files with saved changes."
             },
             {
                 "name": "New Toolbar",
