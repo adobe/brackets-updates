@@ -1,5 +1,26 @@
 [
     {
+        "buildNumber": 6726,
+        "versionString": "Sprint 23",
+        "dateString": "10-04-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-23",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Surlignement HTML avec l'Aperçu en direct",
+                "description": "En mode Aperçu en direct, placez votre curseur sur un élément HTML pour le surligner dans le navigateur. Vous pouvez activer/désactiver le surlignement en appuyant sur Ctrl+Maj+C ou \u21E7\u2318C. Cette fonctionnalité est actuellement disponible uniquement pour les fichiers dont les changements ont été sauvegardés."
+            },
+            {
+                "name": "Nouvelle barre d'outils",
+                "description": "Une nouvelle barre d'outils a été créée dans Brackets sur le côté droit. Elle remplace la barre de titre et les menus HTML supérieurs. Vous trouverez sur cette barre d'outils les icones du module Aperçu en direct et des autres extensions."
+            },
+            {
+                "name": "Nouvelle version en Polonais et autres langues mises à jours",
+                "description": "Brackets est maintenant disponible en Polonais. Les traductions en Français, Allemand, Tchèque et Chinois ont été mises à jour."
+            }
+        ]
+    },
+    {
         "buildNumber": 6428,
         "versionString": "Sprint 22",
         "dateString": "22-03-2013",

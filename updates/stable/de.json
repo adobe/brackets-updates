@@ -15,10 +15,6 @@
                 "description": "Eine neue Symbolleiste ist jetzt rechts in Brackets angedockt. Sie ersetzt die obere Titelleiste und die HTML-Menüs. Symbole für Live-Vorschau und andere Erweiterungen können hier gefunden werden."
             },
             {
-                "name": "extend.brackets.io",
-                "description": "Durchsuchen und installieren Sie neue Brackets-Funktionen auf https://extend.brackets.io, einem zentralen Repository für von der Community erstellte Brackets-Erweiterungen."
-            },
-            {
                 "name": "Neue Unterstützung für Polnisch und Sprach-Updates",
                 "description": "Eine neue polnische Übersetzung wurde für Brackets erstellt. Die Übersetzungen auf Französisch, Deutsch, Tschechisch und Chinesisch wurden auf den neusten Stand gebracht."
             }
