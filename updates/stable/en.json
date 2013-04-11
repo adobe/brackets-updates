@@ -15,10 +15,6 @@
                 "description": "A new toolbar is now docked on the right in Brackets. This replaces the top title bar and HTML menus. Icons for Live Preview and other extensions will be found here."
             },
             {
-                "name": "extend.brackets.io",
-                "description": "Browse and install new Brackets features at https://extend.brackets.io, a central repository for community-built Brackets extensions."
-            },
-            {
                 "name": "New Polish Support and Language Updates",
                 "description": "A new Polish translation has been created for Brackets. French, German, Czech and Chinese translations have been updated."
             }
