@@ -1,5 +1,26 @@
 [
     {
+        "buildNumber": 6726,
+        "versionString": "Sprint 23",
+        "dateString": "2013-04-10",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-23",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "ライブプレビューでの HTML ハイライト",
+                "description": "HTML エレメントをブラウザ内でハイライトするには、ライブプレビューモードでカーソルを HTML エレメントにあわせます。ハイライトのオン／オフを切り替えるには、Ctrl+Shift+C を押下するか \u21E7\u2318C と入力します。この機能は変更が保存されているファイルでのみ使用できます。"
+            },
+            {
+                "name": "新しいツールバー",
+                "description": "新しいツールバーが Brackets の右側にドックされ、上部のタイトルバーと HTML メニューがなくなりました。 このツールバーにはライブプレビュー他の拡張機能のアイコンが表示されます。"
+            },
+            {
+                "name": "ポーランド語のサポートおよび言語の更新",
+                "description": "Brackets にポーランド語が追加されました。また、フランス語、ドイツ語、チェコ語、中国語の翻訳が更新されました。"
+            }
+        ]
+    },
+    {
         "buildNumber": 6428,
         "versionString": "Sprint 22",
         "dateString": "2013-03-22",
