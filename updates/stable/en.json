@@ -29,6 +29,10 @@
             {
                 "name": "Project Panel Redesign",
                 "description": "Minor visual updates to the project panel."
+            },
+            {
+                "name": "Install Extension from Toolbar",
+                "description": "Click on the new Install Extension icon in the toolbar to install an extension. Click \"Browse Extensions\" to see our extension list."
             }
         ]
     },
