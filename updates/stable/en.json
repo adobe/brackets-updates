@@ -7,27 +7,27 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "NEW Quick View",
+                "name": "New Quick View",
                 "description": "Use your mouse to hover over color, gradient and image values for an in-editor preview."
             },
             {
-                "name": "NEW Quick Docs for CSS",
+                "name": "New Quick Docs for CSS",
                 "description": "Press Ctrl+K or \u2318K on a CSS property to view community generated documentation powered by WebPlatform.org."
             },
             {
                 "name": "Advanced JavaScript Code Intelligence",
-                "description": "New JavaScript code intelligence based on the tern.js projet. Increased code hinting accuracy, camelCase support and built-in intelligence for RequireJS and jQuery."
+                "description": "New JavaScript code intelligence based on the Tern projet. Increased code hinting accuracy, camelCase support and built-in intelligence for RequireJS and jQuery."
             },
             {
                 "name": "Jump To Definition",
-                "description": "Instantly locate a function or property definition in your project by pressing Ctrl+J or \u21E7J."
+                "description": "Instantly locate a function or property definition in your project by pressing Ctrl+J or \u2318J."
             },
             {
                 "name": "Function Argument / Signature Hints",
                 "description": "Press Ctrl+Space inside a function call's ()s to see information on its arguments and their types."
             },
             {
-                "name": "NEW Project Panel Design",
+                "name": "New Project Panel Design",
                 "description": "Visual updates to the project panel."
             }
             {
