@@ -7,27 +7,27 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Quick View for CSS colors, gradients, images",
+                "name": "Quick View for CSS Colors, Gradients and Images",
                 "description": "Hover over CSS code to see a popup preview of colors, gradients and images."
             },
             {
                 "name": "Quick Docs for CSS",
-                "description": "Press Ctrl+K or \u21E7K on a CSS property to see inline documentation from the Web Platform Docs project"
+                "description": "Press Ctrl+K or \u2318K on a CSS property to see inline documentation from the Web Platform Docs project"
             },
             {
-                "name": "Supercharged JavaScript code hints",
+                "name": "Supercharged JavaScript Code Hints",
                 "description": "Much more accurate code hints based on Tern type inferencing. Code hints even for items declared in other files! Now supports camelCase matching as well."
             },
             {
                 "name": "Jump to Definition",
-                "description": "Locate a function or property definition anywhere in your project, instantly by pressing Ctrl+J or \u21E7J."
+                "description": "Locate a function or property definition anywhere in your project, instantly by pressing Ctrl+J or \u2318J."
             },
             {
-                "name": "Function signature hints",
+                "name": "Function Signature Hints",
                 "description": "Press Ctrl+Space inside a function call's ()s to see information on its arguments and their types."
             },
             {
-                "name": "Project panel redesign",
+                "name": "Project Panel Redesign",
                 "description": "Minor visual updates to the project panel."
             }
         ]
