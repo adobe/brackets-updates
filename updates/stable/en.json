@@ -1,5 +1,5 @@
 [
-    {
+{
         "buildNumber": 7128,
         "versionString": "Sprint 24",
         "dateString": "04-26-2013",
@@ -7,32 +7,32 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Quick View for CSS Colors, Gradients and Images",
-                "description": "Hover over CSS code to see a popup preview of colors, gradients and images."
+                "name": "NEW Quick View",
+                "description": "Use your mouse to hover over color, gradient and image values for an in-editor preview."
             },
             {
-                "name": "Quick Docs for CSS",
-                "description": "Press Ctrl+K or \u2318K on a CSS property to see inline documentation from the Web Platform Docs project"
+                "name": "NEW Quick Docs for CSS",
+                "description": "Press Ctrl+K or \u2318K on a CSS property to view community generated documentation powered by WebPlatform.org."
             },
             {
-                "name": "Supercharged JavaScript Code Hints",
-                "description": "Much more accurate code hints based on Tern type inferencing. Code hints even for items declared in other files! Now supports camelCase matching as well."
+                "name": "Advanced JavaScript Code Intelligence",
+                "description": "New JavaScript code intelligence based on the tern.js projet. Increased code hinting accuracy, camelCase support and built-in intelligence for RequireJS and jQuery."
             },
             {
-                "name": "Jump to Definition",
-                "description": "Locate a function or property definition anywhere in your project, instantly by pressing Ctrl+J or \u2318J."
+                "name": "Jump To Definition",
+                "description": "Instantly locate a function or property definition in your project by pressing Ctrl+J or \u21E7J."
             },
             {
-                "name": "Function Signature Hints",
+                "name": "Function Argument / Signature Hints",
                 "description": "Press Ctrl+Space inside a function call's ()s to see information on its arguments and their types."
             },
             {
-                "name": "Project Panel Redesign",
-                "description": "Minor visual updates to the project panel."
-            },
+                "name": "NEW Project Panel Design",
+                "description": "Visual updates to the project panel."
+            }
             {
-                "name": "Install Extension from Toolbar",
-                "description": "Click on the new Install Extension icon in the toolbar to install an extension. Click \"Browse Extensions\" to see our extension list."
+                "name": "Install Extensions From Toolbar",
+                "description": "Install extensions directly from the toolbar."
             }
         ]
     },
