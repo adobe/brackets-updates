@@ -1,5 +1,42 @@
 [
     {
+        "buildNumber": 7204,
+        "versionString": "Sprint 24",
+        "dateString": "04-26-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-24",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Neue Schnellansicht",
+                "description": "Zeigen Sie mit der Maus auf Farbwerte, Farbverläufe und Bild-Werte, damit eine Inline-Vorschau angezeigt wird."
+            },
+            {
+                "name": "Neue Schnell-Dokumentation für CSS",
+                "description": "Drücken Sie Strg+K oder \u2318K bei einer CSS-Eigenschaft, um von die der Community geschriebene Dokumentation von WebPlatform.org anzuzeigen."
+            },
+            {
+                "name": "Erweiterte JavaScript-Code-Intelligenz",
+                "description": "Neue JavaScript-Code-Intelligenz, basierend auf dem Term-Project. Verbesserte Genauigkeit beim Code-Vorschlägen, Unterstützung für camelCase sowie eingebaute Intelligenz für RequireJS und jQuery."
+            },
+            {
+                "name": "Definition schnell finden",
+                "description": "Finden Sie eine Funktion oder Eigenschafts-Definition in Ihrem Projekt auf Anhieb, indem Sie Strg+J oder \u2318J drücken."
+            },
+            {
+                "name": "Vorschläge für Funktions-Argumente / Signaturen",
+                "description": "Drücken Sie Strg+Leertaste innerhalb der () eines Funktions-Aufrufs, um Informationen über die Argumente und ihre Datentypen zu erhalten."
+            },
+            {
+                "name": "Neues Design des Projekt-Panels",
+                "description": "Visuelle Updates für das Projekt-Panel."
+            },
+            {
+                "name": "Erweiterungen von Symbolleiste aus installieren",
+                "description": "Installieren Sie Erweiterungen direkt mithilfe der Symbolleiste."
+            }
+        ]
+    },
+    {
         "buildNumber": 6726,
         "versionString": "Sprint 23",
         "dateString": "04-10-2013",
