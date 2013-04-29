@@ -1,5 +1,63 @@
 [
     {
+        "buildNumber": 7128,
+        "versionString": "Sprint 24",
+        "dateString": "26-04-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-24",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Nouvel affichage rapide",
+                "description": "Placez le curseur de la souris sur des valeurs de couleurs, dégradés ou images pour afficher un aperçu intégré à l’éditeur."
+            },
+            {
+                "name": "Nouvelle documentation rapide pour CSS",
+                "description": "Effectuez la combinaison Ctrl+K ou \u2318K sur une propriété CSS pour afficher la documentation fournie par la communauté de WebPlatform.org."
+            },
+            {
+                "name": "Indicateurs de code JavaScript avancés",
+                "description": "Nouveaux indicateurs de code JavaScript basés sur le projet Tern. Indications de code plus précises, prise en charge de camelCase et informations intégrées sur RequireJS et jQuery."
+            },
+            {
+                "name": "Accès à la définition",
+                "description": "Localisez instantanément une définition de fonction ou de propriété dans votre projet avec Ctrl+J ou \u2318J."
+            },
+            {
+                "name": "Arguments des fonctions / Indicateurs de signature",
+                "description": "Utilisez Ctrl+Espace dans un appel de fonction ()s pour afficher des informations sur ses arguments et leurs types."
+            },
+            {
+                "name": "Nouveau visuel du panneau de projet",
+                "description": "Améliorations visuelles apportées au panneau de projet."
+            },
+            {
+                "name": "Installation d’extensions à partir de la barre d’outils",
+                "description": "Installez directement des extensions depuis la barre d’outils."
+            }
+        ]
+    },
+    {
+        "buildNumber": 6726,
+        "versionString": "Sprint 23",
+        "dateString": "10-04-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-23",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Surlignement HTML avec l'Aperçu en direct",
+                "description": "En mode Aperçu en direct, placez le curseur sur un élément HTML pour le surligner dans le navigateur. Vous pouvez activer/désactiver le surlignement en appuyant sur Ctrl+Maj+C ou \u21E7\u2318C. Cette fonctionnalité est actuellement disponible uniquement pour les fichiers dont les modifications ont été enregistrées."
+            },
+            {
+                "name": "Nouvelle barre d'outils",
+                "description": "Une nouvelle barre d'outils a été créée dans Brackets sur le côté droit. Elle remplace la barre de titre et les menus HTML supérieurs. Vous y trouverez les icônes du module Aperçu en direct et des autres extensions."
+            },
+            {
+                "name": "Nouvelle version en polonais et autres langues mises à jour",
+                "description": "Brackets est maintenant disponible en polonais. Les traductions en allemand, chinois, français et tchèque ont été mises à jour."
+            }
+        ]
+    },
+    {
         "buildNumber": 6428,
         "versionString": "Sprint 22",
         "dateString": "22-03-2013",

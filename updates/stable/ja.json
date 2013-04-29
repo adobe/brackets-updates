@@ -1,5 +1,63 @@
 [
     {
+        "buildNumber": 7128,
+        "versionString": "Sprint 24",
+        "dateString": "2013-04-26",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-24",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "新しいクイックビュー",
+                "description": "マウスを使用して色、グラデーション、画像の値でホバーすると、エディター内でプレビューが表示されるようになりました。"
+            },
+            {
+                "name": "新しい CSS 対応クイックドキュメント",
+                "description": "CSS プロパティで Ctrl + K キーまたは \u2318K を押すと、コミュニティによって作成された WebPlatform.org 準拠のドキュメントが表示されるようになりました。"
+            },
+            {
+                "name": "高度な JavaScript コードインテリジェンス",
+                "description": "Tern プロジェクトに基づいた JavaScript コードインテリジェンスが新たに追加されました。 コードヒントの精度、camelCase のサポート、RequireJS および jQuery 対応の組み込みインテリジェンスが向上しました。"
+            },
+            {
+                "name": "定義にジャンプ",
+                "description": "Ctrl + J キーまたは \u2318J を押すことで、プロジェクト内の関数やプロパティの定義に瞬時に移動できるようになりました。"
+            },
+            {
+                "name": "関数の引数 / シグネチャヒント",
+                "description": "関数呼び出し () 内で Ctrl + Space キーを押すと、その関数の引数とそれらの引数の型に関する情報が表示されるようになりました。"
+            },
+            {
+                "name": "プロジェクトパネルのデザインが一新",
+                "description": "プロジェクトパネルの外観が更新されました。"
+            },
+            {
+                "name": "ツールバーから拡張機能をインストール",
+                "description": "ツールバーから拡張機能をインストールできるようになりました。"
+            }
+        ]
+    },
+    {
+        "buildNumber": 6726,
+        "versionString": "Sprint 23",
+        "dateString": "2013-04-10",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-23",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "ライブプレビューでの HTML ハイライト",
+                "description": "HTML エレメントをブラウザ内でハイライトするには、ライブプレビューモードでカーソルを HTML エレメントにあわせます。ハイライトのオン／オフを切り替えるには、Ctrl+Shift+C を押下するか \u21E7\u2318C と入力します。この機能は変更が保存されているファイルでのみ使用できます。"
+            },
+            {
+                "name": "新しいツールバー",
+                "description": "新しいツールバーが Brackets の右側にドックされ、上部のタイトルバーと HTML メニューがなくなりました。 このツールバーにはライブプレビューなどの拡張機能のアイコンが表示されます。"
+            },
+            {
+                "name": "ポーランド語のサポートおよび既存言語の更新",
+                "description": "Brackets にポーランド語が追加されました。また、フランス語、ドイツ語、チェコ語、中国語の翻訳が更新されました。"
+            }
+        ]
+    },
+    {
         "buildNumber": 6428,
         "versionString": "Sprint 22",
         "dateString": "2013-03-22",

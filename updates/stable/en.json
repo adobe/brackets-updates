@@ -1,6 +1,43 @@
 [
     {
-        "buildNumber": 6642,
+        "buildNumber": 7128,
+        "versionString": "Sprint 24",
+        "dateString": "04-26-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-24",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "New Quick View",
+                "description": "Use your mouse to hover over color, gradient and image values for an in-editor preview."
+            },
+            {
+                "name": "New Quick Docs for CSS",
+                "description": "Press Ctrl+K or \u2318K on a CSS property to view community generated documentation powered by WebPlatform.org."
+            },
+            {
+                "name": "Advanced JavaScript Code Intelligence",
+                "description": "New JavaScript code intelligence based on the Tern projet. Increased code hinting accuracy, camelCase support and built-in intelligence for RequireJS and jQuery."
+            },
+            {
+                "name": "Jump To Definition",
+                "description": "Instantly locate a function or property definition in your project by pressing Ctrl+J or \u2318J."
+            },
+            {
+                "name": "Function Argument / Signature Hints",
+                "description": "Press Ctrl+Space inside a function call's ()s to see information on its arguments and their types."
+            },
+            {
+                "name": "New Project Panel Design",
+                "description": "Visual updates to the project panel."
+            },
+            {
+                "name": "Install Extensions From Toolbar",
+                "description": "Install extensions directly from the toolbar."
+            }
+        ]
+    },
+    {
+        "buildNumber": 6726,
         "versionString": "Sprint 23",
         "dateString": "04-10-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-23",
@@ -13,10 +50,6 @@
             {
                 "name": "New Toolbar",
                 "description": "A new toolbar is now docked on the right in Brackets. This replaces the top title bar and HTML menus. Icons for Live Preview and other extensions will be found here."
-            },
-            {
-                "name": "extend.brackets.io",
-                "description": "Browse and install new Brackets features at https://extend.brackets.io, a central repository for community-built Brackets extensions."
             },
             {
                 "name": "New Polish Support and Language Updates",
