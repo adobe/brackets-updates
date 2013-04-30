@@ -16,15 +16,15 @@
             },
             {
                 "name": "Advanced JavaScript Code Intelligence",
-                "description": "New JavaScript code intelligence based on the Tern projet. Increased code hinting accuracy, camelCase support and built-in intelligence for RequireJS and jQuery."
+                "description": "New JavaScript code intelligence based on the Tern project. Increased code hinting accuracy, camelCase support and built-in intelligence for RequireJS and jQuery."
             },
             {
                 "name": "Jump To Definition",
-                "description": "Instantly locate a function or property definition in your project by pressing Ctrl+J or \u2318J."
+                "description": "Instantly locate a JavaScript function or property definition in your project by pressing Ctrl+J or \u2318+J on an identifier."
             },
             {
                 "name": "Function Argument / Signature Hints",
-                "description": "Press Ctrl+Space inside a function call's ()s to see information on its arguments and their types."
+                "description": "Press Ctrl+Space or \u2318+Space inside a JavaScript function call's ()s to see information on its arguments and their types."
             },
             {
                 "name": "New Project Panel Design",
