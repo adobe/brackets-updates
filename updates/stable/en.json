@@ -8,11 +8,11 @@
         "newFeatures": [
             {
                 "name": "Extension Manager",
-                "description": "From the toolbar icon or File > Extension Manager\u2026 you can view, search and remove installed extensions."
+                "description": "From the toolbar icon or File > Extension Manager\u2026 you can view, search and remove installed extensions. To install new extensions, use the Install from URL\u2026 button in the Extension Manager."
             },
             {
                 "name": "Delete Files/Folders",
-                "description": "Files and folders can be deleted the file tree using the context menu or File > Delete."
+                "description": "Files and folders can be deleted from the file tree using the context menu or File > Delete."
             },
             {
                 "name": "Show in OS",
@@ -23,8 +23,8 @@
                 "description": "On all platforms, if Live Preview is disconnected, Brackets will show a notification. On Windows, launching and finding Chrome is now more reliable."
             },
             {
-                "name": "JavaScript Quick Edit Performance",
-                "description": "Quick Edit for JavaScript now uses Tern for faster, more accurate results which are consistent with the new JavaScript code hints introduced in Sprint 24."
+                "name": "JavaScript Code Intelligence Improvements",
+                "description": "Performance optimizations and bug fixes were made for JavaScript Quick Edit, code hinting and typing."
             }
         ]
     },
