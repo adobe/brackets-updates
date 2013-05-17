@@ -1,5 +1,34 @@
 [
     {
+        "buildNumber": 7567,
+        "versionString": "Sprint 25",
+        "dateString": "05-21-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-25",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Extension Manager",
+                "description": "From the toolbar icon or File > Extension Manager\u2026 you can view, search and remove installed extensions."
+            },
+            {
+                "name": "Delete Files/Folders",
+                "description": "Files and folders can be deleted the file tree using the context menu or File > Delete."
+            },
+            {
+                "name": "Show in OS",
+                "description": "Right click on a file or folder and choose Show in OS to open the location in Mac Finder or Windows Explorer."
+            },
+            {
+                "name": "Live Preview Reliability",
+                "description": "On all platforms, if Live Preview is disconnected, Brackets will show a notification. On Windows, launching and finding Chrome is now more reliable."
+            },
+            {
+                "name": "JavaScript Quick Edit Performance",
+                "description": "Quick Edit for JavaScript now uses Tern for faster, more accurate results which are consistent with the new JavaScript code hints introduced in Sprint 24."
+            }
+        ]
+    },
+    {
         "buildNumber": 7204,
         "versionString": "Sprint 24",
         "dateString": "04-26-2013",
@@ -16,7 +45,7 @@
             },
             {
                 "name": "Advanced JavaScript Code Intelligence",
-                "description": "New JavaScript code intelligence based on the Tern projet. Increased code hinting accuracy, camelCase support and built-in intelligence for RequireJS and jQuery."
+                "description": "New JavaScript code intelligence based on the Tern project. Increased code hinting accuracy, camelCase support and built-in intelligence for RequireJS and jQuery."
             },
             {
                 "name": "Jump To Definition",
