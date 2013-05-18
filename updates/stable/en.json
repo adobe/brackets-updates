@@ -24,7 +24,11 @@
             },
             {
                 "name": "JavaScript Code Intelligence Improvements",
-                "description": "Performance optimizations and bug fixes were made for JavaScript Quick Edit, code hinting and typing."
+                "description": "JavaScript Quick Edit now uses the Tern-based code intelligence engine for finding function definitions. Also, bug fixes and performance optimizations were made in JavaScript code hinting."
+            },
+            {
+                "name": "Typing Performance",
+                "description": "A substantial typing performance regression has been fixed."
             }
         ]
     },
