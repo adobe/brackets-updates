@@ -19,6 +19,10 @@
                 "description": "Right click on a file or folder and choose Show in OS to open the location in Mac Finder or Windows Explorer."
             },
             {
+                "name": "Refresh File Tree",
+                "description": "Right-click on the file tree and choose Refresh to update the file list from disk."
+            },
+            {
                 "name": "Live Preview Reliability",
                 "description": "On all platforms, if Live Preview is disconnected, Brackets will show a notification. On Windows, launching and finding Chrome is now more reliable."
             },
