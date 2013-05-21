@@ -1,5 +1,42 @@
 [
     {
+        "buildNumber": 7567,
+        "versionString": "Sprint 25",
+        "dateString": "21-05-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-25",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Extension Manager",
+                "description": "A partir de l’icône de la barre d’outils ou de Fichier > Extension Manager\u2026, vous pouvez afficher, rechercher et supprimer des extensions installées. Pour installer de nouvelles extensions, utilisez le bouton Installer à partir de l’URL\u2026 dans Extension Manager."
+            },
+            {
+                "name": "Suppression de fichiers/dossiers",
+                "description": "Les fichiers et dossiers peuvent être supprimés de l’arborescence des fichiers via le menu contextuel ou Fichier > Supprimer."
+            },
+            {
+                "name": "Affichage dans le SE",
+                "description": "Effectuez un clic droit sur un fichier ou un dossier et choisissez l’option Afficher dans le SE pour ouvrir l’emplacement dans Mac Finder ou l’Explorateur Windows."
+            },
+            {
+                "name": "Actualisation de l’arborescence des fichiers",
+                "description": "Effectuez un clic droit sur l’arborescence des fichiers et sélectionnez Actualiser pour mettre à jour la liste de fichiers à partir du disque."
+            },
+            {
+                "name": "Fiabilité de l’Aperçu en direct",
+                "description": "Sur toutes les plates-formes, Brackets affiche une notification lorsque le module Aperçu en direct est déconnecté. Sous Windows, vous pouvez maintenant lancer et accéder à Chrome de façon plus fiable."
+            },
+            {
+                "name": "Amélioration des indicateurs de code JavaScript",
+                "description": "L’édition rapide JavaScript Quick utilise maintenant un moteur d’indications de code intelligent basé sur Tern pour accéder aux définitions des fonctions. Par ailleurs, des correctifs et des améliorations en termes de performances ont été apportées aux indicateurs de code JavaScript."
+            },
+            {
+                "name": "Performances de saisie",
+                "description": "Une importante régression en termes de performances de saisie a été résolue."
+            }
+        ]
+    },
+    {
         "buildNumber": 7204,
         "versionString": "Sprint 24",
         "dateString": "26-04-2013",

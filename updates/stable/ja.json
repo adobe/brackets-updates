@@ -1,5 +1,42 @@
 [
     {
+        "buildNumber": 7567,
+        "versionString": "Sprint 25",
+        "dateString": "2013-05-21",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-25",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Extension Manager",
+                "description": "ツールバーアイコンまたはファイル／Extension Manager\u2026 から、インストールした拡張機能を表示、検索、削除できるようになりました。 新しい拡張機能をインストールするには、Extension Manager の「URL からインストール\u2026」ボタンを使用します。"
+            },
+            {
+                "name": "ファイルまたはフォルダーを削除",
+                "description": "コンテキストメニューまたはファイル／削除を使用して、ファイルツリーからファイルまたはフォルダーを削除できるようになりました。"
+            },
+            {
+                "name": "OS で表示",
+                "description": "ファイルまたはフォルダーを右クリックし、「OS で表示」を選択すると、Mac Finder または Windows エクスプローラーで開くようになりました。"
+            },
+            {
+                "name": "ファイルツリーを更新",
+                "description": "ファイルツリーを右クリックし、更新を選択すると、ファイルリストが更新されるようになりました。"
+            },
+            {
+                "name": "ライブプレビューの信頼性",
+                "description": "すべてのプラットフォームで、ライブプレビューが切断されると Brackets が通知を表示するようになりました。 Windows では Chrome における起動と検索の信頼性が高まりました。"
+            },
+            {
+                "name": "JavaScript コードインテリジェンスの改善",
+                "description": "JavaScript のクイック編集でターンベースコードインテリジェンスエンジンを使用することで、関数の定義を見つけられるようになりました。 JavaScript コードヒントのバグ修正とパフォーマンスの効率化も行われました。"
+            },
+            {
+                "name": "タイピングパフォーマンス",
+                "description": "タイピングパフォーマンスの重大な不具合が修正されました。"
+            }
+        ]
+    },
+    {
         "buildNumber": 7204,
         "versionString": "Sprint 24",
         "dateString": "2013-04-26",
