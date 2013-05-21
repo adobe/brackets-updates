@@ -49,7 +49,7 @@
             },
             {
                 "name": "Erweiterte JavaScript-Code-Intelligenz",
-                "description": "Neue JavaScript-Code-Intelligenz, basierend auf dem Term-Project. Verbesserte Genauigkeit bei Code-Vorschlägen, Unterstützung für camelCase sowie eingebaute Intelligenz für RequireJS und jQuery."
+                "description": "Neue JavaScript-Code-Intelligenz, basierend auf dem Tern-Project. Verbesserte Genauigkeit bei Code-Vorschlägen, Unterstützung für camelCase sowie eingebaute Intelligenz für RequireJS und jQuery."
             },
             {
                 "name": "Definition schnell finden",
