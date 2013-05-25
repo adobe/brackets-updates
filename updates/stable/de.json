@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 7567,
+        "versionString": "Sprint 25",
+        "dateString": "05-21-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-25",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Erweiterungs-Verwaltung",
+                "description": "Mit dem Symbolleisten-Icon oder über Datei > Erweiterungs-Verwaltung\u2026 können Sie installierte Erweiterungen anzeigen, suchen und entfernen. Um neue Erweiterungen zu installieren, verwenden Sie die Schaltfläche Von URL installieren\u2026 in der Erweiterungs-Verwaltung."
+            },
+            {
+                "name": "Dateien/Ordner löschen",
+                "description": "Dateien und Ordner können mit dem Kontextmenü oder über Datei > Löschen aus dem Dateibaum gelöscht werden."
+            },
+            {
+                "name": "Im Betriebssystem anzeigen",
+                "description": "Klicken Sie mit der rechten Maustaste auf eine Datei oder einen Ordner, und wählen Sie Im Betriebssystem anzeigen, um den Pfad im Mac-Finder oder Windows-Explorer anzuzeigen."
+            },
+            {
+                "name": "Verlässlichkeit der Live-Vorschau",
+                "description": "Auf allen Plattformen zeigt Brackets eine Benachrichtigung an, wenn die Live-Vorschau getrennt wird. In Windows ist das Starten und Finden von Chome jetzt verlässlicher."
+            },
+            {
+                "name": "Verbesserungen für die JavaScript-Code-Intelligenz",
+                "description": "Das schnelle Bearbeiten von JavaScript verwendet jetzt die Tern-basierte Code-Intelligenz-Engine, um Funktions-Definitionen zu finden. Außerdem haben wir Fehler in den JavaScript-Code-Vorschlägen behoben und die Geschwindigkeit optimiert."
+            },
+            {
+                "name": "Eingabe-Performance",
+                "description": "Ein Fehler wurde behoben, der die Eingabegeschwindigkeit merklich verlangsamte."
+            }
+        ]
+    },
+    {
         "buildNumber": 7204,
         "versionString": "Sprint 24",
         "dateString": "04-26-2013",
@@ -16,7 +49,7 @@
             },
             {
                 "name": "Erweiterte JavaScript-Code-Intelligenz",
-                "description": "Neue JavaScript-Code-Intelligenz, basierend auf dem Term-Project. Verbesserte Genauigkeit beim Code-Vorschlägen, Unterstützung für camelCase sowie eingebaute Intelligenz für RequireJS und jQuery."
+                "description": "Neue JavaScript-Code-Intelligenz, basierend auf dem Tern-Project. Verbesserte Genauigkeit bei Code-Vorschlägen, Unterstützung für camelCase sowie eingebaute Intelligenz für RequireJS und jQuery."
             },
             {
                 "name": "Definition schnell finden",
