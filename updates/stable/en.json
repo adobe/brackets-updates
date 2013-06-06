@@ -1,5 +1,30 @@
 [
     {
+        "buildNumber": 7933,
+        "versionString": "Sprint 26",
+        "dateString": "06-10-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-26",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Update Installed Extensions",
+                "description": "Extension Manager can now update an installed extension without manually uninstalling the extension first."
+            },
+            {
+                "name": "New Status Bar Design",
+                "description": "Visual updates to the status bar including new icons for JSLint validation."
+            },
+            {
+                "name": "URL Hints in CSS",
+                "description": "In an @import or url() statement, code hints will show relative paths to files in your project."
+            },
+            {
+                "name": "OK/Cancel Dialog Buttons on Windows",
+                "description": "OK and Cancel buttons in dialogs now display in the correct order. Previously the order was reversed."
+            }
+        ]
+    },
+    {
         "buildNumber": 7701,
         "versionString": "Sprint 25",
         "dateString": "05-26-2013",
