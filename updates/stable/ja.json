@@ -1,6 +1,39 @@
 [
     {
-        "buildNumber": 7690,
+        "buildNumber": 7933,
+        "versionString": "Sprint 26",
+        "dateString": "2013-06-10",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-26",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Update Installed Extensions",
+                "description": "Extension Manager can now update an installed extension without manually uninstalling the extension first."
+            },
+            {
+                "name": "New Status Bar Design",
+                "description": "Visual updates to the status bar including new icons for JSLint validation."
+            },
+            {
+                "name": "Show/Hide JSLint Errors",
+                "description": "When JSLint errors are present, click on the status icon in the status bar to show/hide the JSLint panel."
+            },
+            {
+                "name": "URL Hints in CSS",
+                "description": "In an @import or url() statement, code hints will show relative paths to files in your project."
+            },
+            {
+                "name": "OK/Cancel Dialog Buttons on Windows",
+                "description": "OK and Cancel buttons in dialogs now display in the correct order. Previously the order was reversed."
+            },
+            {
+                "name": "Architecture: jQuery, Bootstrap and LESS updates",
+                "description": "Under the hood, Brackets is now using newer versions of jQuery, Bootstrap and LESS. There are no significant user-facing changes, but please do report bugs if you experience any problems."
+            }
+        ]
+    },
+    {
+        "buildNumber": 7701,
         "versionString": "Sprint 25",
         "dateString": "2013-05-21",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-25",
