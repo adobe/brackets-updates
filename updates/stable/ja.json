@@ -1,34 +1,34 @@
 [
     {
-        "buildNumber": 7933,
+        "buildNumber": 8032,
         "versionString": "Sprint 26",
         "dateString": "2013-06-10",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-26",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Update Installed Extensions",
-                "description": "Extension Manager can now update an installed extension without manually uninstalling the extension first."
+                "name": "インストールされた拡張機能のアップデート",
+                "description": "Extension Manager でインストールされた拡張機能をアップデートする際、先に拡張機能を手動でアンインストールする必要がなくなりました。"
             },
             {
-                "name": "New Status Bar Design",
-                "description": "Visual updates to the status bar including new icons for JSLint validation."
+                "name": "新しいステータスバーデザイン",
+                "description": "JSLint 検証用の新しいアイコンなど、ステータスバーのデザインを更新しました。"
             },
             {
-                "name": "Show/Hide JSLint Errors",
-                "description": "When JSLint errors are present, click on the status icon in the status bar to show/hide the JSLint panel."
+                "name": "JSLint エラーの表示／非表示の切り替え",
+                "description": "JSLint エラーが存在するとき、ステータスバーのステータスアイコンをクリックすることで JSLint パネルの表示／非表示を切り替えられるようになりました。"
             },
             {
-                "name": "URL Hints in CSS",
-                "description": "In an @import or url() statement, code hints will show relative paths to files in your project."
+                "name": "CSS の URL ヒント",
+                "description": "@import または	url() ステートメントで、コードヒントがプロジェクトのファイルの相対パスを表示するようになりました。"
             },
             {
-                "name": "OK/Cancel Dialog Buttons on Windows",
-                "description": "OK and Cancel buttons in dialogs now display in the correct order. Previously the order was reversed."
+                "name": "（Windows）ダイアログの「OK」と「キャンセル」ボタン",
+                "description": "ダイアログの「OK」と「キャンセル」が適切な順序で表示されるようになりました。 以前は逆の順序で表示されていました。"
             },
             {
-                "name": "Architecture: jQuery, Bootstrap and LESS updates",
-                "description": "Under the hood, Brackets is now using newer versions of jQuery, Bootstrap and LESS. There are no significant user-facing changes, but please do report bugs if you experience any problems."
+                "name": "アーキテクチャ：jQuery、ブートストラップおよび LESS の更新",
+                "description": "内部的に、Brackets は jQuery、ブートストラップおよび LESS の新しいバージョンを使用しています。 ユーザーの皆様の目に見える大きな変更はありませんが、この件に関して問題が発生した場合はぜひご報告ください。"
             }
         ]
     },
