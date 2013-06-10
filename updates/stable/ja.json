@@ -1,6 +1,39 @@
 [
     {
-        "buildNumber": 7690,
+        "buildNumber": 8032,
+        "versionString": "Sprint 26",
+        "dateString": "2013-06-10",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-26",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "インストールされた拡張機能のアップデート",
+                "description": "Extension Manager でインストールされた拡張機能をアップデートする際、先に拡張機能を手動でアンインストールする必要がなくなりました。"
+            },
+            {
+                "name": "新しいステータスバーデザイン",
+                "description": "JSLint 検証用の新しいアイコンなど、ステータスバーのデザインを更新しました。"
+            },
+            {
+                "name": "JSLint エラーの表示／非表示の切り替え",
+                "description": "JSLint エラーが存在するとき、ステータスバーのステータスアイコンをクリックすることで JSLint パネルの表示／非表示を切り替えられるようになりました。"
+            },
+            {
+                "name": "CSS の URL ヒント",
+                "description": "@import または	url() ステートメントで、コードヒントがプロジェクトのファイルの相対パスを表示するようになりました。"
+            },
+            {
+                "name": "（Windows）ダイアログの「OK」と「キャンセル」ボタン",
+                "description": "ダイアログの「OK」と「キャンセル」が適切な順序で表示されるようになりました。 以前は逆の順序で表示されていました。"
+            },
+            {
+                "name": "アーキテクチャ：jQuery、ブートストラップおよび LESS の更新",
+                "description": "内部的に、Brackets は jQuery、ブートストラップおよび LESS の新しいバージョンを使用しています。 ユーザーの皆様の目に見える大きな変更はありませんが、この件に関して問題が発生した場合はぜひご報告ください。"
+            }
+        ]
+    },
+    {
+        "buildNumber": 7701,
         "versionString": "Sprint 25",
         "dateString": "2013-05-21",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-25",

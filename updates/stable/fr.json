@@ -1,6 +1,39 @@
 [
     {
-        "buildNumber": 7690,
+        "buildNumber": 8032,
+        "versionString": "Sprint 26",
+        "dateString": "10-06-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-26",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Mise à jour d’extensions installées",
+                "description": "Extension Manager permet maintenant de mettre à jour une extension installée sans procéder au préalable à une désinstallation manuelle de l’extension."
+            },
+            {
+                "name": "Nouvelle apparence de la barre d’état",
+                "description": "Des améliorations visuelles ont été apportées à la barre d’état, avec notamment de nouvelles icônes pour la validation JSLint."
+            },
+            {
+                "name": "Afficher/Masquer les erreurs JSLint",
+                "description": "En cas d’erreurs JSLint, cliquez sur l’icône d’état dans la barre d’état pour afficher/masquer le panneau JSLint."
+            },
+            {
+                "name": "Indicateurs d’URL pour CSS",
+                "description": "Lorsque vous utilisez une déclaration @import ou url(), des indicateurs de code affichent les chemins relatifs des fichiers de votre projet."
+            },
+            {
+                "name": "Boutons OK/Annuler des boîtes de dialogue sous Windows",
+                "description": "Les boutons OK et Annuler des boîtes de dialogue s’affichent maintenant dans le bon ordre. Leurs positions étaient auparavant inversées."
+            },
+            {
+                "name": "Architecture : mises à jour de jQuery, Bootstrap et LESS",
+                "description": "Brackets fonctionne à présent avec des versions plus récentes de jQuery, Bootstrap et LESS. Cela n’entraîne pas de changements significatifs pour l’utilisateur, mais n’hésitez pas à signaler tout problème rencontré."
+            }
+        ]
+    },
+    {
+        "buildNumber": 7701,
         "versionString": "Sprint 25",
         "dateString": "21-05-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-25",
@@ -135,7 +168,7 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Indicateurs de code JavaScript :",
+                "name": "Indicateurs de code JavaScript :",
                 "description": "Les nouveaux indicateurs de code JavaScript comprennent des mots-clés, des variables locales, des arguments et des noms de propriétés."
             },
             {
@@ -164,8 +197,8 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Mise à niveau vers CodeMirror 3",
-                "description": "L’éditeur de code principal a été mis à jour vers CodeMirror 3, ce qui a résolu plusieurs problèmes et permis l’ajout de nouvelles fonctionnalités."
+                "name": "Mise à niveau vers CodeMirror 3",
+                "description": "L’éditeur de code principal a été mis à jour vers CodeMirror 3, ce qui a résolu plusieurs problèmes et permis l’ajout de nouvelles fonctionnalités."
             },
             {
                 "name": "Amélioration des fonctions Annuler/Répéter",
@@ -281,7 +314,7 @@
             },
             {
                 "name": "Extensions stockées en dehors du dossier d’application",
-                "description": "Les extensions sont désormais stockées par utilisateur. Windows : C:\\Utilisateurs\\<utilisateur>\\AppData\\Roaming\\Brackets\\extensions. Mac : /Users/<utilisateur>/Library/Application Support/Brackets/extensions."
+                "description": "Les extensions sont désormais stockées par utilisateur. Windows : C:\\Utilisateurs\\<utilisateur>\\AppData\\Roaming\\Brackets\\extensions. Mac : /Users/<utilisateur>/Library/Application Support/Brackets/extensions."
             },
             {
                 "name": "Tri et réorganisation de l’ensemble de documents de travail",
@@ -293,7 +326,7 @@
             },
             {
                 "name": "Fonction d’ouverture rapide améliorée",
-                "description": "Désormais, la fonction Ouverture rapide fait porter la recherche sur le chemin d’accès complet (et non simplement sur le nom de fichier) ; elle accepte également les abréviations CamelCase et les résultats non contigus."
+                "description": "Désormais, la fonction Ouverture rapide fait porter la recherche sur le chemin d’accès complet (et non simplement sur le nom de fichier) ; elle accepte également les abréviations CamelCase et les résultats non contigus."
             }
         ]
     },
@@ -358,7 +391,7 @@
         "downloadURL": "https://github.com/adobe/brackets/downloads",
         "newFeatures": [
             {
-                "name": "Nouvelle police de l’Editeur : Source Code Pro",
+                "name": "Nouvelle police de l’Editeur : Source Code Pro",
                 "description": "Brackets utilise désormais une nouvelle police monospace gratuite, appelée Source Code Pro."
             },
             {
