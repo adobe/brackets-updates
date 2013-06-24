@@ -1,5 +1,26 @@
 [
     {
+        "buildNumber": 8201,
+        "versionString": "Sprint 27",
+        "dateString": "06-26-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-27",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Save As",
+                "description": "Create a new file from an existing file using the File > Save As\u2026 menu, project tree context menu, or with the keyboard shortcut Ctrl+Shift+S or \u21E7\u2318S."
+            },
+            {
+                "name": "Updated Quick View Gradient Support",
+                "description": "Quick View for gradients now supports the \"to\" keyword for gradient direction and new repeating-linear-gradient and repeating-radial-gradient types."
+            },
+            {
+                "name": "New Hungarian Support and Language Updates",
+                "description": "A new Hungarian translation has been created for Brackets. French, Czech and Spanish translations have been updated."
+            }
+        ]
+    },
+    {
         "buildNumber": 8034,
         "versionString": "Sprint 26",
         "dateString": "06-10-2013",
