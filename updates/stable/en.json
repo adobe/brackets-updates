@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Save As",
-                "description": "Create a new file from an existing file using the File > Save As\u2026 menu, project tree context menu, or with the keyboard shortcut Ctrl+Shift+S or \u21E7\u2318S."
+                "description": "Save a copy of a file using the File > Save As\u2026 menu, project tree context menu, or with the keyboard shortcut Ctrl+Shift+S or \u21E7\u2318S."
             },
             {
                 "name": "Updated Quick View Gradient Support",
@@ -17,6 +17,10 @@
             {
                 "name": "New Hungarian Support and Language Updates",
                 "description": "A new Hungarian translation has been created for Brackets. French, Czech and Spanish translations have been updated."
+            },
+            {
+                "name": "Architecture: CEF updates",
+                "description": "Under the hood, Brackets is now using a new version of the Chromium Embedded Framework. There are no significant user-facing changes, but please do report bugs if you experience any problems."
             }
         ]
     },
