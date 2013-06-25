@@ -19,7 +19,7 @@
                 "description": "A new Hungarian translation has been created for Brackets. French, Czech and Spanish translations have been updated."
             },
             {
-                "name": "Architecture: CEF updates",
+                "name": "New Native Shell",
                 "description": "Under the hood, Brackets is now using a new version of the Chromium Embedded Framework. There are no significant user-facing changes, but please do report bugs if you experience any problems."
             }
         ]
