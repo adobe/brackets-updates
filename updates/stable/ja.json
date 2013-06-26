@@ -1,26 +1,26 @@
-[
+﻿[
     {
         "buildNumber": 8201,
         "versionString": "Sprint 27",
-        "dateString": "06-26-2013",
+        "dateString": "2013-06-26",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-27",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Save As",
-                "description": "Save a copy of a file using the File > Save As\u2026 menu, project tree context menu, or with the keyboard shortcut Ctrl+Shift+S or \u21E7\u2318S."
+                "name": "名前を付けて保存",
+                "description": "ファイル／名前を付けて保存\u2026 メニュー、プロジェクトツリーのコンテキストメニュー、またはキーボードショートカット（Ctrl+Shift+S または \\u21E7u2318S）で、ファイルのコピーを保存できます。"
             },
             {
-                "name": "Updated Quick View Gradient Support",
-                "description": "Quick View for gradients now supports the \"to\" keyword for gradient direction and new repeating-linear-gradient and repeating-radial-gradient types."
+                "name": "クイックビューのグラデーションサポートの更新",
+                "description": "グラデーションのクイックビューが改善され、グラデーションの方向を設定する「to」キーワードや、新しい線状反復グラデーションおよび放射状反復グラデーションをサポートするようになりました。"
             },
             {
-                "name": "New Hungarian Support and Language Updates",
-                "description": "A new Hungarian translation has been created for Brackets. French, Czech and Spanish translations have been updated."
+                "name": "ハンガリー語の新規サポートと既存言語の更新",
+                "description": "ハンガリー語の翻訳が Brackets 用に行われました。 フランス語、チェコ語、スペイン語の翻訳が更新されました。"
             },
             {
-                "name": "New Native Shell",
-                "description": "Under the hood, Brackets is now using a new version of the Chromium Embedded Framework. There are no significant user-facing changes, but please do report bugs if you experience any problems."
+                "name": "新しいネイティブシェル",
+                "description": "内部的に、Brackets は Chromium Embedded Framework の新しいバージョンを使用しています。 ユーザーの皆様の目に見える大きな変更はありませんが、この件に関して問題が発生した場合はぜひご報告ください。"
             }
         ]
     },

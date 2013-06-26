@@ -1,26 +1,26 @@
-[
+﻿[
     {
         "buildNumber": 8201,
         "versionString": "Sprint 27",
-        "dateString": "06-26-2013",
+        "dateString": "26-06-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-27",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Save As",
-                "description": "Save a copy of a file using the File > Save As\u2026 menu, project tree context menu, or with the keyboard shortcut Ctrl+Shift+S or \u21E7\u2318S."
+                "name": "Enregistrer sous",
+                "description": "Enregistrez une copie d’un fichier en utilisant le menu Fichier > Enregistrer sous\u2026, le menu contextuel de l’arborescence du projet ou le raccourci clavier Ctrl+Maj+S ou \\u21E7u2318S."
             },
             {
-                "name": "Updated Quick View Gradient Support",
-                "description": "Quick View for gradients now supports the \"to\" keyword for gradient direction and new repeating-linear-gradient and repeating-radial-gradient types."
+                "name": "Mise à jour de la fonction d’aperçu rapide pour les dégradés",
+                "description": "La fonction d’aperçu rapide des dégradés prend maintenant en charge le mot-clé « to » indiquant la direction du dégradé, ainsi que les nouveaux types de dégradé repeating-linear-gradient et repeating-radial-gradient."
             },
             {
-                "name": "New Hungarian Support and Language Updates",
-                "description": "A new Hungarian translation has been created for Brackets. French, Czech and Spanish translations have been updated."
+                "name": "Nouvelle version en hongrois et autres langues mises à jour",
+                "description": "Brackets est maintenant disponible en hongrois. Par ailleurs, les traductions en espagnol, français et tchèque ont été mises à jour."
             },
             {
-                "name": "New Native Shell",
-                "description": "Under the hood, Brackets is now using a new version of the Chromium Embedded Framework. There are no significant user-facing changes, but please do report bugs if you experience any problems."
+                "name": "Nouveau shell natif",
+                "description": "Brackets fonctionne à présent avec une nouvelle version de Chromium Embedded Framework. Cela n’entraîne pas de changements significatifs pour l’utilisateur, mais n’hésitez pas à signaler tout problème rencontré."
             }
         ]
     },
@@ -52,7 +52,7 @@
                 "description": "Les boutons OK et Annuler des boîtes de dialogue s’affichent maintenant dans le bon ordre. Leurs positions étaient auparavant inversées."
             },
             {
-                "name": "Architecture : mises à jour de jQuery, Bootstrap et LESS",
+                "name": "Architecture : mises à jour de jQuery, Bootstrap et LESS",
                 "description": "Brackets fonctionne à présent avec des versions plus récentes de jQuery, Bootstrap et LESS. Cela n’entraîne pas de changements significatifs pour l’utilisateur, mais n’hésitez pas à signaler tout problème rencontré."
             }
         ]
