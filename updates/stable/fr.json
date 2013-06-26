@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Enregistrer sous",
-                "description": "Enregistrez une copie d’un fichier en utilisant le menu Fichier > Enregistrer sous\u2026, le menu contextuel de l’arborescence du projet ou le raccourci clavier Ctrl+Maj+S ou \\u21E7u2318S."
+                "description": "Enregistrez une copie d’un fichier en utilisant le menu Fichier > Enregistrer sous\u2026, le menu contextuel de l’arborescence du projet ou le raccourci clavier Ctrl+Maj+S ou \u21E7\u2318S."
             },
             {
                 "name": "Mise à jour de la fonction d’aperçu rapide pour les dégradés",
