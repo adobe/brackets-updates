@@ -7,8 +7,8 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "OSX 10.6 Issue",
-                "description": "Do not upgrade if you are running OSX 10.6.x, Sprint 27 fails to load. Newer version of OSX are unaffected by this issue. We hope to fix this bug in Sprint 28. Sorry."
+                "name": "OS X 10.6 Issue",
+                "description": "Do not upgrade if you are running Mac OS X 10.6.x, Sprint 27 fails to load. Newer version of OS X are unaffected by this issue. We hope to fix this bug in Sprint 28. Sorry."
             },
             {
                 "name": "Save As",
