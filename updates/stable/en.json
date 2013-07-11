@@ -7,6 +7,10 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
+                "name": "OS X 10.6 Issue",
+                "description": "Do not upgrade if you are running Mac OS X 10.6.x, as Sprint 27 fails to load. Newer versions of OS X are unaffected by this issue. We hope to fix this bug in Sprint 28. Sorry."
+            },
+            {
                 "name": "Save As",
                 "description": "Save a copy of a file using the File > Save As\u2026 menu, project tree context menu, or with the keyboard shortcut Ctrl+Shift+S or \u21E7\u2318S."
             },
