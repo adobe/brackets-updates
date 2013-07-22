@@ -7,7 +7,7 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "OS X 10.6 (Snow Leopard) Issue",
+                "name": "Note: Does Not Launch on OS X 10.6",
                 "description": "Do not upgrade if you are running Mac OS X 10.6.x, as Sprints 27 and 28 will not launch. We've tracked down the cause and hope to fix it in Sprint 29. In the meantime, if you are on Snow Leopard, use Sprint 26 or earlier."
             },
             {
