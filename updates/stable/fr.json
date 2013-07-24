@@ -7,10 +7,6 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Remarque : impossible à exécuter sur OS X 10.6",
-                "description": "N’effectuez pas la mise à niveau sous Mac OS X 10.6.x, car les Sprints 27 et 28 ne pourront pas s’exécuter. Nous avons déterminé la source du problème et espérons pouvoir y remédier avec le Sprint 29. En attendant, avec Snow Leopard, utilisez le Sprint 26 ou une version antérieure."
-            },
-            {
                 "name": "Nouveau document sans nom",
                 "description": "La commande Fichier > Nouveau permet désormais de créer un document vide sans nom en mémoire, comme dans les autres éditeurs de texte ; il vous sera demandé d’indiquer un nom de fichier au moment de son enregistrement. Vous pouvez toujours créer directement un nouveau fichier sur le disque en sélectionnant Nouveau fichier dans le menu contextuel de l’arborescence de fichiers."
             },
