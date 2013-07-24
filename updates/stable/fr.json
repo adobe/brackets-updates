@@ -1,4 +1,33 @@
-﻿[
+[
+    {
+        "buildNumber": 8470,
+        "versionString": "Sprint 28",
+        "dateString": "07-25-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-28",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Remarque : impossible à exécuter sur OS X 10.6",
+                "description": "N’effectuez pas la mise à niveau sous Mac OS X 10.6.x, car les Sprints 27 et 28 ne pourront pas s’exécuter. Nous avons déterminé la source du problème et espérons pouvoir y remédier avec le Sprint 29. En attendant, avec Snow Leopard, utilisez le Sprint 26 ou une version antérieure."
+            },
+            {
+                "name": "Nouveau document sans nom",
+                "description": "La commande Fichier > Nouveau permet désormais de créer un document vide sans nom en mémoire, comme dans les autres éditeurs de texte ; il vous sera demandé d’indiquer un nom de fichier au moment de son enregistrement. Vous pouvez toujours créer directement un nouveau fichier sur le disque en sélectionnant Nouveau fichier dans le menu contextuel de l’arborescence de fichiers."
+            },
+            {
+                "name": "Installation d’extensions à partir du registre",
+                "description": "Extension Manager inclut maintenant un onglet dans lequel sont répertoriées toutes les extensions disponibles pour Brackets. En un clic, vous pouvez installer une extension à partir de cette liste ou mettre à jour une extension avec la dernière version disponible. Les développeurs peuvent charger des extensions dans le registre sur brackets-registry.aboutweb.com."
+            },
+            {
+                "name": "Glisser-déposer à partir d’OS",
+                "description": "Vous pouvez désormais faire glisser des fichiers depuis OS vers la fenêtre Brackets afin de les ouvrir. Vous pouvez également faire glisser un dossier vers la fenêtre Brackets afin de l’ouvrir dans la barre latérale."
+            },
+            {
+                "name": "Animations pour l’édition et l’affichage rapides",
+                "description": "Les vues Edition rapide s’animent à l’ouverture et à la fermeture, et la fenêtre contextuelle Affichage rapide présente un léger effet d’agrandissement."
+            }
+        ]
+    },
     {
         "buildNumber": 8254,
         "versionString": "Sprint 27",
