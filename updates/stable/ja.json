@@ -1,4 +1,33 @@
-﻿[
+[
+    {
+        "buildNumber": 8470,
+        "versionString": "Sprint 28",
+        "dateString": "2013-07-25",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-28",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "注意：OS X 10.6 では起動できません",
+                "description": "Mac OS X 10.6.x を使用している場合はアップグレードしないでください。Sprint 27 および 28 は起動しません。 原因は既に突き止めており、Sprint 29 で修正される予定です。それまでは、Snow Leopard をお使いの方は Sprint 26 以前のバージョンを使用してください。"
+            },
+            {
+                "name": "新規無題ドキュメント",
+                "description": "他のテキストエディターと同じように、ファイル／新規作成で空の無題ドキュメントがメモリに作成されます。保存時にはファイル名を確認されます。 ファイルツリーのコンテキストメニューから「新しいファイル」を選択すれば、今までと同じように、新しいファイルを直接ディスクに作成できます。"
+            },
+            {
+                "name": "レジストリから拡張機能をインストール",
+                "description": "Extension Manager に、Brackets で使用できる拡張機能をリスト表示するタブが追加されました。 ワンクリックでリストから拡張機能をインストールしたり、最新版にアップデートしたりできます。 開発者は拡張機能を brackets-registry.aboutweb.com のレジストリにアップロードできます。"
+            },
+            {
+                "name": "OS からドラッグ＆ドロップ",
+                "description": "OS から Brackets のウィンドウにドラッグして、ファイルを開けるようになりました。 フォルダーも OS から Brackets のウィンドウにドラッグして、サイドバーで開けるようになりました。"
+            },
+            {
+                "name": "クイック編集およびクイックビューのアニメーション",
+                "description": "クイック編集を開閉するときの表示にアニメーションが追加されました。クイックビューのポップアップにも簡単な拡張エフェクトが追加されました。"
+            }
+        ]
+    },
     {
         "buildNumber": 8254,
         "versionString": "Sprint 27",
