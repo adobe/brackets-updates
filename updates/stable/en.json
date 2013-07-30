@@ -7,6 +7,10 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
+                "name": "Note: Does Not Launch on OS X 10.6",
+                "description": "Do not upgrade if you are running Mac OS X 10.6.x, as Sprints 27 and 28 will not launch. We've tracked down the cause and hope to fix it in Sprint 29. In the meantime, if you are on Snow Leopard, use Sprint 26 or earlier."
+            },
+            {
                 "name": "New Untitled Document",
                 "description": "File > New now creates a blank untitled document in memory, as in other text editors; you will be prompted for a filename on save. You can still directly create a new file on disk by choosing New File from the context menu in the file tree."
             },
