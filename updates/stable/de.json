@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 8034,
+        "versionString": "Sprint 26",
+        "dateString": "06-10-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-26",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Installierte Erweiterungen updaten",
+                "description": "Die Erweiterungs-Verwaltung kann jetzt eine installierte Erweiterung updaten, ohne dass die Erweiterung zuvor manuell deinstalliert werden muss."
+            },
+            {
+                "name": "Neues Design der Statusleiste",
+                "description": "Visuelle Updates für die Statusleiste, einschließlich neuer Symbole für die JSLint-Validierung."
+            },
+            {
+                "name": "JSLint-Fehler anzeigen/ausblenden",
+                "description": "Wenn JSLint-Fehler auftreten, klicken Sie auf das Statussymbol in der Statusleiste, um das JSLint-Panel anzuzeigen/auszublenden."
+            },
+            {
+                "name": "URL-Hinweise in CSS",
+                "description": "In einer @import- oder url()-Anweisung zeigen Code-Vorschläge relative Pfade zu Dateien in Ihrem Projekt."
+            },
+            {
+                "name": "Dialog-Schaltfläche OK/Abbrechen in Windows",
+                "description": "OK- und Abbrechen-Schaltflächen in Dialogen werden jetzt in der richtigen Reihenfolge angezeigt. Vorher war die Reihenfolge vertauscht."
+            },
+            {
+                "name": "Architektur: Updates für jQuery, Bootstrap und LESS",
+                "description": "Unter der Haube verwendet Brackets jetzt neuere Versionen von jQuery, Bootstrap und LESS. Es gibt keine nennenswerten sichtbaren Änderungen, doch bitte melden Sie Fehler, wenn Sie irgendwelche Probleme feststellen."
+            }
+        ]
+    },
+    {
         "buildNumber": 7567,
         "versionString": "Sprint 25",
         "dateString": "05-21-2013",
