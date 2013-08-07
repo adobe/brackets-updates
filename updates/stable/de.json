@@ -1,6 +1,39 @@
 [
     {
-        "buildNumber": 7567,
+        "buildNumber": 8034,
+        "versionString": "Sprint 26",
+        "dateString": "06-10-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-26",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Installierte Erweiterungen aktualisieren",
+                "description": "Die Erweiterungs-Verwaltung kann eine installierte Erweiterung jetzt aktualisieren, ohne dass die Erweiterung zuvor manuell deinstalliert werden muss."
+            },
+            {
+                "name": "Neues Design der Statusleiste",
+                "description": "Visuelle Updates der Statusleiste, einschließlich neuer Symbole für die JSLint-Validierung."
+            },
+            {
+                "name": "JSLint-Fehler anzeigen/ausblenden",
+                "description": "Wenn JSLint-Fehler auftreten, klicken Sie auf das Status-Icon in der Statusleiste, um das JSLint-Paneel anzuzeigen/auszublenden."
+            },
+            {
+                "name": "URL-Hinweise in CSS",
+                "description": "In einer @import- oder url()-Anweisung zeigen Code-Hinweise relative Pfade zu Dateien in Ihrem Projekt."
+            },
+            {
+                "name": "OK/Abbrechen-Dialogschaltfläche in Windows",
+                "description": "OK- und Abbrechen-Schaltflächen in Dialogfeldern werden jetzt in der richtigen Reihenfolge angezeigt. Zuvor war die Reihenfolge vertauscht."
+            },
+            {
+                "name": "Architektur: jQuery-, Bootstrap- und LESS-Aktualisierungen",
+                "description": "Unter der Haube verwendet Brackets jetzt neuere Versionen von jQuery, Bootstrap und LESS. Es gibt keine bedeutenden sichtbaren Änderungen, doch berichten Sie bitte Fehler, falls Sie irgendwelche Probleme feststellen."
+            }
+        ]
+    },
+    {
+        "buildNumber": 7701,
         "versionString": "Sprint 25",
         "dateString": "05-21-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-25",
