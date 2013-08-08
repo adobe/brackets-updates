@@ -19,8 +19,8 @@
                 "description": "Find in Files is no longer capped at 100 results. Double click on a result to add the file to the working set."
             },
             {
-                "name": "\"Open With...\" support for Finder (Mac only)",
-                "description": "Brackets is displayed in the \"Open With...\" Finder context menu for supported file types."
+                "name": "\"Open With\u2026\" support for Finder (Mac only)",
+                "description": "Brackets is displayed in the \"Open With\u2026\" Finder context menu for supported file types."
             },
             {
                 "name": "New Finnish Support and Language Updates",
