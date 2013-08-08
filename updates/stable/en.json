@@ -11,20 +11,16 @@
                 "description": "Do not upgrade if you are running Mac OS X 10.6.x, as this sprint will not launch. We've tracked down the cause and hope to fix it in Sprint 30. In the meantime, if you are on Snow Leopard, use Sprint 26 or earlier."
             },
             {
-                "name": "HTML Editing in Live Preview",
-                "description": "While in Live Preview, edits to HTML are immediately reflected in the the browser."
-            },
-            {
                 "name": "Find in Files: View All Results and Add to Working Set",
-                "description": "Find in Files is no longer capped at 100 results. Double click on a result to add the file to the working set."
+                "description": "Find in Files now displays more than 100 results. You may double click on a result to add the file to the working set."
             },
             {
                 "name": "\"Open With\u2026\" support for Finder (Mac only)",
-                "description": "Brackets is displayed in the \"Open With\u2026\" Finder context menu for supported file types."
+                "description": "Brackets is now displayed in the \"Open With\u2026\" Finder context menu for supported file types."
             },
             {
-                "name": "New Finnish Support and Language Updates",
-                "description": "A new Finnish translation has been created for Brackets. French, Japanese, Czech, German, and Swedish translations have been updated."
+                "name": "New Finnish Support and Update Translations",
+                "description": "A new Finnish translation has been created for Brackets. The French, Japanese, Czech, German, and Swedish translations have been updated."
             }
         ]
     },
