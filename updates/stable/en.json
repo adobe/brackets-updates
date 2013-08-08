@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Note: Does Not Launch on OS X 10.6",
-                "description": "Do not upgrade if you are running Mac OS X 10.6.x, as Sprints 27, 28 and 29 will not launch. We've tracked down the cause and hope to fix it in Sprint 30. In the meantime, if you are on Snow Leopard, use Sprint 26 or earlier."
+                "description": "Do not upgrade if you are running Mac OS X 10.6.x, as this sprint will not launch. We've tracked down the cause and hope to fix it in Sprint 30. In the meantime, if you are on Snow Leopard, use Sprint 26 or earlier."
             },
             {
                 "name": "HTML Editing in Live Preview",
