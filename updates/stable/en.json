@@ -19,8 +19,8 @@
                 "description": "Find in Files is no longer capped at 100 results. Double click on a result to add the file to the working set."
             },
             {
-                "name": "Confirm Folder Delete",
-                "description": "A new confirmation dialog will appear when attempting to delete a folder."
+                "name": "\"Open With...\" support for Finder (Mac only)",
+                "description": "Brackets is displayed in the \"Open With...\" Finder context menu for supported file types."
             },
             {
                 "name": "New Finnish Support and Language Updates",
