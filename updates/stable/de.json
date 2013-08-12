@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Hinweis: Startet nicht bei OS X 10.6",
-                "description": "Upgraden Sie nicht, wenn Sie Mac OS X 10.6.x nutzen, da Sprints 27 und 28 dort nicht starten. Wir haben die Ursache ermittelt und hoffen, das Problem in Sprint 29 zu beheben. In der Zwischenzeit verwenden Sie bitte Sprint 26 oder früher, falls Sie Snow Leopard nutzen."
+                "description": "Upgraden Sie nicht, wenn Sie Mac OS X 10.6.x nutzen, da Sprints 27 und 28 dort nicht starten. Wir haben die Ursache ermittelt und hoffen, das Problem in Sprint 30 zu beheben. In der Zwischenzeit verwenden Sie bitte Sprint 26 oder früher, falls Sie Snow Leopard nutzen."
             },
             {
                 "name": "Neues unbenanntes Dokument",
@@ -37,7 +37,7 @@
         "newFeatures": [
             {
                 "name": "OS X 10.6-Fehler",
-                "description": "Upgraden Sie nicht, wenn Sie Mac OS X 10.6.x verwenden, da Sprint 27 dort nicht startet. Dieser Fehler tritt in neueren Versionen von OS X nicht auf. Wir hoffen, diesen Fehler in Sprint 28 zu beheben. Entschuldigung."
+                "description": "Upgraden Sie nicht, wenn Sie Mac OS X 10.6.x verwenden, da Sprint 27 dort nicht startet. Dieser Fehler tritt in neueren Versionen von OS X nicht auf. Wir hoffen, diesen Fehler in Sprint 30 zu beheben. Entschuldigung."
             },
             {
                 "name": "Speichern unter",
