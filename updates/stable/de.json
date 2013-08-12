@@ -1,5 +1,30 @@
 [
     {
+        "buildNumber": 8665,
+        "versionString": "Sprint 29",
+        "dateString": "08-09-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-29",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Hinweis: Startet nicht bei OS X 10.6",
+                "description": "Upgraden Sie nicht, wenn Sie Mac OS X 10.6.x nutzen, da dieser Sprint dort nicht startet. Wir haben die Ursache ermittelt und hoffen, das Problem in Sprint 30 zu beheben. In der Zwischenzeit verwenden Sie bitte Sprint 26 oder früher, falls Sie Snow Leopard nutzen."
+            },
+            {
+                "name": "In Dateien suchen: Alle Ergebnisse anzeigen und zum Arbeitsbereich hinzufügen",
+                "description": "In Dateien suchen zeigt jetzt mehr als 100 Ergebnisse an. Sie können auf ein Ergebnis doppelklicken, um die Datei zum Arbeitsbereich hinzuzufügen."
+            },
+            {
+                "name": "\"Öffnen mit\u2026\"-Unterstützung für Finder (nur Mac)",
+                "description": "Brackets wird jetzt in Finder im \"Öffnen mit\u2026\"-Kontextmenü für unterstützte Dateitypen angezeigt."
+            },
+            {
+                "name": "Neue Unterstützung für Finnisch und Update der Übersetzungen",
+                "description": "Eine neue finnische Übersetzung wurde für Brackets erstellt. Die französischen, japanischen, tschechischen, deutschen und schwedischen Übersetzungen wurden geupdatet."
+            }
+        ]
+    },
+    {
         "buildNumber": 8528,
         "versionString": "Sprint 28",
         "dateString": "07-29-2013",
