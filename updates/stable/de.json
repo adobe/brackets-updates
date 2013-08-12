@@ -15,11 +15,11 @@
                 "description": "Datei > Neu erstellt jetzt ein leeres unbenanntes Dokument im Speicher, wie in anderen Texteditoren; Sie werden beim Speichern nach einem Dateinamen gefragt. Sie können immer noch direkt eine neue Datei auf der Festplatte anlegen, indem Sie im Kontextmenü des Dateibaums auf Neue Datei klicken."
             },
             {
-                "name": "Erweiterungen von Zentrale installieren",
-                "description": "Die Erweiterungs-Verwaltung hat jetzt einen Tab, auf dem verfügbare Erweiterungen für Brackets aufgeführt werden. Sie können eine Erweiterung aus der Liste mit einem Klick installieren oder auf die neueste Version updaten. Entwickler können Erweiterungen über brackets-registry.aboutweb.com in die Zentrale aufnehmen."
+                "name": "Erweiterungen vom Server installieren",
+                "description": "Die Erweiterungs-Verwaltung hat jetzt einen Tab, auf dem verfügbare Erweiterungen für Brackets aufgeführt werden. Sie können eine Erweiterung aus der Liste mit einem Klick installieren oder auf die neueste Version updaten. Entwickler können Erweiterungen über brackets-registry.aboutweb.com auf den Server hochladen."
             },
             {
-                "name": "Ziehen und Ablegen vom Betriebssystem",
+                "name": "Drag and Drop vom Betriebssystem",
                 "description": "Sie können jetzt Dateien vom Betriebssystem auf das Brackets-Fenster ziehen, um sie zu öffnen. Sie können auch einen Ordner auf das Brackets-Fenster ziehen, um ihn in der Seitenleiste zu öffnen."
             },
             {
