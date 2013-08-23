@@ -11,23 +11,19 @@
                 "description": "While in Live Preview, edits to HTML are immediately reflected in the the browser."
             },
             {
-                "name": "OS X 10.6 Support",
+                "name": "OS X 10.6 Support Restored",
                 "description": "Brackets will no longer crash on launch when running on Mac OS X 10.6.x."
             },
             {
-                "name": "Linux Updates",
-                "description": "File delete, Extension Manager and HTML Highlighting in Live Preview are now enabled. Also, we've fixed several bugs when installing the debian package."
+                "name": "Linux Preview Improvements & Fixes",
+                "description": "File delete, Extension Manager and HTML Highlighting in Live Preview are now enabled. Also, we've fixed several bugs when installing the Debian package."
             },
             {
                 "name": "CSS Regions Named Flow Code Hints",
                 "description": "Named Flows for CSS regions will now appear in code hints for flow-into and flow-from properties."
             },
             {
-                "name": "\"Open With\u2026\" support for Windows Explorer",
-                "description": "Brackets is now displayed in the \"Open With\u2026\" Windows Explorer context menu for supported file types."
-            },
-            {
-                "name": "Theseus Extension Update",
+                "name": "Note: Theseus Extension Update Required",
                 "description": "All users of the Theseus extension must update due to a break in compatibility. Also, Brackets developers can now use the Theseus to debug an instance of Brackets."
             },
             {
