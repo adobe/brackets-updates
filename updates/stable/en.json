@@ -7,7 +7,7 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "HTML Editing in Live Preview",
+                "name": "Live HTML Editing",
                 "description": "While in Live Preview, edits to HTML are immediately reflected in the the browser."
             },
             {
