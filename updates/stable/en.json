@@ -27,7 +27,7 @@
                 "description": "Hints appear automatically when you first type inside parentheses, or when invoked manually with Ctrl+Shift+Space."
             },
             {
-                "name": "Improved Replace All",
+                "name": "Replace All",
                 "description": "Replace All displays a panel showing all occurrences that will be replaced. You can review and uncheck any occurrences you don't want to replace."
             },
             {
