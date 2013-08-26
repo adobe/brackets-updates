@@ -27,8 +27,8 @@
                 "description": "Hints appear automatically when you first type inside parentheses, or when invoked manually with Ctrl+Shift+Space."
             },
             {
-                "name": "Replace All",
-                "description": "Replace All displays a panel showing all occurrences that will be replaced. Users can optionally remove one or more occurrences from the list."
+                "name": "Improved Replace All",
+                "description": "Replace All displays a panel showing all occurrences that will be replaced. You can review and uncheck any occurrences you don't want to replace."
             },
             {
                 "name": "Note: Theseus Extension Update Required",
