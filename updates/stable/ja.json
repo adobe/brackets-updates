@@ -1,5 +1,42 @@
 [
     {
+        "buildNumber": 9116,
+        "versionString": "Sprint 30",
+        "dateString": "2013-08-29",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-30",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "OS X 10.6 サポートの復元",
+                "description": "Brackets を Mac OS X 10.6.x で実行する場合に、起動時のクラッシュがなくなりました。"
+            },
+            {
+                "name": "Linux プレビューの改善と修正",
+                "description": "ライブプレビューで、ファイルの削除、Extension Manager、および HTML ハイライトが使用できるようになりました。また、Debian パッケージをインストールする場合に発生していたいくつかの問題も修復されています。"
+            },
+            {
+                "name": "CSS 領域の名前の付いたフローコードヒント",
+                "description": "CSS 領域に名前の付いたフローが、flow-into および flow-from プロパティのコードヒントに表示されるようになりました。"
+            },
+            {
+                "name": "関数パラメーターヒント",
+                "description": "括弧の内側で最初の 1 文字を入力するか、手動で Ctrl + Shift + スペースを押すと、自動的にヒントが表示されます。"
+            },
+            {
+                "name": "すべて置換",
+                "description": "「すべて置換」で、置換対象がすべて示されるパネルが表示されます。置換したくないものを確認して、チェックを外すことができます。"
+            },
+            {
+                "name": "注意：Theseus 拡張機能の更新必須",
+                "description": "Theseus 拡張機能のすべてのユーザーは、互換性の問題のため、アップデートする必要があります。また、Brackets デベロッパーは、Brackets のインスタンスのデバッグに Theseus を使用することができます。"
+            },
+            {
+                "name": "翻訳の更新",
+                "description": "フランス語、日本語、ドイツ語、トルコ語の翻訳が更新されました。"
+            }
+        ]
+    },
+    {
         "buildNumber": 8528,
         "versionString": "Sprint 28",
         "dateString": "2013-07-29",

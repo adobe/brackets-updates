@@ -1,5 +1,42 @@
 [
     {
+        "buildNumber": 9116,
+        "versionString": "Sprint 30",
+        "dateString": "29-08-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-30",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "OS X 10.6 à nouveau pris en charge",
+                "description": "Brackets ne se bloque plus au lancement de l’application sous Mac OS X 10.6.x."
+            },
+            {
+                "name": "Améliorations et correctifs pour la fonction Aperçu sous Linux",
+                "description": "La suppression de fichiers, le surlignage HTML et Extension Manager sont maintenant actifs dans l’Aperçu en direct. Nous avons également corrigé différents problèmes liés à l’installation du package Debian."
+            },
+            {
+                "name": "Indicateurs de code pour les flux nommés des régions CSS",
+                "description": "Les flux nommés des régions CSS figurent désormais dans les indicateurs de code des propriétés flow-into et flow-from."
+            },
+            {
+                "name": "Indicateurs de paramètres de fonction",
+                "description": "Des indicateurs apparaissent automatiquement lorsque vous commencez à saisir du texte dans les parenthèses, et peuvent aussi être affichés manuellement via la combinaison Ctrl+Maj+Espace."
+            },
+            {
+                "name": "Remplacer tout",
+                "description": "La commande Remplacer tout affiche un panneau indiquant toutes les occurrences qui seront remplacées. Vous pouvez parcourir ces occurrences et déselectionner celles que vous souhaitez conserver telles quelles."
+            },
+            {
+                "name": "Remarque : mise à jour de l’extension Theseus requise",
+                "description": "Tous les utilisateurs de l’extension Theseus doivent procéder à une mise à jour en raison d’une rupture de compatibilité. Par ailleurs, les développeurs Brackets peuvent maintenant utiliser Theseus pour déboguer une instance de Brackets."
+            },
+            {
+                "name": "Traductions mises à jour",
+                "description": "Les traductions en allemand, français, japonais et turc ont été mises à jour."
+            }
+        ]
+    },
+    {
         "buildNumber": 8528,
         "versionString": "Sprint 28",
         "dateString": "29-07-2013",
