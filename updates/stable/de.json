@@ -1,5 +1,162 @@
 [
     {
+        "buildNumber": 8873,
+        "versionString": "Sprint 30",
+        "dateString": "08-29-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-30",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Live-HTML-Bearbeitung",
+                "description": "Während der Live Vorschau werden Bearbeitungen im HTML sofort im Browser umgesetzt."
+            },
+            {
+                "name": "Unterstützung für OS X 10.6 wiederhergestellt",
+                "description": "Brackets stürzt beim Starten nicht mehr ab, wenn das Programm auf Mac OS X 10.6.x ausgeführt wird."
+            },
+            {
+                "name": "Verbesserungen und Korrekturen für die Linux-Vorschau",
+                "description": "Löschen von Dateien, Erweiterungs-Verwaltung und HTML-Hervorhebung in der Live-Vorschau sind jetzt aktiviert. Außerdem haben wir mehrere Fehler beim Installieren des Debian-Pakets behoben."
+            },
+            {
+                "name": "Hinweise für benannte Flows für CSS-Regionen",
+                "description": "Benannte Flows für CSS-Regionen erscheinen jetzt in Code-Hinweisen für die Eigenschaften flow-into und flow-from."
+            },
+            {
+                "name": "Hinweise für Funktionsparameter",
+                "description": "Hinweise erscheinen automatisch, wenn Sie zum ersten Mal innerhalb von Klammern tippen, oder wenn sie manuell mit Strg+Umschalt+Leer aufgerufen werden."
+            },
+            {
+                "name": "Alle ersetzen",
+                "description": "Alle ersetzen zeigt ein Paneel mit allen Vorkommnissen an, die ersetzt werden. Sie können die Vorkommnisse begutachten und die Haken bei den Einträgen entfernen, die Sie nicht ersetzen wollen."
+            },
+            {
+                "name": "Hinweis: Update der Erweiterung Theseus erforderlich",
+                "description": "Alle Nutzer der Erweiterung Theseus müssen updaten, da vorherige Versionen nicht kompatibel sind. Außerdem können Brackets-Entwickler jetzt Theseus verwenden, um eine Instanz von Brackets zu debuggen."
+            },
+            {
+                "name": "Geupdatete Übersetzungen",
+                "description": "Die Übersetzungen auf Französisch, Japanisch, Deutsch und Türkisch wurden geupdatet."
+            }
+        ]
+    },
+    {
+        "buildNumber": 8678,
+        "versionString": "Sprint 29",
+        "dateString": "08-09-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-29",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Hinweis: Startet nicht bei OS X 10.6",
+                "description": "Upgraden Sie nicht, wenn Sie Mac OS X 10.6.x nutzen, da dieser Sprint dort nicht startet. Wir haben die Ursache ermittelt und hoffen, das Problem in Sprint 30 zu beheben. In der Zwischenzeit verwenden Sie bitte Sprint 26 oder früher, falls Sie Snow Leopard nutzen."
+            },
+            {
+                "name": "In Dateien suchen: Alle Ergebnisse anzeigen und zum Arbeitsbereich hinzufügen",
+                "description": "In Dateien suchen zeigt jetzt mehr als 100 Ergebnisse an. Sie können auf ein Ergebnis doppelklicken, um die Datei zum Arbeitsbereich hinzuzufügen."
+            },
+            {
+                "name": "\"Öffnen mit\u2026\"-Unterstützung für Finder (nur Mac)",
+                "description": "Brackets wird jetzt in Finder im \"Öffnen mit\u2026\"-Kontextmenü für unterstützte Dateitypen angezeigt."
+            },
+            {
+                "name": "Neue Unterstützung für Finnisch und aktualisierte Übersetzungen",
+                "description": "Eine neue finnische Übersetzung wurde für Brackets erstellt. Die französischen, japanischen, tschechischen, deutschen und schwedischen Übersetzungen wurden geupdatet."
+            }
+        ]
+    },
+    {
+        "buildNumber": 8528,
+        "versionString": "Sprint 28",
+        "dateString": "07-29-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-28",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Hinweis: Startet nicht bei OS X 10.6",
+                "description": "Upgraden Sie nicht, wenn Sie Mac OS X 10.6.x nutzen, da Sprints 27 und 28 dort nicht starten. Wir haben die Ursache ermittelt und hoffen, das Problem in Sprint 30 zu beheben. In der Zwischenzeit verwenden Sie bitte Sprint 26 oder früher, falls Sie Snow Leopard nutzen."
+            },
+            {
+                "name": "Neues unbenanntes Dokument",
+                "description": "Datei > Neu erstellt jetzt ein leeres unbenanntes Dokument im Speicher, wie in anderen Texteditoren; Sie werden beim Speichern nach einem Dateinamen gefragt. Sie können immer noch direkt eine neue Datei auf der Festplatte anlegen, indem Sie im Kontextmenü des Dateibaums auf Neue Datei klicken."
+            },
+            {
+                "name": "Erweiterungen vom Server installieren",
+                "description": "Die Erweiterungs-Verwaltung hat jetzt einen Tab, auf dem verfügbare Erweiterungen für Brackets aufgeführt werden. Sie können eine Erweiterung aus der Liste mit einem Klick installieren oder auf die neueste Version updaten. Entwickler können Erweiterungen über brackets-registry.aboutweb.com auf den Server hochladen."
+            },
+            {
+                "name": "Drag and Drop vom Betriebssystem",
+                "description": "Sie können jetzt Dateien vom Betriebssystem auf das Brackets-Fenster ziehen, um sie zu öffnen. Sie können auch einen Ordner auf das Brackets-Fenster ziehen, um ihn in der Seitenleiste zu öffnen."
+            },
+            {
+                "name": "Animationen für Schnell-Editor und Schnellansicht",
+                "description": "Die Schnell-Editor-Ansichten werden jetzt beim Öffnen und Schließen animiert, und das Schnellansicht-Popup hat einen subtilen Vergrößerungs-Effekt."
+            }
+        ]
+    },
+    {
+        "buildNumber": 8254,
+        "versionString": "Sprint 27",
+        "dateString": "06-26-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-27",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "OS X 10.6-Fehler",
+                "description": "Upgraden Sie nicht, wenn Sie Mac OS X 10.6.x verwenden, da Sprint 27 dort nicht startet. Dieser Fehler tritt in neueren Versionen von OS X nicht auf. Wir hoffen, diesen Fehler in Sprint 30 zu beheben. Entschuldigung."
+            },
+            {
+                "name": "Speichern unter",
+                "description": "Speichern Sie eine Kopie einer Datei mit dem Menü Datei > Speichern unter \u2026, über das Kontextmenü des Projektbaums, oder mit dem Tastenkürzel Strg+Umschalt+S or \u21E7\u2318S."
+            },
+            {
+                "name": "Aktualisierte Unterstützung für Farbverläufe in der Schnellansicht",
+                "description": "Die Schnellansicht für Farbverläufe unterstützt jetzt das Schlüsselwort \"to\" für die Richtung und die neuen Typen repeating-linear-gradient und repeating-radial-gradient."
+            },
+            {
+                "name": "Neue Unterstützung für Ungarisch und Sprachupdates",
+                "description": "Eine neue ungarische Übersetzung wurde für Brackets erstellt. Die Übersetzungen auf Französisch, Tschechisch und Spanisch wurden geupdatet."
+            },
+            {
+                "name": "Neue Native Shell",
+                "description": "Unter der Haube verwendet Brackets jetzt eine neue Version des Chromium Embedded Frameworks. Es gibt keine nennenswerten sichtbaren Änderungen, doch bitte melden Sie Fehler, wenn Sie irgendwelche Probleme bemerken."
+            }
+        ]
+    },
+    {
+        "buildNumber": 8034,
+        "versionString": "Sprint 26",
+        "dateString": "06-10-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-26",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Installierte Erweiterungen updaten",
+                "description": "Die Erweiterungs-Verwaltung kann jetzt eine installierte Erweiterung updaten, ohne dass die Erweiterung zuvor manuell deinstalliert werden muss."
+            },
+            {
+                "name": "Neues Design der Statusleiste",
+                "description": "Visuelle Updates für die Statusleiste, einschließlich neuer Symbole für die JSLint-Validierung."
+            },
+            {
+                "name": "JSLint-Fehler anzeigen/ausblenden",
+                "description": "Wenn JSLint-Fehler auftreten, klicken Sie auf das Statussymbol in der Statusleiste, um das JSLint-Panel anzuzeigen/auszublenden."
+            },
+            {
+                "name": "URL-Hinweise in CSS",
+                "description": "In einer @import- oder url()-Anweisung zeigen Code-Vorschläge relative Pfade zu Dateien in Ihrem Projekt."
+            },
+            {
+                "name": "Dialog-Schaltfläche OK/Abbrechen in Windows",
+                "description": "OK- und Abbrechen-Schaltflächen in Dialogen werden jetzt in der richtigen Reihenfolge angezeigt. Vorher war die Reihenfolge vertauscht."
+            },
+            {
+                "name": "Architektur: Updates für jQuery, Bootstrap und LESS",
+                "description": "Unter der Haube verwendet Brackets jetzt neuere Versionen von jQuery, Bootstrap und LESS. Es gibt keine nennenswerten sichtbaren Änderungen, doch bitte melden Sie Fehler, wenn Sie irgendwelche Probleme feststellen."
+            }
+        ]
+    },
+    {
         "buildNumber": 7567,
         "versionString": "Sprint 25",
         "dateString": "05-21-2013",
