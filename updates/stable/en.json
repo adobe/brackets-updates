@@ -1,5 +1,42 @@
 [
     {
+        "buildNumber": 9234,
+        "versionString": "Sprint 31",
+        "dateString": "09-13-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-31",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Live Preview for HTML",
+                "description": "Live Preview updates in real time as you type in HTML files. Updates pause whenever the HTML is not syntactically valid."
+            },
+            {
+                "name": "Windows UI",
+                "description": "Windows now has a dark titlebar. A similar change will be coming soon for Mac too."
+            },
+            {
+                "name": "Keyboard Support for Recent Projects",
+                "description": "Press Ctrl+Alt+R (⌥⌘R) to open the 'recent projects' dropdown, then use the arrows and Enter to switch projects."
+            },
+            {
+                "name": "CSS Code Hints in SCSS",
+                "description": "Code hints for CSS property names & values: The same code hints you see in CSS files will now also appear in SCSS files. Quick Docs for CSS properties: Ditto – just like in CSS."
+            },
+            {
+                "name": "HTML Matching Tag Highlighting",
+                "description": "Highlight matching open/close tag."
+            },
+            {
+                "name": "Search",
+                "description": "Update Find in Files results while typing."
+            },
+            {
+                "name": "Arch Linux Support",
+                "description": "Brackets is now available for Arch Linux on the Arch User Repository (AUR)."
+            }
+        ]
+    },
+    {
         "buildNumber": 9116,
         "versionString": "Sprint 30",
         "dateString": "08-29-2013",
