@@ -15,15 +15,15 @@
                 "description": "Windows now has a dark titlebar. A similar change will be coming soon for Mac too."
             },
             {
-                "name": "Keyboard support for recent projects",
+                "name": "Keyboard Support for Recent Projects",
                 "description": "Press Ctrl+Alt+R (⌥⌘R) to open the 'recent projects' dropdown, then use the arrows and Enter to switch projects."
             },
             {
-                "name": "CSS code hints in SCSS",
+                "name": "CSS Code Hints in SCSS",
                 "description": "Code hints for CSS property names & values: The same code hints you see in CSS files will now also appear in SCSS files. Quick Docs for CSS properties: Ditto – just like in CSS."
             },
             {
-                "name": "HTML Editing",
+                "name": "HTML Matching Tag Highlighting",
                 "description": "Highlight matching open/close tag."
             },
             {
