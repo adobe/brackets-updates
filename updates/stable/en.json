@@ -11,11 +11,15 @@
                 "description": "Live Preview updates in real time as you type in HTML files. Updates pause whenever the HTML is not syntactically valid."
             },
             {
-                "name": "Overall UI",
-                "description": "Compact, dark titlebar (Windows): A similar change will be coming soon for Mac too. Keyboard shortcut to switch between recent projects: Press Ctrl+Alt+R (⌥⌘R) to open the 'recent projects' dropdown, then use the arrows and Enter to switch projects."
+                "name": "Windows UI",
+                "description": "Windows now has a dark titlebar. A similar change will be coming soon for Mac too."
             },
             {
-                "name": "SCSS Support",
+                "name": "Keyboard support for recent projects",
+                "description": "Press Ctrl+Alt+R (⌥⌘R) to open the 'recent projects' dropdown, then use the arrows and Enter to switch projects."
+            },
+            {
+                "name": "CSS code hints in SCSS",
                 "description": "Code hints for CSS property names & values: The same code hints you see in CSS files will now also appear in SCSS files. Quick Docs for CSS properties: Ditto – just like in CSS."
             },
             {
@@ -27,12 +31,8 @@
                 "description": "Update Find in Files results while typing."
             },
             {
-                "name": "Linting",
-                "description": "Extensibility for linting tools."
-            },
-            {
-                "name": "Linux Support",
-                "description": "Linux universal installer."
+                "name": "Arch Linux Support",
+                "description": "Brackets is now available for Arch Linux on the Arch User Repository (AUR)."
             }
         ]
     },
