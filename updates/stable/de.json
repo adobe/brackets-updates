@@ -12,15 +12,15 @@
             },
             {
                 "name": "Windows-Benutzeroberfläche",
-                "description": "Unter Windows wird nun eine dunkle Titelleiste. Auf dem Mac wird bald eine ähnliche Änderung vorgenommen."
+                "description": "Unter Windows wird nun eine dunkle Titelleiste genutzt. Auf dem Mac wird bald eine ähnliche Änderung vorgenommen."
             },
             {
                 "name": "Tastenkürzel für die zuletzt verwendeten Projekte",
-                "description": "Sie können Strg+Alt+R (⌥⌘R) drücken, um das ausklappbare Menü 'Zuletzt verwendete Projekte' zu öffnen, nun kann man die Pfeiltasten und Enter nutzen um das Projekt zu wechseln."
+                "description": "Sie können Strg+Alt+R (⌥⌘R) drücken, um das ausklappbare Menü 'Zuletzt verwendete Projekte' zu öffnen, dann kann man die Pfeiltasten und Enter nutzen um das Projekt zu wechseln."
             },
             {
                 "name": "CSS-Code-Hinweise in SCSS",
-                "description": "Code-Hinweise für CSS-Eigenschaftsnamen und werte: Die selben Hinweise, die Sie auch in CSS-Dateien sehen, erscheinen von nun an auch in SCSS-Dateien. Schnell-Dokumentation für CSS-Eigenschaften: Genau wie in CSS."
+                "description": "Code-Hinweise für CSS-Eigenschaftsnamen und -werte: Die selben Hinweise, die Sie auch in CSS-Dateien sehen, erscheinen von nun an auch in SCSS-Dateien. Schnell-Dokumentation für CSS-Eigenschaften: Genau wie in CSS."
             },
             {
                 "name": "HTML-Tag-Highlighting",
