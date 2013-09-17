@@ -1,5 +1,46 @@
 [
     {
+        "buildNumber": 9234,
+        "versionString": "Sprint 31",
+        "dateString": "09-13-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-31",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "HTML のライブプレビュー",
+                "description": "HTML ファイルに入力するとリアルタイムでライブプレビューが更新されます。HTML が構文的に正しくなくなると、更新が停止されます。"
+            },
+            {
+                "name": "Windows UI",
+                "description": "現在、Windows のタイトルバーでダーク UI が採用されました。同じように Mac も近いうちに変更されます。"
+            },
+            {
+                "name": "「最近使用したプロジェクト」のキーボードショートカット",
+                "description": "Ctrl + Alt + R（⌥⌘R）を押すと、最近使用したプロジェクトドロップダウンメニューが開きます。矢印で選択して Enter キーを押すとプロジェクトを切り替えることができます。"
+            },
+            {
+                "name": "SCSS の CSS コードヒント",
+                "description": "CSS プロパティ名および値のコードヒント：SCSS ファイルでも、CSS ファイルで表示されるのと同じコードヒントが表示されます。CSS プロパティのクイックドキュメント：CSS の場合と同じように表示されます。"
+            },
+            {
+                "name": "HTML の対応するタグのハイライト",
+                "description": "開始タグと終了タグの対応をハイライトします。"
+            },
+            {
+                "name": "検索",
+                "description": "「ファイルを横断して検索」の検索結果を入力中に更新します。"
+            },
+            {
+                "name": "検索結果のティックマーク",
+                "description": "検索結果を、スクロールバーに黄色いチェックマークで表示して、視覚的に表示します。"
+            },
+            {
+                "name": "Arch Linux のサポート",
+                "description": "Brackets では、Arch User Repository（AUR）で Arch Linux をサポートするようになりました。"
+            }
+        ]
+    },
+    {
         "buildNumber": 9116,
         "versionString": "Sprint 30",
         "dateString": "2013-08-29",
