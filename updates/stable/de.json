@@ -31,6 +31,10 @@
                 "description": "Schon während des Tippens werden die Suchergebnisse angezeigt."
             },
             {
++                "name": "SUchergebnis-Striche",
++                "description": "Suchergebnisse werden von nun an visuell als gelbe Striche entlang der Scrollbar hervorgehoben."
++           },
+            {
                 "name": "Arch Linux Support",
                 "description": "Brackets ist nun für Arch Linux im Arch User Repository (AUR) verfügbar."
             }
