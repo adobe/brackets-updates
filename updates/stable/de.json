@@ -31,7 +31,7 @@
                 "description": "Schon während des Tippens werden die Suchergebnisse angezeigt."
             },
             {
-+                "name": "SUchergebnis-Striche",
++                "name": "Suchergebnis-Striche",
 +                "description": "Suchergebnisse werden von nun an visuell als gelbe Striche entlang der Scrollbar hervorgehoben."
 +           },
             {
