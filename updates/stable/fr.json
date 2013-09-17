@@ -1,5 +1,46 @@
 [
     {
+        "buildNumber": 9234,
+        "versionString": "Sprint 31",
+        "dateString": "09-13-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-31",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Aperçu en direct pour HTML",
+                "description": "L’Aperçu en direct se met à jour en temps réel, à mesure que vous saisissez des données dans vos fichiers HTML. La mise à jour s’interrompt dès que la syntaxe du code HTML n’est pas valide."
+            },
+            {
+                "name": "Interface utilisateur Windows",
+                "description": "L’interface Windows dispose désormais d’une barre de titre de couleur foncée. La même modification sera également bientôt effective sous Mac."
+            },
+            {
+                "name": "Prise en charge du clavier pour la liste Projets récents",
+                "description": "Appuyez sur Ctrl+Alt+R (⌥⌘R) pour ouvrir la liste déroulante « Projets récents », puis servez-vous des flèches et de la touche Entrée pour passer d’un projet à l’autre."
+            },
+            {
+                "name": "Indicateurs de code CSS dans SCSS",
+                "description": "Indicateurs de code concernant les noms et valeurs de propriétés CSS : désormais, les indicateurs de code disponibles dans les fichiers CSS seront également visibles dans les fichiers SCSS. Documentation rapide pour propriétés CSS : idem, comme dans CSS."
+            },
+            {
+                "name": "Surlignage des balises correspondantes HTML",
+                "description": "Les balises d’ouverture et de fermeture correspondantes apparaissent surlignées."
+            },
+            {
+                "name": "Recherche",
+                "description": "Les résultats de la fonction « Rechercher dans les fichiers » sont mis à jour au fur et à mesure de la saisie."
+            },
+            {
+                "name": "Repères sur les résultats de la recherche",
+                "description": "Les résultats des recherches sont signalés par des repères jaunes tout le long de la barre de défilement."
+            },
+            {
+                "name": "Prise en charge d’Arch Linux",
+                "description": "Brackets est désormais disponible pour Arch Linux dans le référentiel Arch User Repository (AUR)."
+            }
+        ]
+    },
+    {
         "buildNumber": 9116,
         "versionString": "Sprint 30",
         "dateString": "29-08-2013",
