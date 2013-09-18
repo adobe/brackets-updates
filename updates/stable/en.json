@@ -33,10 +33,6 @@
             {
                 "name": "Search Result Tickmarks",
                 "description": "Find results are visually mapped out as yellow tickmarks along the scroll bar track."
-            },
-            {
-                "name": "Arch Linux Support",
-                "description": "Brackets is now available for Arch Linux on the Arch User Repository (AUR)."
             }
         ]
     },
