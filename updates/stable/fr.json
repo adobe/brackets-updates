@@ -33,10 +33,6 @@
             {
                 "name": "Repères sur les résultats de la recherche",
                 "description": "Les résultats des recherches sont signalés par des repères jaunes tout le long de la barre de défilement."
-            },
-            {
-                "name": "Prise en charge d’Arch Linux",
-                "description": "Brackets est désormais disponible pour Arch Linux dans le référentiel Arch User Repository (AUR)."
             }
         ]
     },

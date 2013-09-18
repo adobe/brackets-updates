@@ -33,10 +33,6 @@
             {
                 "name": "検索結果のティックマーク",
                 "description": "検索結果を、スクロールバーに黄色いチェックマークで表示して、視覚的に表示します。"
-            },
-            {
-                "name": "Arch Linux のサポート",
-                "description": "Brackets では、Arch User Repository（AUR）で Arch Linux をサポートするようになりました。"
             }
         ]
     },
