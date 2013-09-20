@@ -1,4 +1,41 @@
 [
+      {
+        "buildNumber": 9567,
+        "versionString": "Sprint 31",
+        "dateString": "09-18-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-31",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Live-HTML-Bearbeitung",
+                "description": "Während der Live Vorschau werden Änderungen an im HTML-Dateien sofort im Browser angezeigt."
+            },
+            {
+                "name": "Windows UI",
+                "description": "Windows verwendet jetzt einen dunklen Title-Bar. Dies wird bald auch auf dem Mac geändert."
+            },
+            {
+                "name": "Keyboard Support für zuletzt verwendete Projekte",
+                "description": "Drücken Sie Ctrl+Alt+R (⌥⌘R) um das Dropdown-Menü zuletzt verwendeter Projekte zu öffnen. Verwenden sie die Pfeil-Tasten um Projekte auszuwählen."
+            },
+            {
+                "name": "CSS Hinweise in SCSS",
+                "description": "Parameter-Hinweise für CSS-Eigenschaftsnamen und Werte: in SCSS-Dateien und Schnell-Dokumentation sind jetzt die gleichen Hinweise wie in CSS Dateien verfügbar."
+            },
+            {
+                "name": "Hervorhebung korrespondierender HTML-Tags",
+                "description": "Hervorhebung korrespondierender öffnender und schließender HTML-Tags."
+            },
+            {
+                "name": "Suche",
+                "description": "Resultate der Suche im Projekt werden während der Suchbegriffseingabe fortwährend aktualisiert."
+            },
+            {
+                "name": "Suchergebnis Narkierung",
+                "description": "Suchergebnisse werden durch gelbe Striche entlang dem Scrollbar angezeigt."
+            }
+        ]
+    },
     {
         "buildNumber": 8873,
         "versionString": "Sprint 30",
@@ -6,10 +43,6 @@
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-30",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
-            {
-                "name": "Live-HTML-Bearbeitung",
-                "description": "Während der Live Vorschau werden Bearbeitungen im HTML sofort im Browser umgesetzt."
-            },
             {
                 "name": "Unterstützung für OS X 10.6 wiederhergestellt",
                 "description": "Brackets stürzt beim Starten nicht mehr ab, wenn das Programm auf Mac OS X 10.6.x ausgeführt wird."
