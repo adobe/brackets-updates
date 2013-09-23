@@ -37,6 +37,43 @@
         ]
     },
     {
+        "buildNumber": 9234,
+        "versionString": "Sprint 31",
+        "dateString": "09-14-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-31",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Live-Vorschau für HTML",
+                "description": "Die Live-Vorschau aktualisiert sich in Echtzeit, während Sie HTML-Dateien bearbeiten. Die Live-Updates werden pausiert, während die HTML-Syntax nicht korrekt ist."
+            },
+            {
+                "name": "Windows-Benutzeroberfläche",
+                "description": "Unter Windows wird nun eine dunkle Titelleiste genutzt. Auf dem Mac wird bald eine ähnliche Änderung vorgenommen."
+            },
+            {
+                "name": "Tastenkürzel für die zuletzt verwendeten Projekte",
+                "description": "Sie können Strg+Alt+R (⌥⌘R) drücken, um das ausklappbare Menü 'Zuletzt verwendete Projekte' zu öffnen, dann kann man die Pfeiltasten und Enter nutzen um das Projekt zu wechseln."
+            },
+            {
+                "name": "CSS-Code-Hinweise in SCSS",
+                "description": "Code-Hinweise für CSS-Eigenschaftsnamen und -werte: Die selben Hinweise, die Sie auch in CSS-Dateien sehen, erscheinen von nun an auch in SCSS-Dateien. Schnell-Dokumentation für CSS-Eigenschaften: Genau wie in CSS."
+            },
+            {
+                "name": "HTML-Tag-Highlighting",
+                "description": "Übereinstimmende öffnende/schließende HTML-Tags werden hervorgehoben."
+            },
+            {
+                "name": "Suche",
+                "description": "Schon während des Tippens werden die Suchergebnisse angezeigt."
+            },
+            {
++                "name": "Suchergebnis-Striche",
++                "description": "Suchergebnisse werden von nun an visuell als gelbe Striche entlang der Scrollbar hervorgehoben."
++           }
+        ]
+    },
+    {
         "buildNumber": 8873,
         "versionString": "Sprint 30",
         "dateString": "08-29-2013",
