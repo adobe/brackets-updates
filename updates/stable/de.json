@@ -8,19 +8,19 @@
         "newFeatures": [
             {
                 "name": "Live-HTML-Bearbeitung",
-                "description": "Während der Live Vorschau werden Änderungen an HTML-Dateien sofort im Browser angezeigt."
+                "description": "Während der Live-Vorschau werden Änderungen an HTML-Dateien sofort im Browser angezeigt."
             },
             {
-                "name": "Windows UI",
-                "description": "Windows verwendet jetzt eine dunkle Title-Leiste. Dies wird bald ebenfalls auf dem Mac geändert."
+                "name": "Windows-Benutzeroberfläche",
+                "description": "Windows verwendet jetzt eine dunkle Titelleiste. Dies wird bald ebenfalls auf dem Mac geändert."
             },
             {
-                "name": "Keyboard Support für zuletzt verwendete Projekte",
-                "description": "Drücken Sie Ctrl+Alt+R (⌥⌘R) um das Dropdown-Menü zuletzt verwendeter Projekte zu öffnen. Verwenden sie die Pfeil-Tasten um Projekte auszuwählen."
+                "name": "Tastenkürzel für zuletzt verwendete Projekte",
+                "description": "Drücken Sie Ctrl+Alt+R (⌥⌘R) um das Dropdown-Menü zuletzt verwendeter Projekte zu öffnen. Verwenden Sie die Pfeil-Tasten und Enter, um ein Projekt auszuwählen."
             },
             {
-                "name": "CSS Hinweise in SCSS",
-                "description": "Parameter-Hinweise für CSS-Eigenschaftsnamen und Werte: in SCSS-Dateien und Schnell-Dokumentation sind jetzt die gleichen Hinweise wie in CSS Dateien verfügbar."
+                "name": "CSS-Hinweise in SCSS",
+                "description": "Code-Hinweise für CSS-Eigenschaftsnamen und -werte: In SCSS-Dateien und Schnell-Dokumentation sind jetzt die gleichen Hinweise wie in CSS Dateien verfügbar."
             },
             {
                 "name": "Hervorhebung korrespondierender HTML-Tags",
@@ -28,11 +28,11 @@
             },
             {
                 "name": "Suche",
-                "description": "Resultate der Suche im Projekt werden während der Suchbegriffseingabe fortwährend aktualisiert."
+                "description": "Schon während des Tippens werden die Suchergebnisse einer Suche innerhalb einer Datei angezeigt."
             },
             {
-                "name": "Suchergebnis Narkierung",
-                "description": "Suchergebnisse werden durch gelbe Striche im Scrollbar angezeigt."
+                "name": "Suchergebnis-Markierung",
+                "description": "Suchergebnisse werden durch gelbe Striche entlang der Scrollbar angezeigt."
             }
         ]
     },
