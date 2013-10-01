@@ -1,5 +1,34 @@
 [
     {
+        "buildNumber": 9600,
+        "versionString": "Sprint 32",
+        "dateString": "10-04-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-32",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Launch Live Preview for non-HTML file",
+                "description": "Brackets will automatically find a nearby index.html file to use. No more switching way from your CSS file to start Live Preview!"
+            },
+            {
+                "name": "Mac UI",
+                "description": "Mac now has a dark titlebar, similar to Windows update in previous sprint."
+            },
+            {
+                "name": "Live Preview for SVG Files",
+                "description": "SVG files can now be viewed using Live Preview. Updates are pushed to browser on save."
+            },
+            {
+                "name": "Performance Improvements for Incremental Searching in Find",
+                "description": "Initial keystrokes when typing in Find field (when the number of results is usually very high) are improved."
+            },
+            {
+                "name": "Library updates for Node, Tern, and Acorn",
+                "description": "These are 'Under the Hood' changes."
+            }
+        ]
+    },
+    {
         "buildNumber": 9569,
         "versionString": "Sprint 31",
         "dateString": "09-20-2013",
