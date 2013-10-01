@@ -11,24 +11,32 @@
                 "description": "Brackets will automatically find a nearby index.html file to use. No more switching way from your CSS file to start Live Preview!"
             },
             {
-                "name": "Mac UI",
-                "description": "Mac now has a dark titlebar, similar to Windows update in previous sprint."
+                "name": "Dark Window Theme on Mac",
+                "description": "Mac now has a dark window theme, similar to Windows update in previous sprint."
             },
             {
                 "name": "Live Preview for SVG Files",
                 "description": "SVG files can now be viewed using Live Preview. Updates are pushed to browser on save."
             },
             {
-                "name": "Performance Improvements for Incremental Searching in Find",
+                "name": "Faster Performance in Find as you Type",
                 "description": "Initial keystrokes when typing in Find field (when the number of results is usually very high) are improved."
             },
             {
                 "name": "Live Preview now Launches Chrome in a Separate Window on Mac",
-                "description": "Say good-bye to the 'Relaunch Chrome' dialog."
+                "description": "Say good-bye to the 'Relaunch Chrome?' dialog."
             },
             {
-                "name": "Library updates for Node, Tern, and Acorn",
-                "description": "These are 'Under the Hood' changes."
+                "name": "Update Node to Version 0.10",
+                "description": "This is an 'Under the Hood' change."
+            },
+            {
+                "name": "Improved Linting API",
+                "description": "Extension authors can now drive linting engine headlessly."
+            },
+            {
+                "name": "Updated Translations",
+                "description": "There are new translations for Persian, Dutch, and Greek languages. The French, Japanese, German, Czech, Brazilian Portuguese, Swedish, and Turkish translations have been updated."
             }
         ]
     },
