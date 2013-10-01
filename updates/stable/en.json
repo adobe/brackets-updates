@@ -23,6 +23,10 @@
                 "description": "Initial keystrokes when typing in Find field (when the number of results is usually very high) are improved."
             },
             {
+                "name": "Live Preview now Launches Chrome in a Separate Window on Mac",
+                "description": "Say good-bye to the 'Relaunch Chrome' dialog."
+            },
+            {
                 "name": "Library updates for Node, Tern, and Acorn",
                 "description": "These are 'Under the Hood' changes."
             }
