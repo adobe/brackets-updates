@@ -1,5 +1,46 @@
 [
     {
+        "buildNumber": 9600,
+        "versionString": "Sprint 32",
+        "dateString": "04-10-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-32",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Lancer l’Aperçu en direct pour un fichier non HTML",
+                "description": "Brackets détecte automatiquement un fichier index.html à utiliser. Plus besoin de vous éloigner de votre fichier CSS pour lancer l’Aperçu en direct !"
+            },
+            {
+                "name": "Thème avec fenêtres sombres sous Mac",
+                "description": "Mac dispose désormais d’un thème avec fenêtre sombres, semblable à la mise à jour Windows du sprint précédent."
+            },
+            {
+                "name": "Aperçu en direct pour fichiers SVG",
+                "description": "Les fichiers SVG peuvent désormais être affichés avec le module Aperçu en direct. Les mises à jour sont répercutées dans le navigateur à chaque enregistrement."
+            },
+            {
+                "name": "Amélioration des performances pour la fonction de recherche au cours de la frappe",
+                "description": "Les performances sont améliorées dès que l’utilisateur saisit un ou deux caractères dans le champ Rechercher (et que le nombre de résultats est donc très élevé)."
+            },
+            {
+                "name": "Désormais, le module Aperçu en direct lance Chrome dans une fenêtre distincte sous Mac",
+                "description": "La boîte de dialogue « Relancer Chrome ? » ne sera bientôt plus qu’un mauvais souvenir."
+            },
+            {
+                "name": "Mise à jour de Node vers la version 0.10",
+                "description": "Il s’agit d’une évolution réalisée « sous le capot »."
+            },
+            {
+                "name": "Amélioration de l’API d’analyse lint",
+                "description": "Les créateurs d’extensions peuvent désormais utiliser le moteur d’analyse lint sans réfléchir."
+            },
+            {
+                "name": "Traductions mises à jour",
+                "description": "De nouvelles traductions en perse, néerlandais et grec sont disponibles. Les traductions en français, japonais, allemand, tchèque, portugais brésilien, suédois et turc ont été mises à jour."
+            }
+        ]
+    },
+    {
         "buildNumber": 9569,
         "versionString": "Sprint 31",
         "dateString": "20-09-2013",
