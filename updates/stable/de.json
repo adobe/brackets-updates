@@ -11,7 +11,7 @@
                 "description": "Brackets findet automatisch die nächstliegende Index.html-Datei um LivePreview zu starten. Damit ist es nicht mehr notwendig, von einer CSS oder JavaScript zu einer HTML-Datei zu wechseln, um LivePreview zu starten."
             },
             {
-                "name": "Bessere Performanceverbesserung der dynamischen Suche (engl. Find-as-you-type)",
+                "name": "Bessere Performance der dynamischen Suche (engl. Find-as-you-type)",
                 "description": "Verbesserung der Antwortzeit während der ersten Text-Eingaben."
             },
             {
@@ -20,7 +20,7 @@
             },
             {
                 "name": "Verbesserung der Linting API",
-                "description": "Extension können die Linting Engine im Headless-Modus, d.h. ohne UI benutzen."
+                "description": "Extensions können die Linting Engine im Headless-Modus, d.h. ohne UI benutzen."
             },
             {
                 "name": "Aktualisierte Übersetzungen",
