@@ -1,6 +1,6 @@
 [
     {
-        "buildNumber": 9600,
+        "buildNumber": 9785,
         "versionString": "Sprint 32",
         "dateString": "2013-10-04",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-32",
@@ -11,20 +11,12 @@
                 "description": "Brackets が自動的に、使用する index.html ファイルを見つけ出します。CSS ファイルから切り替えることなくライブプレビューを開始できます。"
             },
             {
-                "name": "Mac 向けダークウィンドウテーマ",
-                "description": "Mac 版にダークウィンドウテーマが実装されました。以前の sprint における Windows 版の更新と同様です。"
-            },
-            {
                 "name": "SVG ファイルのライブプレビュー",
                 "description": "ライブプレビューを使用して SVG ファイルを表示できるようになりました。変更は保存時にブラウザーにプッシュされます。"
             },
             {
                 "name": "入力時の検索結果表示の高速化",
                 "description": "検索フィールドに先頭文字を入力したとき（検索結果の数が非常に多いとき）のパフォーマンスが改善しました。"
-            },
-            {
-                "name": "Mac でライブプレビューを起動したときに Chrome が別ウィンドウで開く",
-                "description": "「Chrome を再起動しますか？」ダイアログは表示されなくなりました。"
             },
             {
                 "name": "Node がバージョン 0.10 に更新",
