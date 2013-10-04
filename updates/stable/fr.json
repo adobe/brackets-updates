@@ -11,10 +11,6 @@
                 "description": "Brackets détecte automatiquement un fichier index.html à utiliser. Plus besoin de vous éloigner de votre fichier CSS pour lancer l’Aperçu en direct !"
             },
             {
-                "name": "Aperçu en direct pour fichiers SVG",
-                "description": "Les fichiers SVG peuvent désormais être affichés avec le module Aperçu en direct. Les mises à jour sont répercutées dans le navigateur à chaque enregistrement."
-            },
-            {
                 "name": "Amélioration des performances pour la fonction de recherche au cours de la frappe",
                 "description": "Les performances sont améliorées dès que l’utilisateur saisit un ou deux caractères dans le champ Rechercher (et que le nombre de résultats est donc très élevé)."
             },

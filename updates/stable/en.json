@@ -11,10 +11,6 @@
                 "description": "Brackets will automatically find a nearby index.html file to use. No more switching way from your CSS file to start Live Preview!"
             },
             {
-                "name": "Live Preview for SVG Files",
-                "description": "SVG files can now be viewed using Live Preview. Updates are pushed to browser on save."
-            },
-            {
                 "name": "Faster Performance in Find as you Type",
                 "description": "Initial keystrokes when typing in Find field (when the number of results is usually very high) are improved."
             },
