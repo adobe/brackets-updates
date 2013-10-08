@@ -1,6 +1,6 @@
 [
     {
-        "buildNumber": 9785,
+        "buildNumber": 9791,
         "versionString": "Sprint 32",
         "dateString": "04-10-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-32",
@@ -24,7 +24,7 @@
             },
             {
                 "name": "Traductions mises à jour",
-                "description": "De nouvelles traductions en perse, néerlandais et grec sont disponibles. Les traductions en français, japonais, allemand, tchèque, portugais brésilien, suédois et turc ont été mises à jour."
+                "description": "Les traductions en français, japonais, allemand, tchèque, portugais brésilien, suédois et turc ont été mises à jour."
             }
         ]
     },
