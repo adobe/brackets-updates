@@ -7,8 +7,8 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "LivePreview für andere Dateitypen neben HTML",
-                "description": "Brackets findet automatisch die nächstliegende Index.html-Datei um LivePreview zu starten. Damit ist es nicht mehr notwendig, von einer CSS oder JavaScript zu einer HTML-Datei zu wechseln, um LivePreview zu starten."
+                "name": "Live-Vorschau für andere Dateitypen als HTML",
+                "description": "Brackets findet automatisch die nächstliegende index.html-Datei um die Live-Vorschau zu starten. Damit ist es nicht mehr notwendig, von einer CSS- oder JavaScript-Datei zu einer HTML-Datei zu wechseln, um die Live-Vorschau zu starten."
             },
             {
                 "name": "Bessere Performance der dynamischen Suche (engl. Find-as-you-type)",
@@ -20,11 +20,11 @@
             },
             {
                 "name": "Verbesserung der Linting API",
-                "description": "Extensions können die Linting Engine im Headless-Modus, d.h. ohne UI benutzen."
+                "description": "Erweiterungen können die Linting-Engine im Headless-Modus, d.h. ohne UI, benutzen."
             },
             {
                 "name": "Aktualisierte Übersetzungen",
-                "description": "Folgende Übersetzungen wurden aktualisiert: französisch, japanisch, deutsch, tschechisch, brasilianisches portugiesisch, schwedisch, und türkisch."
+                "description": "Folgende Übersetzungen wurden aktualisiert: Französisch, Japanisch, Deutsch, Tschechisch, brasilianisches Portugiesisch, Schwedisch und Türkisch."
             }
         ]
     },
