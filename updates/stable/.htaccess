@@ -4,4 +4,4 @@ RewriteRule ^de.*\.json$ de.json [L]
 RewriteRule ^fr.*\.json$ fr.json [L]
 RewriteRule ^ja.*\.json$ ja.json [L]
 RewriteRule .* en.json
-
+Header set Access-Control-Allow-Origin "*"
