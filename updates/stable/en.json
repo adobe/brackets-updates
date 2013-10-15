@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Launch Live Preview for non-HTML file",
-                "description": "Brackets will automatically find a nearby index.html file to use. No more switching way from your CSS file to start Live Preview!"
+                "description": "Brackets will automatically find a nearby index.html file to use. No more switching away from your CSS file to start Live Preview!"
             },
             {
                 "name": "Faster Performance in Find as you Type",
@@ -24,7 +24,7 @@
             },
             {
                 "name": "Updated Translations",
-                "description": "The French, Japanese, German, Czech, Brazilian Portuguese, Swedish, and Turkish translations have been updated."
+                "description": "French, Japanese, German, Czech, Finnish, and Turkish translations have been updated."
             }
         ]
     },
