@@ -12,11 +12,11 @@
             },
             {
                 "name": "New CSS Rule",
-                "description": "Quick Edit for CSS (Ctrl+E/⌘E) now has a New Rule button that creates a rule for the currently selected tag/class/id. You can modify the selector after it's created. You can also bring up Quick Edit on a tag/class/id that has no existing rules so that you can create a new rule."
+                "description": "You can now use the New Rule button in CSS Quick Edit for CSS (Ctrl+E/\u2318E) to create a rule for the currently selected tag/class/id, even when there aren't any existing rules. You can modify the selector after it's created."
             },
             {
                 "name": "Quick Edit for Animation Easing",
-                "description": "When the selection is in a CSS animation timing function, you can use Quick Edit (Ctrl+E/⌘E) to visually edit the timing curve."
+                "description": "When the selection is in a CSS animation timing function, you can use Quick Edit (Ctrl+E/\u2318E) to visually edit the timing curve."
             },
             {
                 "name": "Regular Expression Substitution",
