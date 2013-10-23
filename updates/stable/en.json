@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 10073,
+        "versionString": "Sprint 33",
+        "dateString": "10-28-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-33",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Image Preview",
+                "description": "Selecting an image in the file tree displays a preview of the image."
+            },
+            {
+                "name": "New CSS Rule from Quick Edit",
+                "description": "Use the New Rule button in CSS Quick Edit (Ctrl+E/\u2318E) to create a rule for the currently selected tag/class/id, even if there aren't any existing rules. You can modify the selector after it's created."
+            },
+            {
+                "name": "Quick Edit for Animation Easing",
+                "description": "When the selection is in a CSS animation timing function, you can use Quick Edit (Ctrl+E/\u2318E) to visually edit the timing curve."
+            },
+            {
+                "name": "Regular Expression Substitution",
+                "description": "When using a regular expression in find/replace, you can use $1, $2, etc. in the replace string to refer to parenthesized subexpressions in the query string."
+            },
+            {
+                "name": "UI Improvements",
+                "description": "The Mac version now has a dark titlebar, matching the rest of the Brackets design. Quick Edit widgets now have a close button. Find in Files reports when there are no results."
+            },
+            {
+                "name": "Updated Translations",
+                "description": "French, Japanese, German, and Czech translations have been updated."
+            }
+        ]
+    },
+    {
         "buildNumber": 9791,
         "versionString": "Sprint 32",
         "dateString": "10-04-2013",
@@ -45,7 +78,7 @@
             },
             {
                 "name": "Keyboard Support for Recent Projects",
-                "description": "Press Ctrl+Alt+R (⌥⌘R) to open the 'recent projects' dropdown, then use the arrows and Enter to switch projects."
+                "description": "Press Ctrl+Alt+R (\u2318\u2325R) to open the 'recent projects' dropdown, then use the arrows and Enter to switch projects."
             },
             {
                 "name": "CSS Code Hints in SCSS",
