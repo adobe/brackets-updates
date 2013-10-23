@@ -12,7 +12,7 @@
             },
             {
                 "name": "New CSS Rule",
-                "description": "You can now use the New Rule button in CSS Quick Edit for CSS (Ctrl+E/\u2318E) to create a rule for the currently selected tag/class/id, even when there aren't any existing rules. You can modify the selector after it's created."
+                "description": "You can now use the New Rule button in CSS Quick Edit (Ctrl+E/\u2318E) to create a rule for the currently selected tag/class/id, even when there aren't any existing rules. You can modify the selector after it's created."
             },
             {
                 "name": "Quick Edit for Animation Easing",
