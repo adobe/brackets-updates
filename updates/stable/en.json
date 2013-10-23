@@ -11,8 +11,8 @@
                 "description": "Selecting an image in the file tree displays a preview of the image."
             },
             {
-                "name": "New CSS Rule",
-                "description": "You can now use the New Rule button in CSS Quick Edit (Ctrl+E/\u2318E) to create a rule for the currently selected tag/class/id, even when there aren't any existing rules. You can modify the selector after it's created."
+                "name": "New CSS Rule from Quick Edit",
+                "description": "Use the New Rule button in CSS Quick Edit (Ctrl+E/\u2318E) to create a rule for the currently selected tag/class/id, even if there aren't any existing rules. You can modify the selector after it's created."
             },
             {
                 "name": "Quick Edit for Animation Easing",
@@ -78,7 +78,7 @@
             },
             {
                 "name": "Keyboard Support for Recent Projects",
-                "description": "Press Ctrl+Alt+R (⌥⌘R) to open the 'recent projects' dropdown, then use the arrows and Enter to switch projects."
+                "description": "Press Ctrl+Alt+R (\u2318\u2325R) to open the 'recent projects' dropdown, then use the arrows and Enter to switch projects."
             },
             {
                 "name": "CSS Code Hints in SCSS",
