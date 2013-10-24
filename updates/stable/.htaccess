@@ -1,6 +1,7 @@
 Options FollowSymLinks
 RewriteEngine on
 RewriteRule ^de.*\.json$ de.json [L]
+RewriteRule ^es.*\.json$ es.json [L]
 RewriteRule ^fr.*\.json$ fr.json [L]
 RewriteRule ^ja.*\.json$ ja.json [L]
 RewriteRule .* en.json
