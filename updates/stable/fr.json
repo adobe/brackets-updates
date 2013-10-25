@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 10073,
+        "versionString": "Sprint 33",
+        "dateString": "10-28-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-33",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Aperçu de l’image",
+                "description": "Si vous sélectionnez une image dans l’arborescence de fichiers, un aperçu s’affiche."
+            },
+            {
+                "name": "Nouvelle règle CSS pour le module Edition rapide",
+                "description": "Utilisez le bouton Nouvelle règle dans le module CSS Edition rapide (Ctrl+E/\u2318E) pour créer une règle spécifique à la balise/la classe/l’identifiant sélectionné, même s’il n’existe aucune autre règle. Vous pouvez modifier le sélecteur une fois l’étape de création terminée."
+            },
+            {
+                "name": "Edition rapide pour l’accélération d’animations",
+                "description": "Lorsque la sélection porte sur la fonction temporelle d’une animation CSS, vous pouvez utiliser le module Edition rapide (Ctrl+E/\u2318E) pour éditer visuellement la courbe temporelle."
+            },
+            {
+                "name": "Remplacement d’expressions régulières",
+                "description": "Lorsque vous utilisez une expression régulière dans la fonction Rechercher/Remplacer, vous pouvez indiquer $1, $2, etc. dans la chaîne de remplacement pour faire référence à des sous-expressions entre parenthèses dans la chaîne de requête."
+            },
+            {
+                "name": "Amélioration de l’interface utilisateur",
+                "description": "La version Mac dispose à présent d’une barre de titre foncée, plus cohérente avec le reste de l’interface Brackets. Les widgets du module Edition rapide disposent désormais d’un bouton Fermer. Quand elle ne trouve aucun résultat, la fonction « Rechercher dans les fichiers » le signale."
+            },
+            {
+                "name": "Traductions mises à jour",
+                "description": "Les traductions en allemand, français, japonais et tchèque ont été mises à jour."
+            }
+        ]
+    },
+    {
         "buildNumber": 9791,
         "versionString": "Sprint 32",
         "dateString": "04-10-2013",

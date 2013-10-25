@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 10073,
+        "versionString": "Sprint 33",
+        "dateString": "10-28-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-33",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "イメージプレビュー",
+                "description": "画像のプレビューが表示されたファイルツリーから画像を選択できます。"
+            },
+            {
+                "name": "クイック編集の新規 CSS ルール",
+                "description": "CSS クイック編集（Ctrl+E/\u2318E）の「新規ルール」ボタンを使用して、既存のルールがなくても、現在選択されているタグ、クラス、ID のルールを作成します。 セレクターは作成後に変更できます。"
+            },
+            {
+                "name": "アニメーションイージングのクイック編集",
+                "description": "選択範囲が CSS animation timing function にある場合は、クイック編集（Ctrl+E/\u2318E）を使用してタイミング曲線を視覚的に編集できます。"
+            },
+            {
+                "name": "正規表現の置換",
+                "description": "検索 / 置換で正規表現を使用している場合、置換文字列に $1、$2 などを使用してクエリ文字列内の括弧で囲まれた部分表現を参照できます。"
+            },
+            {
+                "name": "UI 機能の改善",
+                "description": "Mac バージョンのタイトルバーでダーク UI が採用され、Brackets の他のデザインと合致するようになりました。 クイック編集 Widget に閉じるボタンが搭載されました。 検索結果がない場合でも、「ファイルを横断して検索」のレポートが出力されます。"
+            },
+            {
+                "name": "翻訳の更新",
+                "description": "フランス語、日本語、ドイツ語、チェコ語の翻訳が更新されました。"
+            }
+        ]
+    },
+    {
         "buildNumber": 9791,
         "versionString": "Sprint 32",
         "dateString": "2013-10-04",
