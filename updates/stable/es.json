@@ -8,19 +8,19 @@
         "newFeatures": [
             {
                 "name": "Vista previa de imágenes",
-                "description": "Seleccionar una imagen en el árbol de directorios muestra una vista previa de la misma."
+                "description": "Al seleccionar una imagen en el árbol de directorios se muestra una vista previa de la misma."
             },
             {
                 "name": "Nueva regla CSS desde Edición Rápida",
-                "description": "Usa el botón Nueva Regla en Edición Rápida de CSS (Ctrl+E/\u2318E) para crear una regla para el tag/class/id seleccionado, incluso si todavía no existen reglas. Puedes modificar el selector una vez se haya creado."
+                "description": "Usa el botón Nueva Regla en la Edición Rápida de CSS (Ctrl+E/\u2318E) para crear una regla para el tag/class/id seleccionado, incluso si todavía no hay reglas. Puedes modificar el selector una vez se haya creado."
             },
             {
                 "name": "Edición Rápida para Suavizado de Animaciones",
-                "description": "Cuando la selección está en una \"animation timing function\" de CSS, puedes usar Edición Rápida Ctrl+E/\u2318E) para modificar visualmente la curva de tiempo"
+                "description": "Cuando la selección está en una \"animation timing function\" de CSS, puedes usar la Edición Rápida de CSS (Ctrl+E/\u2318E) para modificar visualmente la curva de tiempo."
             },
             {
                 "name": "Reemplazar en Expresiones Regulares",
-                "description": "Al utilizar una expresión regular en buscar/reemplazar, puedes usar $1, $2, etc. en la cadena de reemplazo para hacer referencia a expresiones entre paréntesis en la cadena de búsqueda"
+                "description": "Al utilizar una expresión regular en buscar/reemplazar, puedes usar $1, $2, etc. en la cadena de reemplazo para hacer referencia a expresiones entre paréntesis en la cadena de búsqueda."
             },
             {
                 "name": "Mejoras gráficas",
@@ -28,7 +28,7 @@
             },
             {
                 "name": "Traducciones actualizadas",
-                "description": "Las traducciones de Francés, Japonés, Alemán, Checo y Español se han actualizado."
+                "description": "Las traducciones de Francés, Japonés, Alemán, Checo y Español han sido actualizadas."
             }
         ]
     },
