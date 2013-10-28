@@ -66,7 +66,7 @@
         ]
     },
     {
-        "buildNumber": 8873,
+        "buildNumber": 9116,
         "versionString": "Sprint 30",
         "dateString": "08-29-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-30",
@@ -219,7 +219,7 @@
         ]
     },
     {
-        "buildNumber": 7567,
+        "buildNumber": 7701,
         "versionString": "Sprint 25",
         "dateString": "05-21-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-25",
@@ -401,7 +401,7 @@
         ]
     },
     {
-        "buildNumber": 5242,
+        "buildNumber": 5290,
         "versionString": "Sprint 19",
         "dateString": "01-18-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-19",
