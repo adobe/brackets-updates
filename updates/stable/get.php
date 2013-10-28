@@ -23,7 +23,11 @@ function mergeJson($root, $translated) {
 header("Content-Type: text/plain; charset=UTF-8");
 
 $lang = $_GET['lang'];
-if(file_exists($lang.".json")){
+if(isset($_GET['original'])){
+    $file = $lang.".json";
+    echo file_get_contents($file);
+}
+else if(file_exists($lang.".json")){
     $file = $lang.".json";
     
     $translated = json_decode(file_get_contents($file), true);

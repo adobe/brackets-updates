@@ -1,4 +1,5 @@
 Options FollowSymLinks
 RewriteEngine on
+RewriteRule ^original_(.+)\.json$ get.php?lang=$1&original [L]
 RewriteRule ^(.+)\.json$ get.php?lang=$1 [L]
 Header set Access-Control-Allow-Origin "*"
