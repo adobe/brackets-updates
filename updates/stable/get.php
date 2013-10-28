@@ -30,7 +30,9 @@ if(file_exists($lang.".json")){
     $root = json_decode(file_get_contents("en.json"), true);
     
     $out = mergeJson($root, $translated);
-    echo json_encode($out, JSON_PRETTY_PRINT);
+    $out = json_encode($out, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+    $out = str_replace("\/", "/", $out);
+    echo $out;
 }
 else{
     $file = "en.json";

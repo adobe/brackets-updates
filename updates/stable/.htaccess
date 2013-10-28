@@ -1,7 +1,4 @@
 Options FollowSymLinks
 RewriteEngine on
-RewriteRule ^de.*\.json$ get.php?lang=de [L]
-RewriteRule ^fr.*\.json$ get.php?lang=fr [L]
-RewriteRule ^ja.*\.json$ get.php?lang=ja [L]
-RewriteRule .* en.json
+RewriteRule ^(.+)\.json$ get.php?lang=$1 [L]
 Header set Access-Control-Allow-Origin "*"
