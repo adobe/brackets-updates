@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 10073,
+        "buildNumber": 10187,
         "versionString": "Sprint 33",
-        "dateString": "10-28-2013",
+        "dateString": "10-29-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-33",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -24,7 +24,7 @@
             },
             {
                 "name": "UI-Verbesserungen",
-                "description": "Die Mac-Version hat nun eine dunkle Titelleiste, angepasst an das restliche Brackets-Design. Schnelle Inline-Editoren haben nun einen Button zum Schließen. \"Im Projekt suchen\" meldet Ihnen, wenn nichts gefunden wurde."
+                "description": "Schnelle Inline-Editoren haben nun einen Button zum Schließen. \"Im Projekt suchen\" meldet Ihnen, wenn nichts gefunden wurde."
             },
             {
                 "name": "Aktualisierte Übersetzungen",

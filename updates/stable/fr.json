@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 10073,
+        "buildNumber": 10187,
         "versionString": "Sprint 33",
-        "dateString": "10-28-2013",
+        "dateString": "29-10-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-33",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -24,7 +24,7 @@
             },
             {
                 "name": "Amélioration de l’interface utilisateur",
-                "description": "La version Mac dispose à présent d’une barre de titre foncée, plus cohérente avec le reste de l’interface Brackets. Les widgets du module Edition rapide disposent désormais d’un bouton Fermer. Quand elle ne trouve aucun résultat, la fonction « Rechercher dans les fichiers » le signale."
+                "description": "Les widgets du module Edition rapide disposent désormais d’un bouton Fermer. Quand elle ne trouve aucun résultat, la fonction « Rechercher dans les fichiers » le signale."
             },
             {
                 "name": "Traductions mises à jour",

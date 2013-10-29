@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 10073,
+        "buildNumber": 10187,
         "versionString": "Sprint 33",
-        "dateString": "10-28-2013",
+        "dateString": "2013-10-29",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-33",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -24,7 +24,7 @@
             },
             {
                 "name": "UI 機能の改善",
-                "description": "Mac バージョンのタイトルバーでダーク UI が採用され、Brackets の他のデザインと合致するようになりました。 クイック編集 Widget に閉じるボタンが搭載されました。 検索結果がない場合でも、「ファイルを横断して検索」のレポートが出力されます。"
+                "description": "クイック編集 Widget に閉じるボタンが搭載されました。 検索結果がない場合でも、「ファイルを横断して検索」のレポートが出力されます。"
             },
             {
                 "name": "翻訳の更新",
