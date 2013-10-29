@@ -7,28 +7,28 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Image Preview",
-                "description": "Selecting an image in the file tree displays a preview of the image."
+                "name": "Vista previa de imágenes",
+                "description": "Al seleccionar una imagen en el árbol de directorios se muestra una vista previa de la misma."
             },
             {
-                "name": "New CSS Rule from Quick Edit",
-                "description": "Use the New Rule button in CSS Quick Edit (Ctrl+E/\u2318E) to create a rule for the currently selected tag/class/id, even if there aren't any existing rules. You can modify the selector after it's created."
+                "name": "Nueva regla CSS desde Edición Rápida",
+                "description": "Usa el botón Nueva Regla en la Edición Rápida de CSS (Ctrl+E/\u2318E) para crear una regla para el tag/class/id seleccionado, incluso si todavía no hay reglas. Puedes modificar el selector una vez se haya creado."
             },
             {
-                "name": "Quick Edit for Animation Easing",
-                "description": "When the selection is in a CSS animation timing function, you can use Quick Edit (Ctrl+E/\u2318E) to visually edit the timing curve."
+                "name": "Edición Rápida para Suavizado de Animaciones",
+                "description": "Cuando la selección está en una \"animation timing function\" de CSS, puedes usar la Edición Rápida de CSS (Ctrl+E/\u2318E) para modificar visualmente la curva de tiempo."
             },
             {
-                "name": "Regular Expression Substitution",
-                "description": "When using a regular expression in find/replace, you can use $1, $2, etc. in the replace string to refer to parenthesized subexpressions in the query string."
+                "name": "Reemplazar en Expresiones Regulares",
+                "description": "Al utilizar una expresión regular en buscar/reemplazar, puedes usar $1, $2, etc. en la cadena de reemplazo para hacer referencia a expresiones entre paréntesis en la cadena de búsqueda."
             },
             {
-                "name": "UI Improvements",
-                "description": "The Mac version now has a dark titlebar, matching the rest of the Brackets design. Quick Edit widgets now have a close button. Find in Files reports when there are no results."
+                "name": "Mejoras gráficas",
+                "description": "La versión de Mac tiene ahora una barra oscura, acorde con el resto del diseño de Brackets. Los widgets de Edición Gráfica tienen ahora un botón de cerrar. Buscar en archivos informa cuándo no hay resultados."
             },
             {
-                "name": "Updated Translations",
-                "description": "French, Japanese, German, Czech and Spanish translations have been updated."
+                "name": "Traducciones actualizadas",
+                "description": "Las traducciones de Francés, Japonés, Alemán, Checo y Español han sido actualizadas."
             }
         ]
     },
