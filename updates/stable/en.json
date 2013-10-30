@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 10073,
+        "buildNumber": 10187,
         "versionString": "Sprint 33",
-        "dateString": "10-28-2013",
+        "dateString": "10-29-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-33",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -21,10 +21,6 @@
             {
                 "name": "Regular Expression Substitution",
                 "description": "When using a regular expression in find/replace, you can use $1, $2, etc. in the replace string to refer to parenthesized subexpressions in the query string."
-            },
-            {
-                "name": "UI Improvements",
-                "description": "The Mac version now has a dark titlebar, matching the rest of the Brackets design. Quick Edit widgets now have a close button. Find in Files reports when there are no results."
             },
             {
                 "name": "Updated Translations",
