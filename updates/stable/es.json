@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 10073,
+        "buildNumber": 10187,
         "versionString": "Sprint 33",
-        "dateString": "10-28-2013",
+        "dateString": "10-29-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-33",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -21,10 +21,6 @@
             {
                 "name": "Reemplazar en Expresiones Regulares",
                 "description": "Al utilizar una expresión regular en buscar/reemplazar, puedes usar $1, $2, etc. en la cadena de reemplazo para hacer referencia a expresiones entre paréntesis en la cadena de búsqueda."
-            },
-            {
-                "name": "Mejoras gráficas",
-                "description": "La versión de Mac tiene ahora una barra oscura, acorde con el resto del diseño de Brackets. Los widgets de Edición Gráfica tienen ahora un botón de cerrar. Buscar en archivos informa cuándo no hay resultados."
             },
             {
                 "name": "Traducciones actualizadas",
