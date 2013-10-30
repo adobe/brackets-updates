@@ -35,7 +35,7 @@
     {
         "buildNumber": 9791,
         "versionString": "Sprint 32",
-        "dateString": "10-04-2013",
+        "dateString": "04.10.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-32",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -64,7 +64,7 @@
     {
         "buildNumber": 9569,
         "versionString": "Sprint 31",
-        "dateString": "09-20-2013",
+        "dateString": "20.09.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-31",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -101,7 +101,7 @@
     {
         "buildNumber": 8873,
         "versionString": "Sprint 30",
-        "dateString": "08-29-2013",
+        "dateString": "29.08.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-30",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -138,7 +138,7 @@
     {
         "buildNumber": 8678,
         "versionString": "Sprint 29",
-        "dateString": "08-09-2013",
+        "dateString": "09.08.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-29",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -163,7 +163,7 @@
     {
         "buildNumber": 8528,
         "versionString": "Sprint 28",
-        "dateString": "07-29-2013",
+        "dateString": "29.07.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-28",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -192,7 +192,7 @@
     {
         "buildNumber": 8254,
         "versionString": "Sprint 27",
-        "dateString": "06-26-2013",
+        "dateString": "26.06.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-27",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -221,7 +221,7 @@
     {
         "buildNumber": 8034,
         "versionString": "Sprint 26",
-        "dateString": "06-10-2013",
+        "dateString": "10.06.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-26",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -254,7 +254,7 @@
     {
         "buildNumber": 7567,
         "versionString": "Sprint 25",
-        "dateString": "05-21-2013",
+        "dateString": "21.05.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-25",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -287,7 +287,7 @@
     {
         "buildNumber": 7204,
         "versionString": "Sprint 24",
-        "dateString": "04-26-2013",
+        "dateString": "26.04.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-24",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -324,7 +324,7 @@
     {
         "buildNumber": 6726,
         "versionString": "Sprint 23",
-        "dateString": "04-10-2013",
+        "dateString": "10.04.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-23",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -345,7 +345,7 @@
     {
         "buildNumber": 6428,
         "versionString": "Sprint 22",
-        "dateString": "03-22-2013",
+        "dateString": "22.03.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-22",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -378,7 +378,7 @@
     {
         "buildNumber": 5990,
         "versionString": "Sprint 21",
-        "dateString": "03-01-2013",
+        "dateString": "01.03.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-21",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -407,7 +407,7 @@
     {
         "buildNumber": 5672,
         "versionString": "Sprint 20",
-        "dateString": "02-14-2013",
+        "dateString": "14.02.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-20",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -436,7 +436,7 @@
     {
         "buildNumber": 5242,
         "versionString": "Sprint 19",
-        "dateString": "01-18-2013",
+        "dateString": "18.01.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-19",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -469,7 +469,7 @@
     {
         "buildNumber": 5070,
         "versionString": "Sprint 18",
-        "dateString": "12-20-2012",
+        "dateString": "20.12.2012",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-18",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -494,7 +494,7 @@
     {
         "buildNumber": 4728,
         "versionString": "Sprint 17",
-        "dateString": "11-30-2012",
+        "dateString": "30.11.2012",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-17",
         "downloadURL": "https://github.com/adobe/brackets/downloads",
         "newFeatures": [
@@ -523,7 +523,7 @@
     {
         "buildNumber": 4439,
         "versionString": "Sprint 16",
-        "dateString": "11-06-2012",
+        "dateString": "06.11.2012",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-16",
         "downloadURL": "https://github.com/adobe/brackets/downloads",
         "newFeatures": [
@@ -552,7 +552,7 @@
     {
         "buildNumber": 4083,
         "versionString": "Sprint 15",
-        "dateString": "10-18-2012",
+        "dateString": "18.10.2012",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-15",
         "downloadURL": "https://github.com/adobe/brackets/downloads",
         "newFeatures": [
@@ -605,7 +605,7 @@
     {
         "buildNumber": 3791,
         "versionString": "Sprint 14",
-        "dateString": "9-20-2012",
+        "dateString": "20.09.2012",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-14",
         "downloadURL": "https://github.com/adobe/brackets/downloads",
         "newFeatures": [
