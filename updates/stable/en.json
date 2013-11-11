@@ -7,7 +7,7 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Upgrade Brackets Installation",
+                "name": "Upgrade Existing Brackets Installations",
                 "description": "Future versions of Brackets, starting with Sprint 35, will upgrade the existing installation in-place. Note: Versions Sprint 33 and older can still be simultaneously installed or otherwise uninstalled."
             },
             {
