@@ -28,7 +28,7 @@
             },
             {
                 "name": "Improved File System API",
-                "description": "Extension authors can build more robust and effecient extensions using the updated file system API. Important details and migration guidelines are included in the release notes."
+                "description": "Extension authors can build more robust and efficient extensions using the updated file system API. Important details and migration guidelines are included in the release notes."
             }
         ]
     },
