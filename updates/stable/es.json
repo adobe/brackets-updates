@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Actualizar instalaciones existentes de Brackets",
-                "description": "Próximas versions de Brackets, a partir de Sprint 35, actualizarán la instalación existente in-situ. Nota: Las versiones Sprint33 y anteriores todavía pueden estar instaladas de manera simultánea o desinstaladas en cualquier caso."
+                "description": "Las próximas versiones de Brackets, a partir de la versión Sprint 35, se actualizarán sobre la instalación existente de Brackets. Nota: Las versiones Sprint 33 y anteriores todavía pueden estar instaladas de manera simultánea o desinstaladas."
             },
             {
                 "name": "Robustez de Desarrollo en Vivo",
@@ -20,15 +20,15 @@
             },
             {
                 "name": "Robustez de las sugerencias de código en JavaScript",
-                "description": "Solucionados los problemas por los que las sugerencias se perdían en archivos de tamaño medio (500-2000 líneas) y en casos en los que se modificaban exports de un módulo."
+                "description": "Solucionados los problemas por los que las sugerencias se perdían en archivos de tamaño medio (500-2000 líneas) y en casos en los que se modificaban las propiedades exportadas de un módulo."
             },
             {
                 "name": "Traducciones nuevas y actualizadas",
                 "description": "Nuevas traducciones de Holandés, Persa y Rumano contribuidas por la comunidad. Las traducciones de Francés, Japonés, Portugués de Brasil, Checo, Finlandés, Alemán, Español, Sueco y Turco han sido actualizadas."
             },
             {
-                "name": "Mejorada API de Sistema de Archivos",
-                "description": "Los autores de extensiones puedeb ahora construir extensiones más robustas y eficientes utilizando la actualizada API de sistema de archivos. Las notas de la versión incluyen detalles importantes y pautas de migración."
+                "name": "Mejorada la API del Sistema de Archivos",
+                "description": "Los autores de extensiones pueden ahora construir extensiones más robustas y eficientes utilizando la actualizada API del sistema de archivos. Las notas de la versión incluyen los detalles importantes y las pautas de migración."
             }
         ]
     },
