@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 10592,
+        "versionString": "Sprint 34",
+        "dateString": "2013-11-15",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-34",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "既存 Brackets インストールのアップグレード",
+                "description": "Brackets の今後のバージョン（Sprint 35 以降）では、既存のインストールがアップグレードされます。注意：Sprint 33 以前のバージョンは引き続き同時にインストールできます。また、アンインストールすることもできます。"
+            },
+            {
+                "name": "ライブプレビューの信頼性",
+                "description": "Mac では Chrome の起動の信頼性がさらに高まり、Chrome を再起動する必要がなくなりました。"
+            },
+            {
+                "name": "UI 機能の改善",
+                "description": "Mac バージョンのタイトルバーでダーク UI が採用され、Brackets の他のデザインと合致するようになりました。"
+            },
+            {
+                "name": "JavaScript コードヒントの信頼性",
+                "description": "中規模サイズのファイル（500-2000 行）で、モジュールのエクスポートが変更された場合に、コードヒントが見つからないという問題が修正されました。"
+            },
+            {
+                "name": "翻訳の追加と更新",
+                "description": "対象言語のコミュニティの協力により、新たにオランダ語、ペルシャ語、ルーマニア語に翻訳されました。また、フランス語、日本語、ポルトガル語（ブラジル）、チェコ語、フィンランド語、ドイツ語、スペイン語、スウェーデン語の翻訳が更新されました。"
+            },
+            {
+                "name": "強化されたファイルシステム API",
+                "description": "拡張機能の制作者は、更新されたファイルシステム API を使用して、より堅牢で効率的な拡張機能を構築できるようになりました。詳細および移行のガイドラインはこのリリースノートに記載されています。"
+            }
+        ]
+    },
+    {
         "buildNumber": 10188,
         "versionString": "Sprint 33",
         "dateString": "2013-10-29",

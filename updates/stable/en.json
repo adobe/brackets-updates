@@ -24,11 +24,7 @@
             },
             {
                 "name": "New and Updated Translations",
-                "description": "New Dutch and Persian community contributed translations. Updated French, Japanese, Brazilian Portuguese, Czech, Finnish, German, and Spanish translations."
-            },
-            {
-                "name": "New and Updated Translations - Contigency plan",
-                "description": "New Dutch, Persian and Romanian community contributed translations. Updated French, Japanese, Brazilian Portuguese, Czech, Finnish, German, Spanish, Swedish, and Turkish translations."
+                "description": "New Dutch, Persian and Romanian community contributed translations. Updated French, Japanese, Brazilian Portuguese, Czech, Finnish, German, Spanish, and Swedish translations."
             },
             {
                 "name": "Improved File System API",
