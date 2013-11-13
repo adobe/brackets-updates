@@ -1,5 +1,42 @@
 [
     {
+        "buildNumber": 10592,
+        "versionString": "Sprint 34",
+        "dateString": "15.11.2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-34",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Ersetzen alter Brackets-Installationen",
+                "description": "Zukünftige Brackets-Versionen, beginnend mit Sprint 35, werden die bestehende Installation überschreiben. Hinweis: Sprint 33 und alle vorherigen Versionen können immer noch gleichzeitig installiert und deinstalliert werden."
+            },
+            {
+                "name": "Zuverlässigkeit der Live-Vorschau",
+                "description": "Auf dem Mac ist das Starten von Chrome nun zuverlässiger und benötigt keinen Neustart von Chrome mehr."
+            },
+            {
+                "name": "UI-Verbesserungen",
+                "description": "Die Mac-Version hat jetzt eine dunkle Titelleiste, die zum restlichen Brackets-Design passt."
+            },
+            {
+                "name": "Zuverlässigkeit der JavaScript-Code-Vorschläge",
+                "description": "Es wurden Probleme beseitigt, bei denen die Code-Vorschläge in mittelgroßen Dateien (500-2000 Zeilen) und in Fällen, wo die exportierten Daten eines Moduls geändert wurden, ausblieben."
+            },
+            {
+                "name": "Neue und aktualisierte Übersetzungen",
+                "description": "Neue niederländische und persische community-basierte Übersetzungen. Französische, japanische, brasilianisch-portugiesische, tschechische, finnische, deutsche und spanische Übersetzungen wurden aktualisiert."
+            },
+            {
+                "name": "Neue und aktualisierte Übersetzungen - Contigency plan",
+                "description": "Neue niederländische, persische und rumänische community-basierte Übersetzungen. Französische, japanische, brasilianisch-portugiesische, tschechische, finnische, deutsche, spanische und türkische Übersetzungen wurden aktualisiert."
+            },
+            {
+                "name": "Verbesserte Dateisystem-API",
+                "description": "Erweiterungs-Entwickler können robustere und effizientere Erweiterungen erstellen, indem sie die aktualisierte Dateisystem-API nutzen. Wichtige Details und Migrations-Richtlinien sind in den Versionshinweisen zu finden."
+            }
+        ]
+    },
+    {
         "buildNumber": 10188,
         "versionString": "Sprint 33",
         "dateString": "29.10.2013",
