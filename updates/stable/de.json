@@ -8,14 +8,14 @@
         "newFeatures": [
             {
                 "name": "Aktualisieren alter Brackets-Installationen",
-                "description": "Zukünftige Brackets-Versionen, beginnend mit Sprint 35, werden die bestehende Installation überschreiben. Hinweis: Nur Sprint 34 und später werden ersetzt werden. Installationen bis einschließlich Sprint 33 werden nicht verändert und können weiterhin neben allen anderen Versionen installiert sein."
+                "description": "Zukünftige Brackets-Versionen, beginnend mit Sprint 35, werden die bestehende Installation überschreiben. Hinweis: Nur Sprint 34 und spätere werden ersetzt werden. Installationen bis einschließlich Sprint 33 werden nicht verändert und können weiterhin neben allen anderen Versionen installiert sein."
             },
             {
                 "name": "UI-Verbesserungen",
                 "description": "Die Mac-Version hat jetzt eine dunkle Titelleiste, die zum restlichen Brackets-Design passt."
             },
             {
-                "name": "Verbesserung der JavaScript-Code-Hinweisen",
+                "name": "Verbesserung der JavaScript-Code-Hinweise",
                 "description": "In frühren Versionen schlug das Anzeigen von Code-Hinweisen bei Dateigrößen von ca. 500-2000 Zeilen sowie in manch anderen Fällen gelegentlich fehl. Diese Probleme wurden beseitigt."
             },
             {
