@@ -11,10 +11,6 @@
                 "description": "Future versions of Brackets, starting with Sprint 35, will upgrade the existing installation in-place. Note: Versions Sprint 33 and older can still be simultaneously installed or otherwise uninstalled."
             },
             {
-                "name": "Live Preview Reliability",
-                "description": "On Mac, launching Chrome is now more reliable and no longer requires Chrome to be relaunched."
-            },
-            {
                 "name": "UI Improvements",
                 "description": "The Mac version now has a dark titlebar, matching the rest of the Brackets design."
             },

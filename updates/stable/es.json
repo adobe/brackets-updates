@@ -11,10 +11,6 @@
                 "description": "Las próximas versiones de Brackets, a partir de la versión Sprint 35, se actualizarán sobre la instalación existente de Brackets. Nota: Las versiones Sprint 33 y anteriores todavía pueden estar instaladas de manera simultánea o desinstaladas."
             },
             {
-                "name": "Robustez de Desarrollo en Vivo",
-                "description": "En Mac, abrir Chrome es ahora más fiable y ya no es necesario que reiniciarlo."
-            },
-            {
                 "name": "Mejoras gráficas",
                 "description": "La versión de Mac tiene ahora una barra oscura, acorde con el resto del diseño de Brackets."
             },
