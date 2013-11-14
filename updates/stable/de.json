@@ -7,8 +7,8 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Ersetzen alter Brackets-Installationen",
-                "description": "Zukünftige Brackets-Versionen, beginnend mit Sprint 35, werden die bestehende Installation überschreiben. Hinweis: Sprint 33 und alle vorherigen Versionen können immer noch gleichzeitig installiert und deinstalliert werden."
+                "name": "Aktualisieren alter Brackets-Installationen",
+                "description": "Zukünftige Brackets-Versionen, beginnend mit Sprint 35, werden die bestehende Installation überschreiben. Hinweis: Nur Sprint 34 und später werden ersetzt werden. Installationen bis einschließlich Sprint 33 werden nicht verändert und können weiterhin neben allen anderen Versionen installiert sein."
             },
             {
                 "name": "Zuverlässigkeit der Live-Vorschau",
@@ -19,16 +19,12 @@
                 "description": "Die Mac-Version hat jetzt eine dunkle Titelleiste, die zum restlichen Brackets-Design passt."
             },
             {
-                "name": "Zuverlässigkeit der JavaScript-Code-Vorschläge",
-                "description": "Es wurden Probleme beseitigt, bei denen die Code-Vorschläge in mittelgroßen Dateien (500-2000 Zeilen) und in Fällen, wo die exportierten Daten eines Moduls geändert wurden, ausblieben."
+                "name": "Verbesserung der JavaScript-Code-Hinweisen",
+                "description": "In frühren Versionen schlug das Anzeigen von Code-Hinweisen bei Dateigrößen von ca. 500-2000 Zeilen sowie in manch anderen Fällen gelegentlich fehl. Diese Probleme wurden beseitigt."
             },
             {
                 "name": "Neue und aktualisierte Übersetzungen",
-                "description": "Neue niederländische und persische community-basierte Übersetzungen. Französische, japanische, brasilianisch-portugiesische, tschechische, finnische, deutsche und spanische Übersetzungen wurden aktualisiert."
-            },
-            {
-                "name": "Neue und aktualisierte Übersetzungen - Contigency plan",
-                "description": "Neue niederländische, persische und rumänische community-basierte Übersetzungen. Französische, japanische, brasilianisch-portugiesische, tschechische, finnische, deutsche, spanische und türkische Übersetzungen wurden aktualisiert."
+                "description": "Neue niederländische, persische und rumänische community-basierte Übersetzungen. Französische, japanische, brasilianisch-portugiesische, tschechische, finnische, deutsche und spanische Übersetzungen wurden aktualisiert."
             },
             {
                 "name": "Verbesserte Dateisystem-API",
