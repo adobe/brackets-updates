@@ -11,10 +11,6 @@
                 "description": "Pour les futures versions de Brackets, à commencer par le Sprint 35, la mise à niveau de l’installation existante se fera sur place. Remarque : il est toujours possible d’installer simultanément les versions Sprint 33 et antérieures ou de les désinstaller."
             },
             {
-                "name": "Fiabilité de l’Aperçu en direct",
-                "description": "Sous Mac, vous pouvez maintenant lancer Chrome de façon plus fiable, sans avoir à le relancer."
-            },
-            {
                 "name": "Amélioration de l’interface utilisateur",
                 "description": "La version Mac dispose à présent d’une barre de titre foncée, plus cohérente avec le reste de l’interface Brackets."
             },
