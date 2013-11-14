@@ -11,10 +11,6 @@
                 "description": "Zukünftige Brackets-Versionen, beginnend mit Sprint 35, werden die bestehende Installation überschreiben. Hinweis: Nur Sprint 34 und später werden ersetzt werden. Installationen bis einschließlich Sprint 33 werden nicht verändert und können weiterhin neben allen anderen Versionen installiert sein."
             },
             {
-                "name": "Zuverlässigkeit der Live-Vorschau",
-                "description": "Auf dem Mac ist das Starten von Chrome nun zuverlässiger und benötigt keinen Neustart von Chrome mehr."
-            },
-            {
                 "name": "UI-Verbesserungen",
                 "description": "Die Mac-Version hat jetzt eine dunkle Titelleiste, die zum restlichen Brackets-Design passt."
             },
