@@ -16,7 +16,7 @@
             },
             {
                 "name": "Verbesserung der JavaScript-Code-Hinweise",
-                "description": "In frühren Versionen schlug das Anzeigen von Code-Hinweisen bei Dateigrößen von ca. 500-2000 Zeilen sowie in manch anderen Fällen gelegentlich fehl. Diese Probleme wurden beseitigt."
+                "description": "In frühren Versionen schlug das Anzeigen von Code-Hinweisen bei Dateigrößen von ca. 500-2000 Zeilen sowie in einigen anderen Fällen fehl. Diese Probleme wurden beseitigt."
             },
             {
                 "name": "Neue und aktualisierte Übersetzungen",
@@ -24,7 +24,7 @@
             },
             {
                 "name": "Verbesserte Dateisystem-API",
-                "description": "Erweiterungs-Entwickler können robustere und effizientere Erweiterungen erstellen, indem sie die aktualisierte Dateisystem-API nutzen. Wichtige Details und Migrations-Richtlinien sind in den Versionshinweisen zu finden."
+                "description": "Erweiterungsentwicklern steht eine robustere und effizientere Dateisystem-API zur Verfügung. Alle wichtigen Details befinden sich in den Versionshinweisen."
             }
         ]
     },
