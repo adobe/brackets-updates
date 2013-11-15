@@ -1,6 +1,6 @@
 [
     {
-        "buildNumber": 10592,
+        "buildNumber": 10729,
         "versionString": "Sprint 34",
         "dateString": "11-15-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-34",
@@ -9,10 +9,6 @@
             {
                 "name": "Upgrade Existing Brackets Installations",
                 "description": "Future versions of Brackets, starting with Sprint 35, will upgrade the existing installation in-place. Note: Versions Sprint 33 and older can still be simultaneously installed or otherwise uninstalled."
-            },
-            {
-                "name": "Live Preview Reliability",
-                "description": "On Mac, launching Chrome is now more reliable and no longer requires Chrome to be relaunched."
             },
             {
                 "name": "UI Improvements",
@@ -24,11 +20,7 @@
             },
             {
                 "name": "New and Updated Translations",
-                "description": "New Dutch and Persian community contributed translations. Updated French, Japanese, Brazilian Portuguese, Czech, Finnish, German, and Spanish translations."
-            },
-            {
-                "name": "New and Updated Translations - Contigency plan",
-                "description": "New Dutch, Persian and Romanian community contributed translations. Updated French, Japanese, Brazilian Portuguese, Czech, Finnish, German, Spanish, Swedish, and Turkish translations."
+                "description": "New Dutch, Persian and Romanian community contributed translations. Updated French, Japanese, Brazilian Portuguese, Czech, Finnish, German, Spanish, and Swedish translations."
             },
             {
                 "name": "Improved File System API",

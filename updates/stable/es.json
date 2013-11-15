@@ -1,6 +1,6 @@
 [
     {
-        "buildNumber": 10592,
+        "buildNumber": 10729,
         "versionString": "Sprint 34",
         "dateString": "15-11-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-34",
@@ -9,10 +9,6 @@
             {
                 "name": "Actualizar instalaciones existentes de Brackets",
                 "description": "Las próximas versiones de Brackets, a partir de la versión Sprint 35, se actualizarán sobre la instalación existente de Brackets. Nota: Las versiones Sprint 33 y anteriores todavía pueden estar instaladas de manera simultánea o desinstaladas."
-            },
-            {
-                "name": "Robustez de Desarrollo en Vivo",
-                "description": "En Mac, abrir Chrome es ahora más fiable y ya no es necesario que reiniciarlo."
             },
             {
                 "name": "Mejoras gráficas",
@@ -24,7 +20,7 @@
             },
             {
                 "name": "Traducciones nuevas y actualizadas",
-                "description": "Nuevas traducciones de Holandés, Persa y Rumano contribuidas por la comunidad. Las traducciones de Francés, Japonés, Portugués de Brasil, Checo, Finlandés, Alemán, Español, Sueco y Turco han sido actualizadas."
+                "description": "Nuevas traducciones de Holandés, Persa y Rumano contribuidas por la comunidad. Las traducciones de Francés, Japonés, Portugués de Brasil, Checo, Finlandés, Alemán, Español y Sueco han sido actualizadas."
             },
             {
                 "name": "Mejorada la API del Sistema de Archivos",
