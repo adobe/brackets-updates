@@ -1,5 +1,22 @@
 [
     {
+        "buildNumber": 10733,
+        "versionString": "Sprint 35",
+        "dateString": "12-03-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-35",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Fix 6067",
+                "description": "Issue 6067: Sprint 34 crashes when the js file is in Desktop (Windows 7 64bits) - The fix prevents dot files to be read when initializing Tern."
+            },
+            {
+                "name": "Fix 6057",
+                "description": "Issue  6057: Cannot open a less file with the following content - The fix resolves the problem that occurred when parsing certain less files."
+            }            
+        ]
+    },    
+    {
         "buildNumber": 10729,
         "versionString": "Sprint 34",
         "dateString": "11-15-2013",
