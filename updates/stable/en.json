@@ -7,8 +7,8 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Fix freeze when opening JS files",
-                "description": "Fixes issue #6067: Opening JS files inside folders containing certain other files caused Brackets to freeze."
+                "name": "Fix freeze when opening Java Script files",
+                "description": "Fixes issue #6067: Opening Java Script files inside folders containing certain other files caused Brackets to freeze."
             },
             {
                 "name": "Fix UI problems with certain LESS files",
