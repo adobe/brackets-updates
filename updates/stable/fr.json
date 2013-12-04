@@ -1,5 +1,22 @@
 [
     {
+        "buildNumber": 10733,
+        "versionString": "Sprint 34.1",
+        "dateString": "12-03-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-34-1",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Fix freeze when opening Java Script files",
+                "description": "Fixes issue #6067: Opening Java Script files inside folders containing certain other files caused Brackets to freeze."
+            },
+            {
+                "name": "Fix UI problems with certain LESS files",
+                "description": "Fixes issue #6057: Opening certain LESS files caused the editor UI to become partially blank or display other glitches."
+            }            
+        ]
+    },  
+    {
         "buildNumber": 10729,
         "versionString": "Sprint 34",
         "dateString": "15-11-2013",
