@@ -2,17 +2,17 @@
     {
         "buildNumber": 10733,
         "versionString": "Sprint 34.1",
-        "dateString": "03-12-2013",
+        "dateString": "03.12.2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-34.1",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Bug-Fix um das Einfrieren von Brackets beim Öffnen einiger JavaScript Dateien zu verhindern",
-                "description": "Bug-Fix für #6067: Das Öffnen einiger JavaScript Dateien führt zum Einfrieren von Brackets."
+                "name": "Bugfix, um das Einfrieren von Brackets beim Öffnen einiger JavaScript Dateien zu verhindern",
+                "description": "Bugfix für #6067: Das Öffnen einiger JavaScript-Dateien führte zum Einfrieren von Brackets."
             },
             {
-                "name": "Bug-Fix für UI-Probleme mit einigen LESS files",
-                "description": "Bug-Fix für #6057: Das Öffnen einiger LESS Dateien führte dazu, dass das UI des Editors teilweise leer oder mit anderen Fehlern gezeichnet wurde."
+                "name": "Bugfix für UI-Probleme mit einigen LESS-Dateien",
+                "description": "Bugfix für #6057: Das Öffnen einiger LESS-Dateien führte dazu, dass das UI des Editors teilweise leer oder mit anderen Fehlern gezeichnet wurde."
             }            
         ]
     },  
