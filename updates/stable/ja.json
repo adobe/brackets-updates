@@ -7,12 +7,12 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Fix freeze when opening JavaScript files",
-                "description": "Fixes issue #6067: Opening JavaScript files inside folders containing certain other files caused Brackets to freeze."
+                "name": "JavaScript ファイルを開く際のフリーズを解決",
+                "description": "特定のファイルを含むフォルダー内で JavaScript ファイルを開くと Brackets がフリーズする問題 (問題 #6067) が修正されました。"
             },
             {
-                "name": "Fix UI problems with certain LESS files",
-                "description": "Fixes issue #6057: Opening certain LESS files caused the editor UI to become partially blank or display other glitches."
+                "name": "特定の LESS ファイルの UI に関する問題を解決",
+                "description": "特定の LESS ファイルを開くとエディター UI の一部が空白になるか、エラーが発生する問題 (問題 #6057) が修正されました。"
             }            
         ]
     },  
