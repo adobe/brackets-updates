@@ -7,12 +7,12 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Fix freeze when opening JavaScript files",
-                "description": "Fixes issue #6067: Opening JavaScript files inside folders containing certain other files caused Brackets to freeze."
+                "name": "Correction des problèmes de blocage à l’ouverture des fichiers JavaScript",
+                "description": "Correctif n°6067 : l’ouverture de fichiers JavaScript à l’intérieur de dossiers contenant certains autres fichiers provoquait un blocage de Brackets."
             },
             {
-                "name": "Fix UI problems with certain LESS files",
-                "description": "Fixes issue #6057: Opening certain LESS files caused the editor UI to become partially blank or display other glitches."
+                "name": "Correction des problèmes d’interface utilisateur liés à certains fichiers LESS",
+                "description": "Correctif n°6057 : à l’ouverture de certains fichiers LESS, l’interface de l’éditeur disparaissait en partie ou présentait d’autres problèmes d’affichage."
             }            
         ]
     },  
