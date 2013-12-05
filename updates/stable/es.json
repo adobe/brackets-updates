@@ -7,7 +7,7 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Arreglo cuando se abren archivos JavaScript",
+                "name": "Arreglo que evita que Brackets se congele al abrir archivos JavaScript",
                 "description": "Arregla el problema #6067: Abrir archivos JavaScript en carpetas que contiene cierto tipo de archivos causaba que Brackets se congele."
             },
             {
