@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Nueva Interfaz para Buscar/Reemplazar",
-                "description": "Reemplazar ahora usa una interfaz más ágil y clara que soporta las mismas características que Buscar, incluyendo búsqueda incremental y resaltado de resultados. Nuevos botones fueron agregados para activar la sensibilidad a mayúsculas y las expresiones regulares en las búsquedas para Buscar, Buscar en archivos, y Reemplazar."
+                "description": "Reemplazar ahora usa una interfaz más ágil y clara que soporta las mismas características que Buscar, incluyendo búsqueda incremental y resaltado de resultados. Fueron agregados nuevos botones en Buscar, Buscar en archivos y Reemplazar que permiten activar la sensibilidad a mayúsculas y las expresiones regulares en las búsquedas."
             },
             {
                 "name": "Activar Desarrollo en Vivo en Mac",
