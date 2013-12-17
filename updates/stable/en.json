@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "New Find/Replace UI",
-                "description": "Replace UI now uses a more compact UI supporting the same features as Find, including incremental search and highlighing. New case-sensitive and regular expression toggle buttons for easy access in Find, Find in Files, and Replace."
+                "description": "Replace now uses a streamlined, much cleaner UI supporting the same features as Find, including incremental search and highlighing. New case-sensitive and regular expression toggle buttons for easy access in Find, Find in Files, and Replace."
             },
             {
                 "name": "Launching Live Preview on Mac",
