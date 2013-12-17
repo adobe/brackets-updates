@@ -1,8 +1,29 @@
 [
     {
+        "buildNumber": 10884,
+        "versionString": "Sprint 35",
+        "dateString": "17-12-2013",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-35",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "New Find/Replace UI",
+                "description": "Replace now uses a streamlined, much cleaner UI supporting the same features as Find, including incremental search and highlighing. New case-sensitive and regular expression toggle buttons for easy access in Find, Find in Files, and Replace."
+            },
+            {
+                "name": "Launching Live Preview on Mac",
+                "description": "On Mac, Chrome does not need to be relaunched when starting Live Preview."
+            },
+            {
+                "name": "Faster Start-up",
+                "description": "Brackets now loads up to 50% faster thanks to minified JavaScript and pre-compiled LESS."
+            }
+        ]
+    },
+    {
         "buildNumber": 10733,
         "versionString": "(Hotfix) Sprint 34.1",
-        "dateString": "12-03-2013",
+        "dateString": "03-12-2013",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-34.1",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
