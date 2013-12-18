@@ -8,11 +8,11 @@
         "newFeatures": [
             {
                 "name": "Neues Find/Replace UI",
-                "description": "Das Feature \"Ersetzen\" verwendet nun eine schlanke, viel sauberere Oberfläche. Diese unterstützt die gleichen Funktionen wie \"Suchen\", einschließlich inkrementeller Suche und Hervorhebung. Neue Schaltflächen für Groß- und Kleinschreibung, Reguläre Ausdrücke und  für den vereinfachten Zugang in \"Suche\", \"Suche in Dateien\" und \"Ersetzen\" sind nun verfügbar."
+                "description": " Das \"Ersetzen\" Feature verwendet nun ein schlanke und aufgeräumte Oberfläche.. Diese unterstützt die gleichen Funktionen wie \"Suchen\", einschließlich inkrementeller Suche und Hervorhebung. Neue Schaltflächen für Groß- und Kleinschreibung, Reguläre Ausdrücke und  für den vereinfachten Zugang in \"Suche\", \"Suche in Dateien\" und \"Ersetzen\" sind nun verfügbar."
             },
             {
                 "name": "Starten der Live-Vorschau auf dem Mac",
-                "description": "Auf dem Mac braucht Chrome beim Start der Live-Vorschau nicht neu aufgerufen werden."
+                "description": "Auf dem Mac braucht Chrome beim Start der Live-Vorschau nicht neu gestartet werden."
             },
             {
                 "name": "Schneller Start-up",
