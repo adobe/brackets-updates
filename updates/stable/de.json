@@ -7,16 +7,16 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "New Find/Replace UI",
-                "description": "Replace now uses a streamlined, much cleaner UI supporting the same features as Find, including incremental search and highlighting. New case-sensitive and regular expression toggle buttons for easy access in Find, Find in Files, and Replace."
+                "name": "Neues Find/Replace UI",
+                "description": " Das \"Ersetzen\" Feature verwendet nun ein schlanke und aufgeräumte Oberfläche. Diese unterstützt die gleichen Funktionen wie \"Suchen\", einschließlich inkrementeller Suche und Hervorhebung. Neue Schaltflächen für Groß- und Kleinschreibung, Reguläre Ausdrücke und  für den vereinfachten Zugang in \"Suche\", \"Suche in Dateien\" und \"Ersetzen\" sind nun verfügbar."
             },
             {
-                "name": "Launching Live Preview on Mac",
-                "description": "On Mac, Chrome does not need to be relaunched when starting Live Preview."
+                "name": "Starten der Live-Vorschau auf dem Mac",
+                "description": "Auf dem Mac braucht Chrome beim Start der Live-Vorschau nicht neu gestartet werden."
             },
             {
-                "name": "Faster Start-up",
-                "description": "Brackets now loads up to 50% faster thanks to minified JavaScript and pre-compiled LESS."
+                "name": "Schneller Start-up",
+                "description": "Brackets lädt jetzt bis zu 50% schneller durch minimierte JavaScript und vorkompiliertes LESS."
             }
         ]
     },
@@ -34,9 +34,9 @@
             {
                 "name": "Bugfix für UI-Probleme mit einigen LESS-Dateien",
                 "description": "Bugfix für #6057: Das Öffnen einiger LESS-Dateien führte dazu, dass das UI des Editors teilweise leer oder mit anderen Fehlern gezeichnet wurde."
-            }            
+            }
         ]
-    },  
+    },
     {
         "buildNumber": 10729,
         "versionString": "Sprint 34",
