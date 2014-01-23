@@ -16,7 +16,7 @@
             },
             {
                 "name": "Extensions",
-                "description": "New Reload Without Extensions command to help troubleshoot problems. Brackets Registry will begin tracking how many times each extension has been installed."
+                "description": "New Reload Without Extensions command to help troubleshoot problems."
             },
             {
                 "name": "Improved LESS Support",
