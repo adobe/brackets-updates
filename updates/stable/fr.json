@@ -1,5 +1,46 @@
 [
     {
+        "buildNumber": 11462,
+        "versionString": "Sprint 36",
+        "dateString": "27-01-2014",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-36",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Improved Preferences",
+                "description": "Use JSON configuration files to specify settings by folder or file-type."
+            },
+            {
+                "name": "Improved LESS Support",
+                "description": "CSS Code hints and Quick Docs support now available when editing LESS files."
+            },
+            {
+                "name": "File System & Performance",
+                "description": "Editor and Project file tree are now automatically updated with external changes. Operations like Find in Files are much faster."
+            },
+            {
+                "name": "Extensions",
+                "description": "New Debug &gt; Reload Without Extensions command to help troubleshoot problems. When updating and removing extensions, Brackets now automatically reloads, so quit and re-launch is no longer required."
+            },
+            {
+                "name": "Quick Edit for Animation Timing",
+                "description": "When the selection is in a CSS animation steps() timing function, you can use Quick Edit (Ctrl+E/\u2318E) to visually edit parameters."
+            },
+            {
+                "name": "Windows UI Updates",
+                "description": "Fixed many window-chrome glitches."
+            },
+            {
+                "name": "Linting",
+                "description": "Multiple extensions can register linters for the same language and all the results will be shown together in the linting panel."
+            },
+            {
+                "name": "New Language Support",
+                "description": "Greek and Korean Translations have been added to Brackets."
+            }
+        ]
+    },
+    {
         "buildNumber": 10897,
         "versionString": "Sprint 35",
         "dateString": "17-12-2013",
