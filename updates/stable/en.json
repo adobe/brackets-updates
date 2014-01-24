@@ -32,7 +32,7 @@
             },
             {
                 "name": "Linting",
-                "description": "Multiple extensions can registers linters for the same language, and all the results will be shown together in the linting panel."
+                "description": "Multiple extensions can register linters for the same language and all the results will be shown together in the linting panel."
             },
             {
                 "name": "New Language Support",
