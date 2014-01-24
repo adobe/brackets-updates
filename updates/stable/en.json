@@ -20,7 +20,7 @@
             },
             {
                 "name": "Extensions",
-                "description": "New Reload Without Extensions command to help troubleshoot problems. When updating and removing extensions, Brackets now automatically reloads, so quit and re-launch is no longer required."
+                "description": "New Debug &gt; Reload Without Extensions command to help troubleshoot problems. When updating and removing extensions, Brackets now automatically reloads, so quit and re-launch is no longer required."
             },
             {
                 "name": "Quick Edit for Animation Timing",
