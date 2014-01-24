@@ -8,7 +8,11 @@
         "newFeatures": [
             {
                 "name": "Improved Preferences",
-                "description": "Use JSON configuration files to specify different settings for different folders or different file types."
+                "description": "Use JSON configuration files to specify settings by folder or file-type."
+            },
+            {
+                "name": "Improved LESS Support",
+                "description": "CSS Code hints and Quick Docs support now available when editing LESS files."
             },
             {
                 "name": "File System & Performance",
@@ -16,11 +20,7 @@
             },
             {
                 "name": "Extensions",
-                "description": "New Reload Without Extensions command to help troubleshoot problems."
-            },
-            {
-                "name": "Improved LESS Support",
-                "description": "Code hints for CSS property names & values: The same code hints you see in CSS files will now also appear in LESS files. Quick Docs for CSS properties: Ditto – just like in CSS."
+                "description": "New Reload Without Extensions command to help troubleshoot problems. When updating and removing extensions, Brackets now automatically reloads, so quit and re-launch is no longer required."
             },
             {
                 "name": "Quick Edit for Animation Timing",
@@ -28,11 +28,15 @@
             },
             {
                 "name": "Windows UI Updates",
-                "description": "Many window-chrome visual glitches fixed, and flatter scrollbar appearance."
+                "description": "Fixed many window-chrome glitches."
             },
             {
                 "name": "Linting",
-                "description": "Multiple linting providers per language are now supported. All providers are run and the results consolidated. JSLint preferences in .jshintrc file are now supported."
+                "description": "Multiple extensions can registers linters for the same language, and all the results will be shown together in the linting panel."
+            },
+            {
+                "name": "New Language Support",
+                "description": "Greek and Korean Translations have been added to Brackets."
             }
         ]
     },
