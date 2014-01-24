@@ -1,5 +1,46 @@
 [
     {
+        "buildNumber": 11462,
+        "versionString": "Sprint 36",
+        "dateString": "27.01.2014",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-36",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Optimierte Einstellungen",
+                "description": "Nutzen Sie JSON-Konfigurationsdateien, um Einstellungen für einen bestimmten Ordner oder Dateityp festzulegen."
+            },
+            {
+                "name": "Verbesserter LESS-Support",
+                "description": "CSS-Code-Vervollständigung und Schnell-Dokumentation sind nun auch beim Bearbeiten von LESS-Dateien vefügbar."
+            },
+            {
+                "name": "Dateisystem & Performance",
+                "description": "Der Editor und der Projekt-Dateibaum werden von nun an bei externen Änderungen automatisch aktualisiert. Vorgänge wie \"Im Projekt suchen\" sind deutlich schneller."
+            },
+            {
+                "name": "Erweiterungen",
+                "description": "Neuer Befehl Debug &gt; Ohne Erweiterungen neu laden, um bei der Fehlersuche zu helfen. Beim Aktualisieren und Entfernen von Erweiterungen wird Brackets automatisch neu geladen, sodass es nicht mehr geschlossen und erneut geöffnet werden muss."
+            },
+            {
+                "name": "Schnelles Editieren von Animations-Timing",
+                "description": "Wenn der Cursor in einer CSS-Timing-Funktion steps() ist, kann das Schnelle Bearbeiten (Strg+E/\u2318E) genutzt werden, um die Parameter visuell zu bearbeiten."
+            },
+            {
+                "name": "Windows UI-Updates",
+                "description": "Viele Fehler im Windows-UI wurden behoben."
+            },
+            {
+                "name": "Linten",
+                "description": "Mehrere Erweiterungen können Linter für die selbe Sprache registrieren, wobei alle Resultate gemeinsam im Lint-Panel angezeigt werden."
+            },
+            {
+                "name": "Unterstützung für neue Sprachen",
+                "description": "Griechische und koreanische Übersetzungen wurden hinzugefügt."
+            }
+        ]
+    },
+    {
         "buildNumber": 10897,
         "versionString": "Sprint 35",
         "dateString": "17.12.2013",
@@ -8,15 +49,15 @@
         "newFeatures": [
             {
                 "name": "Neues Find/Replace UI",
-                "description": " Das \"Ersetzen\" Feature verwendet nun ein schlanke und aufgeräumte Oberfläche. Diese unterstützt die gleichen Funktionen wie \"Suchen\", einschließlich inkrementeller Suche und Hervorhebung. Neue Schaltflächen für Groß- und Kleinschreibung, Reguläre Ausdrücke und  für den vereinfachten Zugang in \"Suche\", \"Suche in Dateien\" und \"Ersetzen\" sind nun verfügbar."
+                "description": " Das \"Ersetzen\" Feature verwendet nun eine schlanke und aufgeräumte Oberfläche. Diese unterstützt die gleichen Funktionen wie \"Suchen\", einschließlich inkrementeller Suche und Hervorhebung. Neue Schaltflächen für Groß- und Kleinschreibung, Reguläre Ausdrücke und  für den vereinfachten Zugang in \"Suche\", \"Suche in Dateien\" und \"Ersetzen\" sind nun verfügbar."
             },
             {
                 "name": "Starten der Live-Vorschau auf dem Mac",
                 "description": "Auf dem Mac braucht Chrome beim Start der Live-Vorschau nicht neu gestartet werden."
             },
             {
-                "name": "Schneller Start-up",
-                "description": "Brackets lädt jetzt bis zu 50% schneller durch minimierte JavaScript und vorkompiliertes LESS."
+                "name": "Schnellerer Start",
+                "description": "Brackets lädt jetzt bis zu 50% schneller durch minimiertes JavaScript und vorkompiliertes LESS."
             }
         ]
     },
