@@ -7,36 +7,36 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Improved Preferences",
-                "description": "Use JSON configuration files to specify settings by folder or file-type."
+                "name": "Preferencias Mejoradas",
+                "description": "Utilice archivos de configuración con formato JSON para especificar la configuración por carpeta o tipo de archivo."
             },
             {
-                "name": "Improved LESS Support",
-                "description": "CSS Code hints and Quick Docs support now available when editing LESS files."
+                "name": "Mejorado el Soporte para LESS",
+                "description": "Las sugerencias de código CSS y la Documentación rápida ahora están disponibles al editar archivos LESS."
             },
             {
-                "name": "File System & Performance",
-                "description": "Editor and Project file tree are now automatically updated with external changes. Operations like Find in Files are much faster."
+                "name": "Sistema de Archivos y Rendimiento",
+                "description": "El editor y el árbol de archivos del proyecto se actualizarán automáticamente con los cambios externos. Operaciones, tales como Buscar en archivos, son mucho más rápidas."
             },
             {
-                "name": "Extensions",
-                "description": "New Debug &gt; Reload Without Extensions command to help troubleshoot problems. When updating and removing extensions, Brackets now automatically reloads, so quit and re-launch is no longer required."
+                "name": "Extensiones",
+                "description": "Hay un nuevo comando Desarrollo &gt; Recargar sin extensiones para ayudar a solucionar problemas. Cuando se actualizan o remueven extensiones, Brackets se recargará automáticamente, por lo que salir y abrir Brackets nuevamente ya no es necesario."
             },
             {
-                "name": "Quick Edit for Animation Timing",
-                "description": "When the selection is in a CSS animation steps() timing function, you can use Quick Edit (Ctrl+E/\u2318E) to visually edit parameters."
+                "name": "Edición rápida para Animation Timing",
+                "description": "Cuando el cursor esta sobre la función CSS steps(), puede usar la Edición rápida (Ctrl+E/\u2318E) para editar los parámetros visualmente."
             },
             {
-                "name": "Windows UI Updates",
-                "description": "Fixed many window-chrome glitches."
+                "name": "Actualizaciones en la Interfaz en Windows",
+                "description": "Se corrigieron muchos fallos en la ventana en Windows."
             },
             {
-                "name": "Linting",
-                "description": "Multiple extensions can register linters for the same language and all the results will be shown together in the linting panel."
+                "name": "Inspección de Código",
+                "description": "Múltiples extensiones pueden registrar inspectores de código para el mismo tipo de archivo y todos los resultados se mostraran juntos en el mismo panel de resultados."
             },
             {
-                "name": "New Language Support",
-                "description": "Greek and Korean Translations have been added to Brackets."
+                "name": "Nuevas Traducciones",
+                "description": "Nuevas traducciones de Griego y Coreano fueron agregadas a Brackets."
             }
         ]
     },
