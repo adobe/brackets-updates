@@ -11,16 +11,16 @@
                 "description": "Utilice archivos de configuración con formato JSON para especificar la configuración por carpeta o tipo de archivo."
             },
             {
-                "name": "Mejorado el Sporte para LESS",
-                "description": "La sugerencias de código CSS y la Documentación rápida ahora están disponibles al editar archivos LESS."
+                "name": "Mejorado el Soporte para LESS",
+                "description": "Las sugerencias de código CSS y la Documentación rápida ahora están disponibles al editar archivos LESS."
             },
             {
                 "name": "Sistema de Archivos y Rendimiento",
-                "description": "El editor y el árbol de archivos del proyecto se actualizarán automáticamente con los cambios externos. Operaciones como Buscar en archivos son mucho más rápidas."
+                "description": "El editor y el árbol de archivos del proyecto se actualizarán automáticamente con los cambios externos. Operaciones, tales como Buscar en archivos, son mucho más rápidas."
             },
             {
                 "name": "Extensiones",
-                "description": "Hay un nuevo comando Desarrollo &gt; Recargar sin extensiones para ayudar a solucionar problemas. Cuando se actualizan o remueven extensiones, Brackets se recargará automáticamente, por lo que salir y abrir Brackets nuevamente no es necesario."
+                "description": "Hay un nuevo comando Desarrollo &gt; Recargar sin extensiones para ayudar a solucionar problemas. Cuando se actualizan o remueven extensiones, Brackets se recargará automáticamente, por lo que salir y abrir Brackets nuevamente ya no es necesario."
             },
             {
                 "name": "Edición rápida para Animation Timing",
