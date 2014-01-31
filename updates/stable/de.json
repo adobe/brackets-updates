@@ -16,7 +16,7 @@
             },
             {
                 "name": "Dateisystem & Performance",
-                "description": "Der Editor und der Projekt-Dateibaum werden von nun an bei externen Änderungen automatisch aktualisiert. Vorgänge wie \"Im Projekt suchen\" sind deutlich schneller."
+                "description": "Der Editor und der Dateibaum werden von nun an bei externen Änderungen automatisch aktualisiert. Vorgänge wie \"Im Projekt suchen\" sind deutlich schneller."
             },
             {
                 "name": "Erweiterungen",
@@ -28,7 +28,7 @@
             },
             {
                 "name": "Windows UI-Updates",
-                "description": "Viele Fehler im Windows-UI wurden behoben."
+                "description": "Viele Fehler im Windows UI wurden behoben."
             },
             {
                 "name": "Linten",
