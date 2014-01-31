@@ -7,36 +7,36 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Improved Preferences",
-                "description": "Use JSON configuration files to specify settings by folder or file-type."
+                "name": "Optimierte Einstellungen",
+                "description": "Nutzen Sie JSON-Konfigurationsdateien, um Einstellungen für einen bestimmten Ordner oder Dateityp festzulegen."
             },
             {
-                "name": "Improved LESS Support",
-                "description": "CSS Code hints and Quick Docs support now available when editing LESS files."
+                "name": "Verbesserter LESS-Support",
+                "description": "CSS-Code-Vervollständigung und Schnell-Dokumentation sind nun auch beim Bearbeiten von LESS-Dateien verfügbar."
             },
             {
-                "name": "File System & Performance",
-                "description": "Editor and Project file tree are now automatically updated with external changes. Operations like Find in Files are much faster."
+                "name": "Dateisystem & Performance",
+                "description": "Der Editor und der Dateibaum werden von nun an bei externen Änderungen automatisch aktualisiert. Vorgänge wie \"Im Projekt suchen\" sind deutlich schneller."
             },
             {
-                "name": "Extensions",
-                "description": "New Debug &gt; Reload Without Extensions command to help troubleshoot problems. When updating and removing extensions, Brackets now automatically reloads, so quit and re-launch is no longer required."
+                "name": "Erweiterungen",
+                "description": "Neuer Befehl Debug &gt; Ohne Erweiterungen neu laden, um bei der Fehlersuche zu helfen. Beim Aktualisieren und Entfernen von Erweiterungen wird Brackets automatisch neu geladen, sodass es nicht mehr geschlossen und erneut geöffnet werden muss."
             },
             {
-                "name": "Quick Edit for Animation Timing",
-                "description": "When the selection is in a CSS animation steps() timing function, you can use Quick Edit (Ctrl+E/\u2318E) to visually edit parameters."
+                "name": "Schnelles Editieren von Animations-Timing",
+                "description": "Wenn der Cursor in einer CSS-Timing-Funktion steps() ist, kann das Schnelle Bearbeiten (Strg+E/\u2318E) genutzt werden, um die Parameter visuell zu bearbeiten."
             },
             {
-                "name": "Windows UI Updates",
-                "description": "Fixed many window-chrome glitches."
+                "name": "Windows UI-Updates",
+                "description": "Viele Fehler im Windows UI wurden behoben."
             },
             {
-                "name": "Linting",
-                "description": "Multiple extensions can register linters for the same language and all the results will be shown together in the linting panel."
+                "name": "Linten",
+                "description": "Mehrere Erweiterungen können Linter für die selbe Sprache registrieren, wobei alle Resultate gemeinsam im Lint-Panel angezeigt werden."
             },
             {
-                "name": "New Language Support",
-                "description": "Greek and Korean Translations have been added to Brackets."
+                "name": "Unterstützung für neue Sprachen",
+                "description": "Griechische und koreanische Übersetzungen wurden hinzugefügt."
             }
         ]
     },
@@ -49,15 +49,15 @@
         "newFeatures": [
             {
                 "name": "Neues Find/Replace UI",
-                "description": " Das \"Ersetzen\" Feature verwendet nun ein schlanke und aufgeräumte Oberfläche. Diese unterstützt die gleichen Funktionen wie \"Suchen\", einschließlich inkrementeller Suche und Hervorhebung. Neue Schaltflächen für Groß- und Kleinschreibung, Reguläre Ausdrücke und  für den vereinfachten Zugang in \"Suche\", \"Suche in Dateien\" und \"Ersetzen\" sind nun verfügbar."
+                "description": " Das \"Ersetzen\" Feature verwendet nun eine schlanke und aufgeräumte Oberfläche. Diese unterstützt die gleichen Funktionen wie \"Suchen\", einschließlich inkrementeller Suche und Hervorhebung. Neue Schaltflächen für Groß- und Kleinschreibung, Reguläre Ausdrücke und  für den vereinfachten Zugang in \"Suche\", \"Suche in Dateien\" und \"Ersetzen\" sind nun verfügbar."
             },
             {
                 "name": "Starten der Live-Vorschau auf dem Mac",
                 "description": "Auf dem Mac braucht Chrome beim Start der Live-Vorschau nicht neu gestartet werden."
             },
             {
-                "name": "Schneller Start-up",
-                "description": "Brackets lädt jetzt bis zu 50% schneller durch minimierte JavaScript und vorkompiliertes LESS."
+                "name": "Schnellerer Start",
+                "description": "Brackets lädt jetzt bis zu 50% schneller durch minimiertes JavaScript und vorkompiliertes LESS."
             }
         ]
     },
