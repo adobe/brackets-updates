@@ -1,5 +1,46 @@
 [
     {
+        "buildNumber": 11462,
+        "versionString": "Sprint 36",
+        "dateString": "2014-01-27",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-36",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "強化された環境設定",
+                "description": "JSON 構成ファイルを使用して、フォルダーまたはファイルタイプの設定を行えるようになりました。"
+            },
+            {
+                "name": "LESS サポートの向上",
+                "description": "LESS ファイルの編集時に、CSS コードヒントやクイックドキュメントサポートを利用できるようになりました。"
+            },
+            {
+                "name": "ファイルシステムおよびパフォーマンス",
+                "description": "外部から変更が加えられたときに、エディターおよびプロジェクトファイルツリーが自動的に更新されるようになりました。「ファイルを横断して検索」などの操作をより素早く実行できます。"
+            },
+            {
+                "name": "拡張機能",
+                "description": "新しい「デバッグ／拡張機能なしでリロード」コマンドによって、操作がよりスムーズになります。拡張機能の更新および削除時に Brackets で自動的にリロードが行われるため、終了や再起動の必要がなくなりました。"
+            },
+            {
+                "name": "アニメーションタイミングのクイック編集",
+                "description": "選択範囲が CSS animation steps() timing function にある場合に、クイック編集 (Ctrl+E/\u2318E) を使用して、パラメーターを視覚的に編集できるようになりました。"
+            },
+            {
+                "name": "Windows UI の更新",
+                "description": "ウィンドウ-クロムで発生する多くの問題が解決されました。"
+            },
+            {
+                "name": "Lint 機能",
+                "description": "複数の拡張機能で同じ言語のリンターを登録して、すべての結果を Lint パネルにまとめて表示できるようになりました。"
+            },
+            {
+                "name": "新しい言語サポート",
+                "description": "ギリシャ語および韓国語の翻訳が Brackets に追加されました。"
+            }
+        ]
+    },
+    {
         "buildNumber": 10897,
         "versionString": "Sprint 35",
         "dateString": "2013-12-17",

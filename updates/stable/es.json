@@ -1,5 +1,46 @@
 [
     {
+        "buildNumber": 11462,
+        "versionString": "Sprint 36",
+        "dateString": "27-01-2014",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-36",
+        "downloadURL": "http://download.brackets.io",
+        "newFeatures": [
+            {
+                "name": "Preferencias Mejoradas",
+                "description": "Utilice archivos de configuración con formato JSON para especificar la configuración por carpeta o tipo de archivo."
+            },
+            {
+                "name": "Mejorado el Soporte para LESS",
+                "description": "Las sugerencias de código CSS y la Documentación rápida ahora están disponibles al editar archivos LESS."
+            },
+            {
+                "name": "Sistema de Archivos y Rendimiento",
+                "description": "El editor y el árbol de archivos del proyecto se actualizarán automáticamente con los cambios externos. Operaciones, tales como Buscar en archivos, son mucho más rápidas."
+            },
+            {
+                "name": "Extensiones",
+                "description": "Hay un nuevo comando Desarrollo &gt; Recargar sin extensiones para ayudar a solucionar problemas. Cuando se actualizan o remueven extensiones, Brackets se recargará automáticamente, por lo que salir y abrir Brackets nuevamente ya no es necesario."
+            },
+            {
+                "name": "Edición rápida para Animation Timing",
+                "description": "Cuando el cursor esta sobre la función CSS steps(), puede usar la Edición rápida (Ctrl+E/\u2318E) para editar los parámetros visualmente."
+            },
+            {
+                "name": "Actualizaciones en la Interfaz en Windows",
+                "description": "Se corrigieron muchos fallos en la ventana en Windows."
+            },
+            {
+                "name": "Inspección de Código",
+                "description": "Múltiples extensiones pueden registrar inspectores de código para el mismo tipo de archivo y todos los resultados se mostraran juntos en el mismo panel de resultados."
+            },
+            {
+                "name": "Nuevas Traducciones",
+                "description": "Nuevas traducciones de Griego y Coreano fueron agregadas a Brackets."
+            }
+        ]
+    },
+    {
         "buildNumber": 10897,
         "versionString": "Sprint 35",
         "dateString": "17-12-2013",
