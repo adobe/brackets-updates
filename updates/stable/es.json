@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 11462,
+        "buildNumber": 11506,
         "versionString": "Sprint 36",
-        "dateString": "27-01-2014",
+        "dateString": "07-02-2014",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-36",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -20,7 +20,7 @@
             },
             {
                 "name": "Extensiones",
-                "description": "Hay un nuevo comando Desarrollo &gt; Recargar sin extensiones para ayudar a solucionar problemas. Cuando se actualizan o remueven extensiones, Brackets se recargará automáticamente, por lo que salir y abrir Brackets nuevamente ya no es necesario."
+                "description": "Hay un nuevo comando Desarrollo > Recargar sin extensiones para ayudar a solucionar problemas. Cuando se actualizan o remueven extensiones, Brackets se recargará automáticamente, por lo que salir y abrir Brackets nuevamente ya no es necesario."
             },
             {
                 "name": "Edición rápida para Animation Timing",

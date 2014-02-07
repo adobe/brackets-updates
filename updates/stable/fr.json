@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 11462,
+        "buildNumber": 11506,
         "versionString": "Sprint 36",
-        "dateString": "27-01-2014",
+        "dateString": "07-02-2014",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-36",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -20,7 +20,7 @@
             },
             {
                 "name": "Extensions",
-                "description": "La nouvelle commande Déboguer &gt; Recharger sans les extensions permet de résoudre les problèmes rencontrés. A présent, en cas de mise à jour ou de suppression d’extensions, Brackets se recharge automatiquement, de sorte que vous n’avez plus besoin de quitter et de relancer l’application."
+                "description": "La nouvelle commande Déboguer > Recharger sans les extensions permet de résoudre les problèmes rencontrés. A présent, en cas de mise à jour ou de suppression d’extensions, Brackets se recharge automatiquement, de sorte que vous n’avez plus besoin de quitter et de relancer l’application."
             },
             {
                 "name": "Edition rapide pour la temporisation des animations",

@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 11462,
+        "buildNumber": 11506,
         "versionString": "Sprint 36",
-        "dateString": "27.01.2014",
+        "dateString": "07.02.2014",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-36",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -20,7 +20,7 @@
             },
             {
                 "name": "Erweiterungen",
-                "description": "Neuer Befehl Debug &gt; Ohne Erweiterungen neu laden, um bei der Fehlersuche zu helfen. Beim Aktualisieren und Entfernen von Erweiterungen wird Brackets automatisch neu geladen, sodass es nicht mehr geschlossen und erneut geöffnet werden muss."
+                "description": "Neuer Befehl Debug > Ohne Erweiterungen neu laden, um bei der Fehlersuche zu helfen. Beim Aktualisieren und Entfernen von Erweiterungen wird Brackets automatisch neu geladen, sodass es nicht mehr geschlossen und erneut geöffnet werden muss."
             },
             {
                 "name": "Schnelles Editieren von Animations-Timing",

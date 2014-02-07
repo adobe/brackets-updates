@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 11462,
+        "buildNumber": 11506,
         "versionString": "Sprint 36",
-        "dateString": "2014-01-27",
+        "dateString": "2014-02-07",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-36",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
