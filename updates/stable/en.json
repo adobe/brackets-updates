@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 11462,
+        "buildNumber": 11506,
         "versionString": "Sprint 36",
-        "dateString": "01-27-2014",
+        "dateString": "02-07-2014",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-36",
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
@@ -20,7 +20,7 @@
             },
             {
                 "name": "Extensions",
-                "description": "New Debug &gt; Reload Without Extensions command to help troubleshoot problems. When updating and removing extensions, Brackets now automatically reloads, so quit and re-launch is no longer required."
+                "description": "New Debug > Reload Without Extensions command to help troubleshoot problems. When updating and removing extensions, Brackets now automatically reloads, so quit and re-launch is no longer required."
             },
             {
                 "name": "Quick Edit for Animation Timing",
