@@ -1,18 +1,18 @@
 [
     {
         "buildNumber": 11925,
-        "versionString": "Sprint 37",
+        "versionString": "Release 37",
         "dateString": "03-10-2014",
-        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-37",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Release-37",
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
                 "name": "Exclude Files/Folders from Find in Files",
-                "description": "Specify file and folder names or globs to exclude from multi-file searches."
+                "description": "Specify file and folder names or wildcards to exclude from multi-file searches."
             },
             {
                 "name": "Signed Builds on Mac and Windows",
-                "description": "Brackets builds are now code-signed on Mac and Windows, making installation and update easier."
+                "description": "Brackets builds are now code-signed on Mac and Windows, making installation and updates easier."
             },
             {
                 "name": "Preferences Infrastructure Improvements",
@@ -28,7 +28,7 @@
             },
             {
                 "name": "Overwrite Mode UI",
-                "description": "Insert/overwrite mode can be viewed and toggled from the status bar."
+                "description": "The cursor changes when in overwrite mode, and you can toggle between insert and overwrite mode from the status bar."
             },
             {
                 "name": "Improved Filesystem and Live Preview Stability and Performance",
