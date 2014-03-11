@@ -15,6 +15,10 @@
                 "description": "Brackets builds are now code-signed on Mac and Windows, making installation and update easier."
             },
             {
+                "name": "Preferences Infrastructure Improvements",
+                "description": "The new Preferences API is now ready for extensions to use. Also, new preferences have been added: see http://is.gd/BracketsPrefs for documentation."
+            },
+            {
                 "name": "Install Extensions through Proxies",
                 "description": "Users can now configure Brackets to install extensions from behind a proxy server."
             },
@@ -29,10 +33,6 @@
             {
                 "name": "Improved Filesystem and Live Preview Stability and Performance",
                 "description": "Fixed critical issues with external file changes not being recognized and Live Preview not starting properly."
-            },
-            {
-                "name": "Preferences Infrastructure Improvements",
-                "description": "The new Preferences API is now ready for extensions to use. Also, new preferences have been added: see http://is.gd/BracketsPrefs for documentation."
             },
             {
                 "name": "Indonesian Translation",
