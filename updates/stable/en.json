@@ -20,7 +20,7 @@
             },
             {
                 "name": "Install Extensions through Proxies",
-                "description": "Users can now configure Brackets to install extensions from behind a proxy server."
+                "description": "Users can now set the \"proxy\" preference to enable Brackets to install extensions from behind a proxy server. See http://is.gd/BracketsPrefs for more information."
             },
             {
                 "name": "Improved Quick Edit for Timing Functions",
