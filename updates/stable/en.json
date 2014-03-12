@@ -1,5 +1,46 @@
 [
     {
+        "buildNumber": 11925,
+        "versionString": "Sprint 37",
+        "dateString": "03-10-2014",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-37",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Exclude Files/Folders from Find in Files",
+                "description": "Specify file and folder names or wildcards to exclude from multi-file searches."
+            },
+            {
+                "name": "Signed Builds on Mac and Windows",
+                "description": "Brackets builds are now code-signed on Mac and Windows, making installation and updates easier."
+            },
+            {
+                "name": "Preferences Infrastructure Improvements",
+                "description": "The new Preferences API is now ready for extensions to use. Also, new preferences have been added: see http://is.gd/BracketsPrefs for documentation."
+            },
+            {
+                "name": "Install Extensions through Proxies",
+                "description": "Users can now set the \"proxy\" preference to enable Brackets to install extensions from behind a proxy server. See http://is.gd/BracketsPrefs for more information."
+            },
+            {
+                "name": "Improved Quick Edit for Timing Functions",
+                "description": "You can now bring up Quick Edit on an incomplete animation timing function (e.g. \"cubic-bezier()\") to create a bezier from scratch."
+            },
+            {
+                "name": "Overwrite Mode UI",
+                "description": "The cursor changes when in overwrite mode, and you can toggle between insert and overwrite mode from the status bar."
+            },
+            {
+                "name": "Improved Filesystem and Live Preview Stability and Performance",
+                "description": "Fixed critical issues with external file changes not being recognized and Live Preview not starting properly."
+            },
+            {
+                "name": "Indonesian Translation",
+                "descirption": "A new Indonesian translation has been created."
+            }
+        ]
+    },
+    {
         "buildNumber": 11506,
         "versionString": "Sprint 36",
         "dateString": "02-07-2014",
