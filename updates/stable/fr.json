@@ -7,36 +7,36 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Exclude Files/Folders from Find in Files",
-                "description": "Specify file and folder names or wildcards to exclude from multi-file searches."
+                "name": "Exclusion de fichiers/dossiers de la fonction « Rechercher dans les fichiers »",
+                "description": "Indiquez les noms des fichiers ou dossiers à exclure des recherches multi-fichiers (ou utilisez des caractères génériques)."
             },
             {
-                "name": "Signed Builds on Mac and Windows",
-                "description": "Brackets builds are now code-signed on Mac and Windows, making installation and updates easier."
+                "name": "Versions signées sous Mac et Windows",
+                "description": "Les versions de Brackets sont désormais associées à une signature de code sous Mac et Windows, ce qui facilite l’installation et les mises à jour."
             },
             {
-                "name": "Preferences Infrastructure Improvements",
-                "description": "The new Preferences API is now ready for extensions to use. Also, new preferences have been added: see http://is.gd/BracketsPrefs for documentation."
+                "name": "Améliorations relatives à l’interface de préférences",
+                "description": "La nouvelle API Préférences est désormais compatible avec les extensions à utiliser. En outre, de nouvelles préférences ont été ajoutées. Reportez-vous à la documentation disponible sur http://is.gd/BracketsPrefs."
             },
             {
-                "name": "Install Extensions through Proxies",
-                "description": "Users can now set the \"proxy\" preference to enable Brackets to install extensions from behind a proxy server. See http://is.gd/BracketsPrefs for more information."
+                "name": "Installation d’extensions via un proxy",
+                "description": "L’utilisateur peut désormais définir la préférence « Proxy » pour que Brackets puisse installer des extensions par le biais d’un serveur de proxy. Pour plus d’informations, consultez la page http://is.gd/BracketsPrefs."
             },
             {
-                "name": "Improved Quick Edit for Timing Functions",
-                "description": "You can now bring up Quick Edit on an incomplete animation timing function (e.g. \"cubic-bezier()\") to create a bezier from scratch."
+                "name": "Amélioration de la commande Edition rapide pour les fonctions de temporisation",
+                "description": "Désormais, vous pouvez faire appel à la commande Edition rapide sur une fonction de temporisation d’animation incomplète (par exemple, « cubic-bezier() ») pour créer une courbe de Bézier en partant de zéro."
             },
             {
-                "name": "Overwrite Mode UI",
-                "description": "The cursor changes when in overwrite mode, and you can toggle between insert and overwrite mode from the status bar."
+                "name": "Interface du mode Remplacement",
+                "description": "L’aspect du curseur change lorsque l’utilisateur est en mode Remplacement, et il est possible de passer du mode Insertion au mode Remplacement depuis la barre d’état."
             },
             {
-                "name": "Improved Filesystem and Live Preview Stability and Performance",
-                "description": "Fixed critical issues with external file changes not being recognized and Live Preview not starting properly."
+                "name": "Stabilité et performances améliorées pour le système de fichiers et le module Aperçu en direct",
+                "description": "Nous avons corrigé plusieurs problèmes critiques suite auxquels les changements de fichiers externes n’étaient pas reconnus et le module Aperçu en direct ne se lançait pas correctement."
             },
             {
-                "name": "Indonesian Translation",
-                "descirption": "A new Indonesian translation has been created."
+                "name": "Traduction en indonésien",
+                "descirption": "Le logiciel a été traduit en indonésien."
             }
         ]
     },

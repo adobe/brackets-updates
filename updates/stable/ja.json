@@ -7,36 +7,36 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Exclude Files/Folders from Find in Files",
-                "description": "Specify file and folder names or wildcards to exclude from multi-file searches."
+                "name": "「ファイルを横断して検索」からファイル/フォルダーを除外",
+                "description": "複数ファイル検索から除外するにはファイル/フォルダー名またはワイルドカードを指定。"
             },
             {
-                "name": "Signed Builds on Mac and Windows",
-                "description": "Brackets builds are now code-signed on Mac and Windows, making installation and updates easier."
+                "name": "Mac と Windows での署名済みビルド",
+                "description": "Brackets ビルドのコードが Mac と Windows で署名されるようになったため、インストールと更新が簡素化されました。"
             },
             {
-                "name": "Preferences Infrastructure Improvements",
-                "description": "The new Preferences API is now ready for extensions to use. Also, new preferences have been added: see http://is.gd/BracketsPrefs for documentation."
+                "name": "環境設定インフラストラクチャの強化",
+                "description": "新しい環境設定 API で拡張機能を使用できるようになりました。 また、新しい環境設定も追加されています : http://is.gd/BracketsPrefs にあるドキュメントを参照してください。"
             },
             {
-                "name": "Install Extensions through Proxies",
-                "description": "Users can now set the \"proxy\" preference to enable Brackets to install extensions from behind a proxy server. See http://is.gd/BracketsPrefs for more information."
+                "name": "拡張機能をプロシキ経由でインストール",
+                "description": "「プロキシ」環境設定を設定して、Brackets でプロキシサーバーから拡張機能をインストールできるようになりました。 詳細については、http://is.gd/BracketsPrefs を参照してください。"
             },
             {
-                "name": "Improved Quick Edit for Timing Functions",
-                "description": "You can now bring up Quick Edit on an incomplete animation timing function (e.g. \"cubic-bezier()\") to create a bezier from scratch."
+                "name": "タイミング機能のクイック編集の強化",
+                "description": "不完全なアニメーションタイミング機能 (例 : \"cubic-bezier()\") でクイック編集を表示して、ベジェを新規作成できるようになりました。"
             },
             {
-                "name": "Overwrite Mode UI",
-                "description": "The cursor changes when in overwrite mode, and you can toggle between insert and overwrite mode from the status bar."
+                "name": "モード UI を上書き",
+                "description": "上書きモードのときカーソルが変わるため、ステータスバーから挿入モードと上書きモードと切り替えられます。"
             },
             {
-                "name": "Improved Filesystem and Live Preview Stability and Performance",
-                "description": "Fixed critical issues with external file changes not being recognized and Live Preview not starting properly."
+                "name": "ファイルシステムとライブプレビューの安定性とパフォーマンの強化",
+                "description": "外部ファイルの変更が認識されない問題とライブプレビューが適切に起動しない問題が解決されました。"
             },
             {
-                "name": "Indonesian Translation",
-                "descirption": "A new Indonesian translation has been created."
+                "name": "インドネシア語の翻訳",
+                "descirption": "インドネシア語の翻訳が新たに作成されました。"
             }
         ]
     },
