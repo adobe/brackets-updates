@@ -7,36 +7,36 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Exclude Files/Folders from Find in Files",
-                "description": "Specify file and folder names or wildcards to exclude from multi-file searches."
+                "name": "Excluir Archivos/Carpetas en la Búsqueda en Archivos",
+                "description": "Especifique nombres de archivos y carpetas o comodines para excluir en múltiples búsquedas."
             },
             {
-                "name": "Signed Builds on Mac and Windows",
-                "description": "Brackets builds are now code-signed on Mac and Windows, making installation and updates easier."
+                "name": "Instaladores Firmados para Mac y Windows",
+                "description": "El instalador de Brackets ahora esta firmado en Mac y Windows, haciendo que la instalación y las actualizaciones sean más fáciles."
             },
             {
-                "name": "Preferences Infrastructure Improvements",
-                "description": "The new Preferences API is now ready for extensions to use. Also, new preferences have been added: see http://is.gd/BracketsPrefs for documentation."
+                "name": "Mejoras en la Infraestructura de las Preferencias",
+                "description": "El nuevo API para las Preferencias ahora esta listo para ser usado por las extensiones. Además, se agregaron nuevas preferencias: mira http://is.gd/BracketsPrefs para la documentación."
             },
             {
-                "name": "Install Extensions through Proxies",
-                "description": "Users can now set the \"proxy\" preference to enable Brackets to install extensions from behind a proxy server. See http://is.gd/BracketsPrefs for more information."
+                "name": "Instale Extensiones por Proxies",
+                "description": "Ahora puede setear el \"proxy\" por medio de las preferencias para habilitar a Brackets a instalar extensiones por detrás de un servidor proxy. Mira http://is.gd/BracketsPrefs para más información."
             },
             {
-                "name": "Improved Quick Edit for Timing Functions",
-                "description": "You can now bring up Quick Edit on an incomplete animation timing function (e.g. \"cubic-bezier()\") to create a bezier from scratch."
+                "name": "Mejoras en la Edición Rápida para Funciones de Temporización",
+                "description": "Ahora puede abrir la Edición Rápida en una función de temporización para animaciones incompleta (por ejemplo, \"cubic-bezier()\") para crear una curva bezier desde cero."
             },
             {
-                "name": "Overwrite Mode UI",
-                "description": "The cursor changes when in overwrite mode, and you can toggle between insert and overwrite mode from the status bar."
+                "name": "Interfaz para el Modo Sobreescritura",
+                "description": "El cursor ahora cambia en el modo sobreescritura, y puede intercambiar entre el modo insertar y el modo sobreescritura desde la barra de estado."
             },
             {
-                "name": "Improved Filesystem and Live Preview Stability and Performance",
-                "description": "Fixed critical issues with external file changes not being recognized and Live Preview not starting properly."
+                "name": "Mejoras en el Sistema de Archivos y en la Vista Previa en Vivo",
+                "description": "Se arreglaron errores críticos con cambios externos realizados sobre los archivos y errores en la Vista Previa en Vivo no arrancando correctamente."
             },
             {
-                "name": "Indonesian Translation",
-                "descirption": "A new Indonesian translation has been created."
+                "name": "Nuevas Traducciones",
+                "descirption": "Se agrego una traducción a Indonesio."
             }
         ]
     },
