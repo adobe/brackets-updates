@@ -16,11 +16,11 @@
             },
             {
                 "name": "Mejoras en la Infraestructura de las Preferencias",
-                "description": "El nuevo API para las Preferencias ahora esta listo para ser usado por las extensiones. Además, se agregaron nuevas preferencias: mira http://is.gd/BracketsPrefs para la documentación."
+                "description": "El nuevo API para las Preferencias ahora esta listo para ser usado por las extensiones. Además, se agregaron nuevas preferencias: mire http://is.gd/BracketsPrefs para la documentación."
             },
             {
                 "name": "Instale Extensiones por Proxies",
-                "description": "Ahora puede setear el \"proxy\" por medio de las preferencias para habilitar a Brackets a instalar extensiones por detrás de un servidor proxy. Mira http://is.gd/BracketsPrefs para más información."
+                "description": "Ahora puede setear el \"proxy\" por medio de las preferencias para habilitar a Brackets a instalar extensiones por detrás de un servidor proxy. Mire http://is.gd/BracketsPrefs para más información."
             },
             {
                 "name": "Mejoras en la Edición Rápida para Funciones de Temporización",
@@ -36,7 +36,7 @@
             },
             {
                 "name": "Nuevas Traducciones",
-                "description": "Se agrego una traducción a Indonesio."
+                "description": "Se agrego una traducción a indonesio."
             }
         ]
     },
