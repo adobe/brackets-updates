@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 11925,
+        "buildNumber": 12014,
         "versionString": "Sprint 37",
-        "dateString": "10.03.2014",
+        "dateString": "17.03.2014",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-37",
         "downloadURL": "http://brackets.io",
         "newFeatures": [
