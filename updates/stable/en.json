@@ -16,7 +16,7 @@
             },
             {
                 "name": "Collapse All File Tree Command",
-                "description": "Use \u2318\u2325Click/Alt+Ctrl+Click to collapse all children of a node in the file tree."
+                "description": "Use \u2318\u2325Click/Ctrl+Alt+Click to collapse all children of a node in the file tree."
             },
             {
                 "name": "Enhanced Quick Edit Feedback",
