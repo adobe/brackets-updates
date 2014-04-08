@@ -20,7 +20,7 @@
             },
             {
                 "name": "Enhanced Quick Edit Feedback",
-                "description": "Brackets now provides detailed information about why QuickEdit, \u2318E/Ctrl+E, is not available. Quick Docs, u2318K/Ctrl+K, provides enhanced feedback as well."
+                "description": "Brackets now provides detailed information about why QuickEdit, \u2318E/Ctrl+E, is not available. Quick Docs, \u2318K/Ctrl+K, provides enhanced feedback as well."
             },            
             {
                 "name": "Support for .ico Files in Image Preview",
