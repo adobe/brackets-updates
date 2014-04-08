@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Multiple Cursors",
-                "description": "Create multi-line insertion points for multi-line changes in one fell swoop"
+                "description": "Create multi-line insertion points for multi-line insertions in one fell swoop"
             },
             {
                 "name": "Multiple Selections",
