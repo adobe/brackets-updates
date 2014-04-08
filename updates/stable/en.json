@@ -7,7 +7,23 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "",
+                "name": "Multiple Cursors",
+                "description": "Create multi-line insertion points for modifying content across multiple line with o"
+            },
+            {
+                "name": "Multiple Selections",
+                "description": ""
+            },
+            {
+                "name": "CSS Shapes Editor",
+                "description": ""
+            },
+            {
+                "name": "Asynchronous Linting Support",
+                "description": ""
+            },
+            {
+                "name": "Improved Usability of file/folder exclusions",
                 "description": ""
             }
         ]
