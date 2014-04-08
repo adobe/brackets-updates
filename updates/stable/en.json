@@ -8,24 +8,32 @@
         "newFeatures": [
             {
                 "name": "Multiple Cursors",
-                "description": "Create multi-line insertion points for modifying content across multiple line with o"
+                "description": "Create multi-line insertion points for multi-line changes in one fell swoop"
             },
             {
                 "name": "Multiple Selections",
-                "description": ""
+                "description": "Create disconnected text selections and change them together. Now Replace All is as simple as find and start typing!"
+            },
+            {
+                "name": "Marquee Selections",
+                "description": "Select rectangluar regions of code using Alt+Drag. These selections can be copied and pasted, indented, deleted, etc..."
             },
             {
                 "name": "CSS Shapes Editor",
-                "description": ""
+                "description": "Create Geometric Shapes for text flows with a WYSIWYG shape editor that runs in the browser.  "
             },
             {
                 "name": "Asynchronous Linting Support",
-                "description": ""
+                "description": "Linters can now write to an aynchrom"
             },
             {
-                "name": "Improved Usability of file/folder exclusions",
-                "description": ""
-            }
+                "name": "Collapse all project tree comamand",
+                "description": "Now you can use Alt+Cmd/Ctrl click on project manager nodes to collapse all children of the project treel"
+            },
+            {
+                "name": "Support for icon files",
+                "description": "View your website's favorite icon in Brackets"
+            },
         ]
     },    
     {
