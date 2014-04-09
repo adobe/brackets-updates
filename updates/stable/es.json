@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 14987,
+        "versionString": "Sprint 38",
+        "dateString": "04-04-2014",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-38",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Multiple Cursors and Selections",
+                "description": "Create multiple cursors, discontiguous range selections, and rectangular selections in order to make similar edits in several places at once."
+            },
+            {
+                "name": "CSS Shapes Editor",
+                "description": "Create geometric shapes for text flows using a visual editor with Live Preview. Requires CSS Shapes support in Google Chrome. For more information, see http://ad.be/..." // TODO get link from JDunlap
+            },
+            {
+                "name": "Collapse All File Tree Command",
+                "description": "Use \u2318\u2325Click/Ctrl+Alt+Click to collapse all children of a node in the file tree."
+            },
+            {
+                "name": "Enhanced Quick Edit Feedback",
+                "description": "Brackets now provides detailed information about why QuickEdit, \u2318E/Ctrl+E, is not available. Quick Docs, \u2318K/Ctrl+K, provides enhanced feedback as well."
+            },            
+            {
+                "name": "Support for .ico Files in Image Preview",
+                "description": "You can now select .ico files in the file tree to preview them."
+            },
+            {
+                "name": "Asynchronous Linting API",
+                "description": "Linters can now implement lint providers that scan for lint in the asynchronously."
+            },        
+        ]
+    },            
+    {
         "buildNumber": 12014,
         "versionString": "Sprint 37",
         "dateString": "17-03-2014",
