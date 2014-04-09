@@ -12,7 +12,7 @@
             },
             {
                 "name": "CSS Shapes Editor",
-                "description": "Create geometric shapes for text flows using a visual editor with Live Preview. Requires CSS Shapes support in Google Chrome. For more information, see http://ad.be/..." // TODO get link from JDunlap
+                "description": "Create geometric shapes for text flows using a visual editor with Live Preview. Requires CSS Shapes support in Google Chrome. For more information, see http://ad.be/todolater" 
             },
             {
                 "name": "Collapse All File Tree Command",
