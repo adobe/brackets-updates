@@ -29,7 +29,7 @@
             {
                 "name": "Asynchronous Linting API",
                 "description": "Linters can now implement lint providers that scan for lint in the asynchronously."
-            },        
+            }
         ]
     },            
     {
