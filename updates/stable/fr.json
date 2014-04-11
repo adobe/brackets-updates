@@ -15,7 +15,11 @@
                 "description": "Quickly add the next instance of the current word or range to the multiple selection by typing \u2318B/Ctrl+B, or add all instances with \u2318\u2303G/Alt-F3. Useful for quick renames."
             },
             {
-                "name": "Collapse All File Tree",
+                "name": "Undo/Redo Selection",
+                "description": "Undo the last selection change or edit with \u2318U/Ctrl+U, and redo selections with \u2318\u21E7U/Ctrl+Shift+U. This is useful for correcting a multiple selection mistake or jumping back to a previous selection location."
+            },
+            {
+                "name": "Collapse All Children in File Tree",
                 "description": "Use \u2318\u2325Click/Ctrl+Alt+Click to collapse all children of a folder in the file tree."
             },
             {
