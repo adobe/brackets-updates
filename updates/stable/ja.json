@@ -19,7 +19,6 @@
                 "description": "Undo the last selection change or edit with \u2318U/Ctrl+U, and redo selections with \u2318\u21E7U/Ctrl+Shift+U. This is useful for correcting a multiple selection mistake or jumping back to a previous selection location."
             },  
             {
-                
                 "name": "Collapse All Children",
                 "description": "Use \u2318\u2325Click/Ctrl+Alt+Click to collapse all children of a folder in the file tree."
             },
