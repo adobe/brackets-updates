@@ -7,32 +7,32 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Multiple Cursors and Selections",
-                "description": "Create multiple cursors, discontiguous range selections, and rectangular selections in order to make similar edits in several places at once."
+                "name": "Múltiples Cursores y Selecciones",
+                "description": "Cree múltiples cursores, selecciones discontinuas, y selecciones rectangulares para realizar ediciones similares en varios lugares al mismo tiempo."
             },
             {
-                "name": "Add Matches to Selection",
-                "description": "Quickly add the next instance of the current word or range to the multiple selection by typing \u2318B/Ctrl+B, or add all instances with \u2318\u2303G/Alt-F3. Useful for quick renames."
+                "name": "Agregar Coincidencias a la Selección",
+                "description": "Rápidamente agregue la siguiente instancia de la palabra o rango seleccionado a la selección múltiple con \u2318B/Ctrl+B, o agregue todas las instancias con \u2318\u2303G/Alt-F3. Muy útil para renombrar."
             },
             {
-                "name": "Undo Selection",
-                "description": "Undo the last selection change or edit with \u2318U/Ctrl+U, and redo selections with \u2318\u21E7U/Ctrl+Shift+U. This is useful for correcting a multiple selection mistake or jumping back to a previous selection location."
+                "name": "Deshacer Selección",
+                "description": "Deshaga el último cambio o edición sobre la selección múltiple con \u2318U/Ctrl+U, y rehaga con \u2318\u21E7U/Ctrl+Shift+U. Esto es útil para corregir un error en la selección múltiple o para saltar a la ubicación de una selección anterior."
             },  
             {
-                "name": "Collapse All Children",
-                "description": "Use \u2318\u2325Click/Ctrl+Alt+Click to collapse all children of a folder in the file tree."
+                "name": "Colapsar Todos los Hijos",
+                "description": "Use \u2318\u2325Click/Ctrl+Alt+Click para colapsar todos los hijos de la carpeta seleccionada en el árbol de archivos."
             },
             {
-                "name": "Enhanced Quick Edit Feedback",
-                "description": "Quick Edit (\u2318E/Ctrl+E) and Quick Docs (\u2318K/Ctrl+K) now give you helpful information when invoked on code elements that do not support those commands."
+                "name": "Devolución de Resultados en la Edición Rápida",
+                "description": "La Edición Rápida (\u2318E/Ctrl+E) y la Documentación Rápida (\u2318K/Ctrl+K) ahora mostrarán información útil cuando se invocan en elementos de código que no admiten los comandos."
             },            
             {
-                "name": "Support for .ico Files in Image Preview",
-                "description": "You can now select .ico files in the file tree to preview them."
+                "name": "Soporte para Archivos .ico en la Vista Previa de Imágenes",
+                "description": "Ahora puede seleccionar archivos con formato .ico desde el árbol de directorios para ver una vista previa de los mismos."
             },
             {
-                "name": "Asynchronous Linting API",
-                "description": "Linters can now scan for lint asynchronously, improving responsiveness and performance."
+                "name": "API para Sugerencias de Código Asincrónico",
+                "description": "Los códigos para las sugerencias de código ahora pueden devolver los resultados de forma asincrónica, mejorando la capacidad de respuesta y el rendimiento."
             }
         ]
     },            
