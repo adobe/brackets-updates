@@ -12,11 +12,11 @@
             },
             {
                 "name": "Treffer zur Auswahl hinzufügen",
-                "description": "Fügen Sie das nächste Vorkommen des aktuellen Worts bzw. der aktuellen Auswahl schnell zur Mehrfachauswahl hinzu, indem Sie \u2318B/Strg+B drücken. Sie können auch alle Vorkommen mit \u2318\u2303G/Alt+F3 selektieren. Das ist für schnelles Umbenennen nützlich."
+                "description": "Fügen Sie das nächste Vorkommen des aktuellen Worts bzw. der aktuellen Auswahl schnell zur Mehrfachauswahl hinzu, indem Sie \u2318B/Strg+B drücken. Sie können mit \u2318\u2303G/Alt+F3 auch alle Vorkommen auswählen. Das ist für schnelles Umbenennen nützlich."
             },
             {
                 "name": "Auswahl rückgängig machen",
-                "description": "Machen Sie die letzte Änderung der Auswahl mit \u2318U/Strg+U rückgängig, und wiederholen Sie die Auswahl mit \u2318\u21E7U/Strg+Umschalt+U. Das ist nützlich, wenn Sie ein Versehen bei einer Mehrfachauswahl korrigieren oder zur Position der letzten Auswahl zurückkehren wollen."
+                "description": "Machen Sie die letzte Änderung der Auswahl mit \u2318U/Strg+U rückgängig, und wiederholen Sie die Auswahl mit \u2318\u21E7U/Strg+Umschalt+U. Das ist nützlich, wenn Sie ein Missgeschick bei einer Mehrfachauswahl korrigieren oder zur Position der letzten Auswahl zurückkehren wollen."
             },  
             {
                 "name": "Alle Unterordner einklappen",
