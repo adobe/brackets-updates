@@ -7,32 +7,32 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Multiple Cursors and Selections",
-                "description": "Create multiple cursors, discontiguous range selections, and rectangular selections in order to make similar edits in several places at once."
+                "name": "複数のカーソルおよび選択範囲",
+                "description": "カーソル、隣接していない選択範囲および長方形状の選択範囲を複数作成して、同じような編集を複数の個所に同時に適用できるようになりました。"
             },
             {
-                "name": "Add Matches to Selection",
-                "description": "Quickly add the next instance of the current word or range to the multiple selection by typing \u2318B/Ctrl+B, or add all instances with \u2318\u2303G/Alt-F3. Useful for quick renames."
+                "name": "検索結果を選択範囲に追加",
+                "description": "\u2318B キー（Mac OS）または Ctrl + B キー（Windows）を押して現在の単語または範囲の次のインスタンスを複数の選択範囲に素早く追加したり、\u2318\u2303G キー（Mac OS）または Alt - F3 キー（Windows）を押してすべてのインスタンスを追加できます。素早く名前を変更するのに便利です。"
             },
             {
-                "name": "Undo Selection",
-                "description": "Undo the last selection change or edit with \u2318U/Ctrl+U, and redo selections with \u2318\u21E7U/Ctrl+Shift+U. This is useful for correcting a multiple selection mistake or jumping back to a previous selection location."
+                "name": "選択範囲の取り消し",
+                "description": "\u2318U キー（Mac OS）または Ctrl + U キー（Windows）を押して、前回行った選択範囲の変更または編集を取り消します。また、\u2318\u21E7U キー（Mac OS）または Ctrl + Shift + U キー（Windows）を押して、選択をやり直します。この方法は、複数の選択範囲の間違いを修正する場合や、以前の選択範囲の場所に戻る場合に便利です。"
             },  
             {
-                "name": "Collapse All Children",
-                "description": "Use \u2318\u2325Click/Ctrl+Alt+Click to collapse all children of a folder in the file tree."
+                "name": "すべての子を折りたたむ",
+                "description": "\u2318\u2325 キーを押しながらクリック（Mac OS）または Ctrl + Alt キーを押しながらクリック（Windows）して、ファイルツリーでクリックしたフォルダーの子フォルダーをすべて折りたたみます。"
             },
             {
-                "name": "Enhanced Quick Edit Feedback",
-                "description": "Quick Edit (\u2318E/Ctrl+E) and Quick Docs (\u2318K/Ctrl+K) now give you helpful information when invoked on code elements that do not support those commands."
+                "name": "強化されたクイック編集フィードバック",
+                "description": "クイック編集およびクイックドキュメントコマンドをサポートしていないコードエレメントを呼び出すときに、クイック編集（\u2318E キー（Mac OS）または Ctrl + E キー（Windows））およびクイックドキュメント（\u2318K キー（Mac OS）または Ctrl + K キー（Windows））を押すと、役に立つ情報が提供されます。"
             },            
             {
-                "name": "Support for .ico Files in Image Preview",
-                "description": "You can now select .ico files in the file tree to preview them."
+                "name": "イメージプレビューでの .ico ファイルのサポート",
+                "description": "ファイルツリーで .ico ファイルを選択して、プレビューできるようになりました。"
             },
             {
-                "name": "Asynchronous Linting API",
-                "description": "Linters can now scan for lint asynchronously, improving responsiveness and performance."
+                "name": "非同期 Lint チェック API",
+                "description": "Lint チェッカーを使用して、同期せずに Lint チェックを行えるようになり、レスポンスとパフォーマンスが向上しました。"
             }
         ]
     },            

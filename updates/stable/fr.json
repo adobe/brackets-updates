@@ -7,32 +7,32 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Multiple Cursors and Selections",
-                "description": "Create multiple cursors, discontiguous range selections, and rectangular selections in order to make similar edits in several places at once."
+                "name": "Curseurs et sélections multiples",
+                "description": "Créez plusieurs curseurs, ainsi que des sélections non contiguës ou rectangulaires, pour effectuer les mêmes modifications à plusieurs endroits à la fois."
             },
             {
-                "name": "Add Matches to Selection",
-                "description": "Quickly add the next instance of the current word or range to the multiple selection by typing \u2318B/Ctrl+B, or add all instances with \u2318\u2303G/Alt-F3. Useful for quick renames."
+                "name": "Ajouter des occurrences à la sélection",
+                "description": "Vous pouvez ajouter rapidement l’instance suivante du mot ou de l’élément actif à la sélection multiple en appuyant sur \u2318B/Ctrl+B. Pour ajouter toutes les instances, utilisez la combinaison \u2318\u2303G/Alt-F3. Pratique pour renommer rapidement des éléments."
             },
             {
-                "name": "Undo Selection",
-                "description": "Undo the last selection change or edit with \u2318U/Ctrl+U, and redo selections with \u2318\u21E7U/Ctrl+Shift+U. This is useful for correcting a multiple selection mistake or jumping back to a previous selection location."
+                "name": "Annuler la sélection",
+                "description": "Vous pouvez annuler la dernière modification apportée à la sélection avec \u2318U/Ctrl+U, et rétablir la sélection précédente avec \u2318\u21E7U/Ctrl+Maj+U. Cette fonction permet de corriger les erreurs concernant la sélection de plusieurs éléments, ou de revenir à une sélection précédente."
             },  
             {
-                "name": "Collapse All Children",
-                "description": "Use \u2318\u2325Click/Ctrl+Alt+Click to collapse all children of a folder in the file tree."
+                "name": "Réduire tous les enfants",
+                "description": "Utilisez la combinaison \u2318\u2325Clic/Ctrl+Alt+Clic pour réduire tous les enfants d’un dossier dans l’arborescence des fichiers."
             },
             {
-                "name": "Enhanced Quick Edit Feedback",
-                "description": "Quick Edit (\u2318E/Ctrl+E) and Quick Docs (\u2318K/Ctrl+K) now give you helpful information when invoked on code elements that do not support those commands."
+                "name": "Commentaires améliorés pour la fonction Edition rapide",
+                "description": "Lorsque vous tentez d’utiliser les fonctions Edition rapide (\u2318E/Ctrl+E) et Documentation rapide (\u2318K/Ctrl+K) sur des éléments de code ne prenant pas en charge ces commandes, des explications s’affichent à l’écran."
             },            
             {
-                "name": "Support for .ico Files in Image Preview",
-                "description": "You can now select .ico files in the file tree to preview them."
+                "name": "Prise en charge des fichiers .ico en mode Aperçu d’image",
+                "description": "Vous pouvez désormais afficher un aperçu des fichiers .ico en les sélectionnant dans l’arborescence."
             },
             {
-                "name": "Asynchronous Linting API",
-                "description": "Linters can now scan for lint asynchronously, improving responsiveness and performance."
+                "name": "API d’analyse lint asynchrone",
+                "description": "Les utilitaires lint peuvent maintenant lancer des analyses asynchrones, pour une réactivité et des performances optimales."
             }
         ]
     },            
