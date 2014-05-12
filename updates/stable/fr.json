@@ -12,11 +12,11 @@
             },
             {
                 "name": "Extension Update Notifications",
-                "description": "The Extension Manager icon now has an update badge in the toolbar indicating that one or more extensions have updates waiting to be installed."
+                "description": "The Extension Manager toolbar icon has an altered appearance when one or more extension updates are available for download."
             },
             {
                 "name": "New Find Menu",
-                "description": "The Find commands have been moved out of the Edit menu and into their own lovel menu to unclutter the Edit  menu and make them easier to locate."
+                "description": "The Find commands have been moved out of the Edit menu and into their own top-level menu to unclutter the Edit  menu and make them easier to locate."
             },
             {
                 "name": "Editing Improvements",
