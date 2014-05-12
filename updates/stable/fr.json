@@ -12,7 +12,7 @@
             },
             {
                 "name": "Extension Update Notifications",
-                "description": "The Extension Manager toolbar icon has an altered appearance when one or more extension updates are available for download."
+                "description": "The Extension Manager toolbar icon now has an update badge indicating that one or more extensions have updates waiting to be installed."
             },
             {
                 "name": "New Find Menu",
@@ -24,7 +24,7 @@
             },
             {
                 "name": "Binary File Handling on Windows",
-                "description": "Attempting to open non-UTF8 encoded files (including binary files) on Windows will result in an error message rather than showing garbled text. This can result in better searching performance for projects with binary and non-UTF8 encoded files. This was already supported on Mac."
+                "description": "On Windows, opening binary or other non-UTF8 files will result in an error message instead of garbled text, and file searches will skip those files, improving performance. This matches the existing Mac behavior."
             },
             {
                 "name": "Map Filenames and Extensions to a Language",
