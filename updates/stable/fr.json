@@ -23,8 +23,8 @@
                 "description": "Cut and Copy will now cut or copy the entire line where the cursor is when there is nothing selected. This also works with multiple cursors."
             },
             {
-                "name": "Binary File Handling on Windows",
-                "description": "On Windows, opening binary or other non-UTF8 files will result in an error message instead of garbled text, and file searches will skip those files, improving performance. This matches the existing Mac behavior."
+                "name": "Binary File Handling on Windows and Linux",
+                "description": "Opening binary or other non-UTF8 encoded files on Linux and Windows will now result in an error message instead of garbled text, and file searches will skip those files, improving performance. This matches the existing Mac behavior."
             },
             {
                 "name": "Map Filenames and Extensions to a Language",
