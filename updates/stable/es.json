@@ -1,4 +1,45 @@
 [
+  {
+        "buildNumber": 12894,
+        "versionString": "Sprint 39",
+        "dateString": "09-05-2014",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-39",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Fuzzy CSS Code hinting",
+                "description": "The CSS Code Hinting service now uses the same Smart String matching engine used by the Javascript Code Hinting service. Typing 'blc', in a CSS file and autocomplete will suggest 'border-left-color'."
+            },
+            {
+                "name": "UTF-8 Support on Windows",
+                "description": "Attempting to open non-UTF8 encoded files (including binary files) on Windows will result in an error message rather than showing garbled text. This can result in better searching performance for projects with binary and non-UTF8 encoded files.  This was already supported on Mac."
+            },
+            {
+                "name": "Editing improvements",
+                "description": "Cut and Copy will now cut or copy the entire line where the cursor is when there is nothing selected.  This includes Cutting or Copying several lines when there are multiple cursors."
+            },
+            {
+                "name": "New Find Menu",
+                "description": "The Find commands have been moved to a new Find menu to make them easier to locate."
+            },
+            {
+                "name": "CSS Code Hints for CSS Shapes",
+                "description": "CSS Code Hints have been updated to include the latest browser support for CSS Shapes."
+            },
+            {
+                "name": "Extension Update Notifications",
+                "description": "The Extension Manager Icon now has an update badge in the toolbar indicating that one or more extensions have updates waiting to be installed."
+            },
+            {
+                "name": "Map filenames and extensions to a language",
+                "description": "You can now add a preference to set the editor's syntax highlighting and other language features for files based on a filename or extension."
+            },
+            {
+                "name": "Croatian Translation",
+                "description": "Brackets has been translated into Croatian."
+            }
+        ]
+    },
     {
         "buildNumber": 12606,
         "versionString": "Sprint 38",
