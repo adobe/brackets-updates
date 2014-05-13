@@ -1,5 +1,42 @@
 [
     {
+        "buildNumber": 12894,
+        "versionString": "Sprint 39",
+        "dateString": "09-05-2014",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-Sprint-39",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Sugerencias de Código para CSS más Inteligentes",
+                "description": "Las sugerencias de Código para CSS ahora utilizan el mismo algoritmo de correspondencia de cadenas que la Apertura Rápida y las sugerencias de código para JavaScript. Por ejemplo, si escribe \"blc\" obtendrá la sugerencia \"border-left-color\"."
+            },
+            {
+                "name": "Notificaciones de Actualizaciones de Extensiones",
+                "description": "El icono en la barra de herramientas para el Administrador de Extensiones ahora cambia a color verde indicando que hay una o más extensiones que tienen actualizaciones esperando a ser instaladas."
+            },
+            {
+                "name": "Nuevo Menú Buscar",
+                "description": "Los comandos de Búsqueda se movieron desde el menú Edición a un nuevo menú Buscar para reducir el tamaño del menú Edición y que sean más fáciles de ubicar."
+            },
+            {
+                "name": "Mejoras en la Edición",
+                "description": "Cortar y Copiar ahora cotará o copiará la línea entera donde esta ubicado el cursor cuando no hay nada seleccionado. También funciona con múltiples cursores."
+            },
+            {
+                "name": "Manejo de Archivos Binarios en Windows y Linux",
+                "description": "La apertura de un archivo binario o de otros archivos no codificados con UTF8 en Linux y Windows ahora tendrá como resultado un mensaje de error en lugar de texto confuso, y las búsqueda en archivos omitirá esos archivos, mejorando el rendimiento. Esto coincide con el comportamiento existente Mac."
+            },
+            {
+                "name": "Mapee Nombres de Archivos y Extensiones a un Lenguaje de Programación",
+                "description": "Ahora podrá agregar una preferencia para ajustar el resaltado de sintaxis del editor y otras características del lenguaje de programación para los archivos basados en un nombre de archivo o extensión."
+            },
+            {
+                "name": "Traducción al Croata",
+                "description": "Brackets tiene una nueva traducción al Croata realizada por la comunidad."
+            }
+        ]
+    },
+    {
         "buildNumber": 12606,
         "versionString": "Sprint 38",
         "dateString": "14-04-2014",
