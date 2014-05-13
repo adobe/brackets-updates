@@ -24,7 +24,7 @@
             },
             {
                 "name": "Handhabung binärer Dateien unter Windows und Linux",
-                "description": "Das Öffnen von binären und anderen, nicht in UTF-8 kodierten, Dateien wird nun unter Windows und Linux mit einer Fehlermeldung abgewiesen, anstatt verstümmelten Text anzuzeigen, und die Suche meidet diese Dateien, was die Performance steigert. Das entspricht dem schon vorhandenen Verhalten auf dem Mac."
+                "description": "Das Öffnen von binären und anderen, nicht in UTF-8 kodierten Dateien wird nun unter Windows und Linux mit einer Fehlermeldung abgewiesen, anstatt verstümmelten Text anzuzeigen, und die Suche meidet diese Dateien, was die Performance steigert. Das entspricht dem schon vorhandenen Verhalten auf dem Mac."
             },
             {
                 "name": "Dateinamen und -endungen eine Sprache zuweisen",
