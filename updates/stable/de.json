@@ -7,32 +7,32 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Fuzzy CSS Code Hints",
-                "description": "CSS Code Hints now uses the same smart string matching as Quick Open and JS Code Hints. For example, typing \"blc\" will suggest \"border-left-color\"."
+                "name": "Passende Code-Vervollständigung für CSS",
+                "description": "Die Code-Vervollständigung für CSS nutzt nun das selbe Verfahren zum Erkennen der passenden Strings, die auch von \"Schnell öffnen\" und der JS-Code-Vervollständigung genutzt wird. Wenn Sie zum Beispiel \"blc\" eingeben, wird Ihnen \"border-left-color\" vorgeschlagen."
             },
             {
-                "name": "Extension Update Notifications",
-                "description": "The Extension Manager toolbar icon now turns green indicating that one or more extensions have updates waiting to be installed."
+                "name": "Benachrichtigung über aktualisierte Erweiterungen",
+                "description": "Das Icon der Erweiterungs-Verwaltung zeigt sich von nun an in grüner Farbe, wenn für mindestens eine Erweiterung ein Update verfügbar ist."
             },
             {
-                "name": "New Find Menu",
-                "description": "The Find commands have been moved out of the Edit menu and into their own top-level menu to unclutter the Edit menu and make them easier to locate."
+                "name": "Neues Suchen-Menü",
+                "description": "Die Suchbefehle wurden vom Menü Bearbeiten in ihr eigenes Menü verschoben, um diese leichter auffindbar zu machen und das Bearbeiten-Menü aufzuräumen."
             },
             {
-                "name": "Editing Improvements",
-                "description": "Cut and Copy will now cut or copy the entire line containing the cursor when there is nothing selected. This also works with multiple cursors."
+                "name": "Verbesserungen beim Bearbeiten",
+                "description": "Kopieren und Ausschneiden werden nun auf die komplette Zeile des Cursors angewendet, wenn nichts ausgewählt ist. Das funktioniert sogar mit mehreren Cursors."
             },
             {
-                "name": "Binary File Handling on Windows and Linux",
-                "description": "Opening binary or other non-UTF8 encoded files on Linux and Windows will now result in an error message instead of garbled text, and file searches will skip those files, improving performance. This matches the existing Mac behavior."
+                "name": "Handhabung binärer Dateien unter Windows und Linux",
+                "description": "Das Öffnen von binären und anderen, nicht in UTF-8 kodierten, Dateien wird nun unter Windows und Linux mit einer Fehlermeldung abgewiesen, anstatt verstümmelten Text anzuzeigen, und die Suche meidet diese Dateien, was die Performance steigert. Das entspricht dem schon vorhandenen Verhalten auf dem Mac."
             },
             {
-                "name": "Map Filenames and Extensions to a Language",
-                "description": "You can now add a preference to set the editor's syntax highlighting and other language features for files based on a filename or extension."
+                "name": "Dateinamen und -endungen eine Sprache zuweisen",
+                "description": "Sie können jetzt durch eine Einstellung die Syntaxhervorhebung und andere Sprachfeatures für jeweils einen Dateinamen bzw. eine Dateiendung regeln."
             },
             {
-                "name": "Croatian Translation",
-                "description": "Brackets has a new, community-submitted Croatian translation."
+                "name": "Kroatische Übersetzung",
+                "description": "Brackets hat eine neue, von der Community erstellte kroatische Übersetzung."
             }
         ]
     },
