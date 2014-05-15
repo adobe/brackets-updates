@@ -1,8 +1,8 @@
 Options FollowSymLinks
 RewriteEngine on
-RewriteRule ^de.*\.json$ de.json [L]
-RewriteRule ^es.*\.json$ es.json [L]
-RewriteRule ^fr.*\.json$ fr.json [L]
-RewriteRule ^ja.*\.json$ ja.json [L]
-RewriteRule .* en.json
+RewriteRule ^de.*\.json$ http://brackets.io/updates/stable/de.json [R=301,NC,L]
+RewriteRule ^es.*\.json$ http://brackets.io/updates/stable/es.json [R=301,NC,L]
+RewriteRule ^fr.*\.json$ http://brackets.io/updates/stable/fr.json [R=301,NC,L]
+RewriteRule ^ja.*\.json$ http://brackets.io/updates/stable/ja.json [R=301,NC,L]
+RewriteRule .* http://brackets.io/updates/stable/en.json [R=301,NC,L]
 Header set Access-Control-Allow-Origin "*"
