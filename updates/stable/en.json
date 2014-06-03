@@ -7,12 +7,12 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Multiple File Exclusion Sets",
-                "description": "Find in Files now supports multiple file exclusion sets. File Exclusion Sets can be named for easier selection."
+                "name": "Multiple Files/Folders Exclusion Sets",
+                "description": "Find in Files now supports multiple files/folders exclusion sets. Exclusion sets can be named for easier selection."
             },
             {
-                "name": "Dark Shell on Windows Fixes",
-                "description": "Rendering of Dark Shell Menus for custom Windows Themes has been fixed."
+                "name": "Fixed Windows Menu Drawing",
+                "description": "Menus on Windows now draw properly when you have a custom Windows theme installed."
             },
             {
                 "name": "Code Inspection Fixes",
@@ -20,7 +20,7 @@
             },
             {
                 "name": "Improvements for Toggling Comments",
-                "description": "Toggle Comment now works if the Block Comment open and close delimiters are the same, and if Line Comment delimiter is a prefix of Block Comment delimiter."
+                "description": "Toggle Comment now works for languages like CoffeeScript, where the open and close comment delimiters are the same and the line comment delimiter is a prefix of the block comment delimiter."
             },
             {
                 "name": "Fix Keyboard Shortcuts for Non-English Keyboards",
