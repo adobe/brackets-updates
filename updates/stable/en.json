@@ -7,8 +7,8 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Multiple Files/Folders Exclusion Sets",
-                "description": "Find in Files now supports multiple files/folders exclusion sets. Exclusion sets can be named for easier selection."
+                "name": "Multiple File/Folder Exclusion Sets",
+                "description": "Find in Files now supports multiple file/folder exclusion sets. Exclusion sets can be named for easier selection."
             },
             {
                 "name": "Fixed Windows Menu Drawing",
