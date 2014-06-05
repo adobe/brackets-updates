@@ -7,24 +7,24 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Multiple File/Folder Exclusion Sets",
-                "description": "Find in Files now supports multiple file/folder exclusion sets. Exclusion sets can be named for easier selection."
+                "name": "Filter-Sammlungen für Suche in Dateien und Ordnern",
+                "description": "Die Suche in Dateien und Ordnern unterstützt Filter-Sammlungen. Für eine einfachere Handhabung, können Filter-Sammlungen mit einem Namen versehen werden."
             },
             {
-                "name": "Fixed Windows Menu Drawing",
-                "description": "Menus on Windows now draw properly when you have a custom Windows theme installed."
+                "name": "Windows Menu Darstellungsfehler behoben",
+                "description": "Menus in der Windows Version werden jetzt korrekt dargestellt, wenn ein Theme Manager verwendet wird."
             },
             {
-                "name": "Code Inspection Fixes",
-                "description": "Bug fixes and more unit tests for running multiple linters."
+                "name": "Code Inspection Verbesserungen",
+                "description": "Fehlerbehebung und mehr Testcode für die Ausführung mehrerer Code Linter."
             },
             {
-                "name": "Improvements for Toggling Comments",
-                "description": "Toggle Comment now works for languages like CoffeeScript, where the open and close comment delimiters are the same and the line comment delimiter is a prefix of the block comment delimiter."
+                "name": "Verbesserungen beim Umschalten von Kommentaren",
+                "description": "Das Umschalten von Kommentaren funktioniert jetzt auch für Sprachen wie CoffeeScript, die die gleichen Kommentar-Zeichen für den Anfang und das Ende eines Kommentars benutzen und wo das Zeilen-Kommentar Zeichen ein Teil des Block-Kommentar Zeichens ist."
             },
             {
-                "name": "Fix Keyboard Shortcuts for Non-English Keyboards",
-                "description": "Brackets no longer adds keyboard shortcuts that have a key available only when AltGr key is pressed."
+                "name": "Bessere Handhabung von Tastenkürzeln für nicht englische Tastaturen",
+                "description": "Brackets vermeidet die Registrierung von Tastenkürzeln, wenn diese ein Zeichen enthalten, das nur durch den Einsatz von AltGr erzeugt werden kann."
             }
         ]
     },
