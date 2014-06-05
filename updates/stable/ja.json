@@ -7,24 +7,24 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Multiple File/Folder Exclusion Sets",
-                "description": "Find in Files now supports multiple file/folder exclusion sets. Exclusion sets can be named for easier selection."
+                "name": "複数のファイルまたはフォルダーの除外セット",
+                "description": "「ファイルを横断して検索」で複数のファイルまたはフォルダーの除外セットがサポートされるようになりました。除外セットは名前を付けて選択しやすくすることができます。"
             },
             {
-                "name": "Fixed Windows Menu Drawing",
-                "description": "Menus on Windows now draw properly when you have a custom Windows theme installed."
+                "name": "Windows メニューの描画の修正",
+                "description": "カスタムの Windows テーマがインストールされている場合に Windows のメニューで正しく描画できるようになりました。"
             },
             {
-                "name": "Code Inspection Fixes",
-                "description": "Bug fixes and more unit tests for running multiple linters."
+                "name": "コードインスペクションの修正",
+                "description": "バグを修正し、複数の Lint チェッカーの実行について多くの単体テストを行いました。"
             },
             {
-                "name": "Improvements for Toggling Comments",
-                "description": "Toggle Comment now works for languages like CoffeeScript, where the open and close comment delimiters are the same and the line comment delimiter is a prefix of the block comment delimiter."
+                "name": "コメントの切り替えの改善",
+                "description": "開始および終了のコメント区切りが同じであり、行コメント区切りがブロックコメント区切りの接頭辞になっている CoffeeScript などの言語で、コメントの切り替えができるようになりました。"
             },
             {
-                "name": "Fix Keyboard Shortcuts for Non-English Keyboards",
-                "description": "Brackets no longer adds keyboard shortcuts that have a key available only when AltGr key is pressed."
+                "name": "英語以外のキーボードのキーボードショートカットの修正",
+                "description": "AltGr キーが押された場合にのみ使用できるキーがあるキーボードショートカットが Brackets で追加されることはなくなりました。"
             }
         ]
     },

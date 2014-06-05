@@ -7,24 +7,24 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Multiple File/Folder Exclusion Sets",
-                "description": "Find in Files now supports multiple file/folder exclusion sets. Exclusion sets can be named for easier selection."
+                "name": "Plusieurs jeux d’exclusion de fichiers/dossiers",
+                "description": "La fonction « Rechercher dans les fichiers » accepte désormais plusieurs jeux d’exclusion de fichiers/dossiers. Ces jeux d’exclusion peuvent être nommés comme vous le souhaitez, pour faciliter la sélection."
             },
             {
-                "name": "Fixed Windows Menu Drawing",
-                "description": "Menus on Windows now draw properly when you have a custom Windows theme installed."
+                "name": "Correction du problème de tracé des menus Windows",
+                "description": "Désormais, les menus sous Windows sont tracés correctement quand vous avez installé un thème Windows personnalisé."
             },
             {
-                "name": "Code Inspection Fixes",
-                "description": "Bug fixes and more unit tests for running multiple linters."
+                "name": "Résolution de problèmes relatifs à l’inspection de code",
+                "description": "Des correctifs ont été apportés et de nouveaux tests d’unité ont été ajoutés pour l’exécution de plusieurs utilitaires lint."
             },
             {
-                "name": "Improvements for Toggling Comments",
-                "description": "Toggle Comment now works for languages like CoffeeScript, where the open and close comment delimiters are the same and the line comment delimiter is a prefix of the block comment delimiter."
+                "name": "Améliorations concernant l’activation des commentaires",
+                "description": "A présent, la fonction d’activation/désactivation des commentaires fonctionne pour les langages tels que CoffeeScript, où les délimiteurs d’ouverture et de fermeture des commentaires sont les mêmes et où le délimiteur de commentaire de ligne est un préfixe du délimiteur de commentaire de bloc."
             },
             {
-                "name": "Fix Keyboard Shortcuts for Non-English Keyboards",
-                "description": "Brackets no longer adds keyboard shortcuts that have a key available only when AltGr key is pressed."
+                "name": "Correction concernant les raccourcis clavier pour les claviers non anglais",
+                "description": "Le logiciel Brackets n’ajoute plus de raccourcis clavier impliquant l’utilisation de la touche AltGr."
             }
         ]
     },
