@@ -12,7 +12,7 @@
             },
             {
                 "name": "Arreglados problemas con los menús",
-                "description": "Los menús en Windows ahora se dibujaran correctamente cuando tiene instalado un tema personalizado de Windows."
+                "description": "Los menús en Windows ahora se dibujarán correctamente cuando tiene instalado un tema personalizado de Windows."
             },
             {
                 "name": "Arreglos en la inspección de código",
