@@ -32,24 +32,24 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Filter-Sammlungen für Suche in Dateien und Ordnern",
-                "description": "Die Suche in Dateien und Ordnern unterstützt Filter-Sammlungen. Für eine einfachere Handhabung, können Filter-Sammlungen mit einem Namen versehen werden."
+                "name": "Mehrere Filter bei der Suche im Projekt",
+                "description": "Bei der Suche im Projekt werden nun mehrere Filter zum Ausschließen von Dateien/Ordnern unterstützt. Einzelne Filter können auch benannt werden."
             },
             {
-                "name": "Windows Menu Darstellungsfehler behoben",
-                "description": "Menus in der Windows Version werden jetzt korrekt dargestellt, wenn ein Theme Manager verwendet wird."
+                "name": "Verbesserte Darstellung der Windows-Menüs",
+                "description": "Menüs werden unter Windows jetzt korrekt dargestellt, wenn ein benutzerdefiniertes Windows-Design genutzt wird."
             },
             {
-                "name": "Code Inspection Verbesserungen",
-                "description": "Fehlerbehebung und mehr Testcode für die Ausführung mehrerer Code Linter."
+                "name": "Fehler beim Linten behoben",
+                "description": "Fehlerbehebungen und neue Tests für die Ausführung mehrerer Linter."
             },
             {
-                "name": "Verbesserungen beim Umschalten von Kommentaren",
-                "description": "Das Umschalten von Kommentaren funktioniert jetzt auch für Sprachen wie CoffeeScript, die die gleichen Kommentar-Zeichen für den Anfang und das Ende eines Kommentars benutzen und wo das Zeilen-Kommentar Zeichen ein Teil des Block-Kommentar Zeichens ist."
+                "name": "Verbesserungen beim (Aus-)Kommentieren",
+                "description": "Automatisches (Aus-)Kommentieren funktioniert von nun an auch bei Sprachen wie CoffeeScript, wo einleitendes und beendendes Trennzeichen übereinstimmen und das Trennsymbol für einzeilige Kommentare ein Präfix des Trennzeichens für mehrzeilige Kommentare ist."
             },
             {
-                "name": "Bessere Handhabung von Tastenkürzeln für nicht englische Tastaturen",
-                "description": "Brackets vermeidet die Registrierung von Tastenkürzeln, wenn diese ein Zeichen enthalten, das nur durch den Einsatz von AltGr erzeugt werden kann."
+                "name": "Bessere Handhabung von Tastenkürzeln mit nichtenglischen Tastaturen",
+                "description": "Brackets registriert keine Tastenkombinationen mehr, die ein Zeichen enthalten, das nur durch Drücken von Alt Gr eingegeben werden kann."
             }
         ]
     },
