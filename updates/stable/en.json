@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Replace across multiple files",
-                "description": "You can see all search matches first and uncheck any you don't wish to replace. Supports the same exclusion filtering as Find in Files."
+                "description": "Replace in Files shows all search matches first and you can uncheck any you don't wish to replace. Supports the same exclusion filtering as Find in Files."
             },
             {
                 "name": "API Documentation",
