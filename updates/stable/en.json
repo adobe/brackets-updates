@@ -17,6 +17,10 @@
             {
                 "name": "API Documentation update",
                 "description": "The Brackets API documentation has been updated for this Release."
+            },
+            {
+                "name": "Danish Translation",
+                "description": "Brackets has a new, community-submitted Danish translation."
             }
         ]
     },
@@ -104,7 +108,7 @@
             {
                 "name": "Undo Selection",
                 "description": "Undo the last selection change or edit with \u2318U/Ctrl+U, and redo selections with \u2318\u21E7U/Ctrl+Shift+U. This is useful for correcting a multiple selection mistake or jumping back to a previous selection location."
-            },  
+            },
             {
                 "name": "Collapse All Children",
                 "description": "Use \u2318\u2325Click/Ctrl+Alt+Click to collapse all children of a folder in the file tree."
@@ -112,7 +116,7 @@
             {
                 "name": "Enhanced Quick Edit Feedback",
                 "description": "Quick Edit (\u2318E/Ctrl+E) and Quick Docs (\u2318K/Ctrl+K) now give you helpful information when invoked on code elements that do not support those commands."
-            },            
+            },
             {
                 "name": "Support for .ico Files in Image Preview",
                 "description": "You can now select .ico files in the file tree to preview them."
@@ -122,7 +126,7 @@
                 "description": "Linters can now scan for lint asynchronously, improving responsiveness and performance."
             }
         ]
-    },    
+    },
     {
         "buildNumber": 12014,
         "versionString": "Sprint 37",
@@ -240,7 +244,7 @@
             {
                 "name": "Fix UI problems with certain LESS files",
                 "description": "Fixes issue #6057: Opening certain LESS files caused the editor UI to become partially blank or display other glitches."
-            }            
+            }
         ]
     },
     {
