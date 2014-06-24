@@ -12,7 +12,7 @@
             },
             {
                 "name": "API Documentation",
-                "description": "The Brackets API Documentation for the current master branch is now posted at http://brackets.io/doc and updated for every release."
+                "description": "The Brackets API Documentation for the current master branch is now posted at http://brackets.io/docs and updated for every release."
             },
             {
                 "name": "JavaScript Code Hinting Crash Prevention",
