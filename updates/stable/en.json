@@ -12,11 +12,11 @@
             },
             {
                 "name": "API Documentation",
-                "description": "The Brackets API Documentation for the current master branch is now posted at http://brackets.io/doc and updated for every release."
+                "description": "The Brackets API Documentation for the current master branch is now posted at http://brackets.io/docs and updated for every release."
             },
             {
                 "name": "JavaScript Code Hinting Crash Prevention",
-                "description": "Brackets now uses the timeout feature in Tern to detect and terminate hung web workers, which could cause Brackets to crash."
+                "description": "Brackets automatically stops processing problematic JavaScript files that previously could cause a crash."
             },
             {
                 "name": "Resolved extension installation post-install dialog hang",
