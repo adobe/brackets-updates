@@ -19,10 +19,6 @@
                 "description": "Brackets automatically stops processing problematic JavaScript files that previously could cause a crash."
             },
             {
-                "name": "Resolved extension installation post-install dialog hang",
-                "description": "Fixed an issue with post-install dialogs after extension installation."
-            },
-            {
                 "name": "Danish Translation",
                 "description": "Brackets has a new, community-submitted Danish translation."
             }
