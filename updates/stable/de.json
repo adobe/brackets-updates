@@ -7,20 +7,20 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Replace across multiple files",
-                "description": "Replace in Files shows all search matches first and you can uncheck any you don't wish to replace. Supports the same exclusion filtering as Find in Files."
+                "name": "In mehreren Dateien ersetzen",
+                "description": "\"In Dateien ersetzen\" zeigt Ihnen zunächst alle Suchergebnisse an und Sie können jene abwählen, die Sie nicht ersetzen lassen wollen. Die schon vorhandenen Filtermöglichkeiten für die Projektsuche werden auch hier unterstützt."
             },
             {
-                "name": "API Documentation",
-                "description": "The Brackets API Documentation for the current master branch is now posted at http://brackets.io/docs and updated for every release."
+                "name": "API-Dokumentation",
+                "description": "Die API-Dokumentation für den aktuellen Hauptzweig (master) von Brackets wurde nun unter http://brackets.io/docs veröffentlicht. Sie wird bei jedem Release aktualisiert."
             },
             {
-                "name": "JavaScript Code Hinting Crash Prevention",
-                "description": "Brackets automatically stops processing problematic JavaScript files that previously could cause a crash."
+                "name": "Verhindern von Abstürzen der JavaScript Code Hints",
+                "description": "Brackets stoppt automatisch das Verarbeiten problematischer JavaScript-Dateien, die vorher einen Programmabsturz verursachen konnten."
             },
             {
-                "name": "Danish Translation",
-                "description": "Brackets has a new, community-submitted Danish translation."
+                "name": "Dänische Übersetzung",
+                "description": "Brackets ist neuerdings auch in dänischer Sprache verfügbar. Die Übersetzung wurde von der Community bereitgestellt."
             }
         ]
     },
