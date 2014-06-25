@@ -12,7 +12,7 @@
             },
             {
                 "name": "Documentación del API",
-                "description": "La documentación del API de Brackets para la rama principal está publicada en http://brackets.io/docs y es actualizada para cada lanzamiento."
+                "description": "La documentación del API de Brackets para la rama principal (master branch) está publicada en http://brackets.io/docs y es actualizada para cada lanzamiento."
             },
             {
                 "name": "Prevención de caídas con las sugerencias de código para JavaScript",
