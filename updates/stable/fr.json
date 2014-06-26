@@ -7,20 +7,20 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Replace across multiple files",
-                "description": "Replace in Files shows all search matches first and you can uncheck any you don't wish to replace. Supports the same exclusion filtering as Find in Files."
+                "name": "Remplacer dans plusieurs fichiers",
+                "description": "La fonction « Remplacer dans les fichiers » affiche d’abord tous les résultats de la recherche, ce qui vous permet de désélectionner les occurrences que vous ne souhaitez pas remplacer. Elle prend en charge les mêmes filtres d’exclusion que la fonction « Rechercher dans les fichiers »."
             },
             {
-                "name": "API Documentation",
-                "description": "The Brackets API Documentation for the current master branch is now posted at http://brackets.io/docs and updated for every release."
+                "name": "Documentation de l’API",
+                "description": "La documentation de l’API Brackets pour la branche principale actuelle est maintenant disponible sur http://brackets.io/docs et mise à jour à chaque version."
             },
             {
-                "name": "JavaScript Code Hinting Crash Prevention",
-                "description": "Brackets automatically stops processing problematic JavaScript files that previously could cause a crash."
+                "name": "Prévention des blocages au niveau des conseils de code JavaScript",
+                "description": "Brackets cesse automatiquement de traiter les fichiers JavaScript qui ont déjà posé problème et risqueraient de provoquer un blocage."
             },
             {
-                "name": "Danish Translation",
-                "description": "Brackets has a new, community-submitted Danish translation."
+                "name": "Traduction en danois",
+                "description": "Une nouvelle traduction de Brackets en danois a vu le jour grâce au travail de la communauté."
             }
         ]
     },
