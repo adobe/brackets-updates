@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 13388,
+        "buildNumber": 13418,
         "versionString": "Release 0.41",
-        "dateString": "27-06-2014",
+        "dateString": "26-06-2014",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-0.41",
         "downloadURL": "http://brackets.io",
         "newFeatures": [
@@ -108,7 +108,7 @@
             {
                 "name": "Annuler la sélection",
                 "description": "Vous pouvez annuler la dernière modification apportée à la sélection avec \u2318U/Ctrl+U, et rétablir la sélection précédente avec \u2318\u21E7U/Ctrl+Maj+U. Cette fonction permet de corriger les erreurs concernant la sélection de plusieurs éléments, ou de revenir à une sélection précédente."
-            },  
+            },
             {
                 "name": "Réduire tous les enfants",
                 "description": "Utilisez la combinaison \u2318\u2325Clic/Ctrl+Alt+Clic pour réduire tous les enfants d’un dossier dans l’arborescence des fichiers."
@@ -116,7 +116,7 @@
             {
                 "name": "Commentaires améliorés pour la fonction Edition rapide",
                 "description": "Lorsque vous tentez d’utiliser les fonctions Edition rapide (\u2318E/Ctrl+E) et Documentation rapide (\u2318K/Ctrl+K) sur des éléments de code ne prenant pas en charge ces commandes, des explications s’affichent à l’écran."
-            },            
+            },
             {
                 "name": "Prise en charge des fichiers .ico en mode Aperçu d’image",
                 "description": "Vous pouvez désormais afficher un aperçu des fichiers .ico en les sélectionnant dans l’arborescence."
@@ -126,7 +126,7 @@
                 "description": "Les utilitaires lint peuvent maintenant lancer des analyses asynchrones, pour une réactivité et des performances optimales."
             }
         ]
-    },            
+    },
     {
         "buildNumber": 12014,
         "versionString": "Sprint 37",
@@ -244,9 +244,9 @@
             {
                 "name": "Correction des problèmes d’interface utilisateur liés à certains fichiers LESS",
                 "description": "Correctif n°6057 : à l’ouverture de certains fichiers LESS, l’interface de l’éditeur disparaissait en partie ou présentait d’autres problèmes d’affichage."
-            }            
+            }
         ]
-    },  
+    },
     {
         "buildNumber": 10729,
         "versionString": "Sprint 34",
