@@ -1,6 +1,6 @@
 [
     {
-        "buildNumber": 13388,
+        "buildNumber": 13418,
         "versionString": "Release 0.41",
         "dateString": "27-06-2014",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-0.41",
@@ -108,7 +108,7 @@
             {
                 "name": "Deshacer selección",
                 "description": "Deshaga el último cambio o edición sobre la selección múltiple con \u2318U/Ctrl+U, y rehaga con \u2318\u21E7U/Ctrl+Shift+U. Esto es útil para corregir un error en la selección múltiple o para saltar a la ubicación de una selección anterior."
-            },  
+            },
             {
                 "name": "Colapsar todos los hijos",
                 "description": "Use \u2318\u2325Click/Ctrl+Alt+Click para colapsar todos los hijos de la carpeta seleccionada en el árbol de archivos."
@@ -116,7 +116,7 @@
             {
                 "name": "Devolución de resultados en la Edición rápida",
                 "description": "La Edición Rápida (\u2318E/Ctrl+E) y la Documentación Rápida (\u2318K/Ctrl+K) ahora mostrarán información útil cuando se invocan en elementos de código que no admiten los comandos."
-            },            
+            },
             {
                 "name": "Soporte para archivos .ico en la Vista previa de imágenes",
                 "description": "Ahora puede seleccionar archivos con formato .ico desde el árbol de directorios para ver una vista previa de los mismos."
@@ -126,7 +126,7 @@
                 "description": "Los códigos para las sugerencias de código ahora pueden devolver los resultados de forma asincrónica, mejorando la capacidad de respuesta y el rendimiento."
             }
         ]
-    },            
+    },
     {
         "buildNumber": 12014,
         "versionString": "Sprint 37",
@@ -244,9 +244,9 @@
             {
                 "name": "Arreglo de problemas de interfaz con ciertos archivos LESS",
                 "description": "Arregla el problema #6057: Abrir ciertos archivos LESS causaba que la interfaz del editor se volviera parcialmente blanca o mostrase otros problema técnicos."
-            }            
+            }
         ]
-    },  
+    },
     {
         "buildNumber": 10729,
         "versionString": "Sprint 34",
