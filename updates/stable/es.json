@@ -7,20 +7,20 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Replace across multiple files",
-                "description": "Replace in Files shows all search matches first and you can uncheck any you don't wish to replace. Supports the same exclusion filtering as Find in Files."
+                "name": "Reemplaza en múltiples archivos",
+                "description": "Reemplazar en archivos muestra todas las coincidencias de búsqueda primero para que pueda desmarcar cualquier coincidencia que no desea reemplazar. Soporta el mismo filtrado con exclusiones que Buscar en archivos."
             },
             {
-                "name": "API Documentation",
-                "description": "The Brackets API Documentation for the current master branch is now posted at http://brackets.io/docs and updated for every release."
+                "name": "Documentación del API",
+                "description": "La documentación del API de Brackets para la rama principal (master branch) está publicada en http://brackets.io/docs y es actualizada para cada lanzamiento."
             },
             {
-                "name": "JavaScript Code Hinting Crash Prevention",
-                "description": "Brackets automatically stops processing problematic JavaScript files that previously could cause a crash."
+                "name": "Prevención de caídas con las sugerencias de código para JavaScript",
+                "description": "Brackets automáticamente frena el procesamiento del archivos JavaScript problemáticos que anteriormente causaban que la aplicación se cuelgue."
             },
             {
-                "name": "Danish Translation",
-                "description": "Brackets has a new, community-submitted Danish translation."
+                "name": "Traducción al danés",
+                "description": "Brackets tiene una nueva traducción al danés realizada por la comunidad."
             }
         ]
     },
