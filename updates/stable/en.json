@@ -8,16 +8,16 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Theme support",
-                "description": "Brackets now has built in support for editor themes. Themes can be installed via the Extension Manager."
+                "name": "Theme Support",
+                "description": "Brackets now has built in support for editor themes. Themes can be installed via the Extension Manager. We now have a dark theme available."
             },
             {
                 "name": "Check/uncheck all matches for entire file",
                 "description": "Select individual or all matches for an entire file, to limit the scope of the replace operation."
             },
             {
-                "name": "Turn off code hints",
-                "description": "We have added preferences to disable all code hints, or code hints for an individual code hint provider."
+                "name": "Turn off Code Hints",
+                "description": "We have added preferences to disable all Code Hints, or code hints for an individual Code Hint provider."
             },
             {
                 "name": "Drag and drop installation of extensions",
