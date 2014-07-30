@@ -9,7 +9,7 @@
         "newFeatures": [
             {
                 "name": "Theme Support",
-                "description": "Brackets now has built-in support for editor themes. Themes can be installed via the Extension Manager. We now have a dark theme available."
+                "description": "Brackets now has built-in support for editor themes, and includes default light and dark themes. Additional themes can be installed via Extension Manager."
             },
             {
                 "name": "Replace in Files: Check/Uncheck All Matches for a File",
@@ -32,7 +32,7 @@
                 "description": "Extension Manager can now show which extensions have a translation available."
             },
             {
-                "name": "Traditional Chinese and Galician Translation",
+                "name": "Traditional Chinese and Galician Translations",
                 "description": "Brackets has new, community-submitted Traditional Chinese and Galician translations."
             }
         ]
