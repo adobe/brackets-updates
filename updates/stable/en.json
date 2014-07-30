@@ -12,20 +12,28 @@
                 "description": "Brackets now has built in support for editor themes. Themes can be installed via the Extension Manager. We now have a dark theme available."
             },
             {
-                "name": "Check/uncheck all matches for entire file",
-                "description": "Select individual or all matches for an entire file, to limit the scope of the replace operation."
+                "name": "Replace in Files: Check/Uncheck All Matches for a File",
+                "description": "When doing a batch or multi-file replace, you can now check/uncheck the matches for an entire file."
             },
             {
                 "name": "Turn off Code Hints",
-                "description": "We have added preferences to disable all Code Hints, or code hints for an individual Code Hint provider."
+                "description": "New preferences to disable all Code Hints, or code hints for an individual Code Hint provider."
             },
             {
                 "name": "Drag and drop installation of extensions",
-                "description": "Install extensions by dragging zip files onto the extension manager dialog."
+                "description": "Install extensions by dragging zip files onto the Extension Manager dialog."
+            },
+            {
+                "name": "Extension Manager: Show available Translations",
+                "description": "Extension Manager can now show which extensions have a translation available."
             },
             {
                 "name": "Change language mode",
                 "description": "Change the language mode for an individual file by selecting the language from the dropdown menu in the statusbar."
+            },
+            {
+                "name": "Traditional Chinese and Galician Translation",
+                "description": "Brackets has new, community-submitted Traditional Chinese and Galician translations."
             }
         ]
     },
