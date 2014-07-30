@@ -17,10 +17,10 @@
             },
             {
                 "name": "Turn off Code Hints",
-                "description": "New preferences to disable all Code Hints, or code hints for an individual Code Hint provider."
+                "description": "New preferences to disable all Code Hints, or Code hints for an individual Code Hint provider."
             },
             {
-                "name": "Drag and drop installation of extensions",
+                "name": "Drag and Drop Installation of Extensions",
                 "description": "Install extensions by dragging zip files onto the Extension Manager dialog."
             },
             {
@@ -28,7 +28,7 @@
                 "description": "Extension Manager can now show which extensions have a translation available."
             },
             {
-                "name": "Change language mode",
+                "name": "Change Language Mode",
                 "description": "Change the language mode for an individual file by selecting the language from the dropdown menu in the statusbar."
             },
             {
