@@ -9,19 +9,19 @@
         "newFeatures": [
             {
                 "name": "Theme support",
-                "description": "Brackets has now build in support for themes. Themes can be installed from the extension registry."
+                "description": "Brackets now has built in support for editor themes. Themes can be installed via the Extension Manager."
             },
             {
-                "name": "Check/uncheck all matches for one entire file",
+                "name": "Check/uncheck all matches for entire file",
                 "description": "Select individual or all matches for an entire file, to limit the scope of the replace operation."
             },
             {
                 "name": "Turn off code hints",
-                "description": "We have added a preference to disable code hints for individual code hint providers."
+                "description": "We have added preferences to disable all code hints, or code hints for an individual code hint provider."
             },
             {
                 "name": "Drag and drop installation of extensions",
-                "description": "Install extension zip files by dragging them onto the extension manager dialog."
+                "description": "Install extensions by dragging zip files onto the extension manager dialog."
             },
             {
                 "name": "Change language mode",
