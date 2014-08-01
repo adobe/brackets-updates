@@ -7,32 +7,32 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Theme Support",
-                "description": "Brackets now has built-in support for editor themes, and includes default light and dark themes. Additional themes can be installed via Extension Manager."
+                "name": "Soporte para temas",
+                "description": "Brackets ahora tiene soporte para temas en el editor, e incluyen un tema claro y otro oscuro. Temas adicionales pueden ser instalados desde el Administrador de Extensiones."
             },
             {
-                "name": "Replace in Files: Check/Uncheck All Matches for a File",
-                "description": "When doing a batch or multi-file replace, you can now check/uncheck the matches for an entire file."
+                "name": "Reemplazar en archivos: Marcar/desmarcar todas los resultados de un archivo",
+                "description": "Cuando quiere reemplazar en uno o múltiples archivos, puede marcar/desmacar todos los resultados de un archivo."
             },
             {
-                "name": "Change Language Mode",
-                "description": "Change the language mode for an individual file by selecting the language from the dropdown menu in the status bar."
+                "name": "Cambiar el lenguaje",
+                "description": "Cambie el lenguaje de programación para un archivo individual seleccionando el lenguaje desde el menú expandible disponible en la barra de estado."
             },
             {
-                "name": "Turn off Code Hints",
-                "description": "New preferences to disable all code hints or hints from an individual provider."
+                "name": "Desactive las sugerencias de código",
+                "description": "Hay nuevas preferencias para desactivas todas las sugerencias de código o sólo las de algunos proveedores."
             },
             {
-                "name": "Drag and Drop Installation of Extensions",
-                "description": "Install extensions by dragging zip files onto the Extension Manager dialog."
+                "name": "Arrastre y arroje zips para instalar extensiones",
+                "description": "Ahora puede instalar extensiones arrastrando el archivo zip y arrojándolo en el Administrador de Extensiones."
             },
             {
-                "name": "Extension Manager: Show Available Translations",
-                "description": "Extension Manager can now show which extensions have a translation available."
+                "name": "Administrador de Extensiones: Ver las traducciones disponibles",
+                "description": "Dentro del Administrador de Extensiones, ahora se puede ver que extensiones tienen traducciones disponibles."
             },
             {
-                "name": "Traditional Chinese and Galician Translations",
-                "description": "Brackets has new, community-submitted Traditional Chinese and Galician translations."
+                "name": "Traducciones a Chino tradicional y Gallego",
+                "description": "Brackets tiene nuevas traducciones, chino tradicional y gallego, realizadas por la comunidad."
             }
         ]
     },
@@ -57,7 +57,7 @@
             },
             {
                 "name": "Traducción al danés",
-                "description": "Brackets tiene una nueva traducción al danés realizada por la comunidad."
+                "description": "Brackets tiene una nueva traducción, danés, realizada por la comunidad."
             }
         ]
     },
@@ -123,7 +123,7 @@
             },
             {
                 "name": "Traducción al Croata",
-                "description": "Brackets tiene una nueva traducción al Croata realizada por la comunidad."
+                "description": "Brackets tiene una nueva traducción, Croata, realizada por la comunidad."
             }
         ]
     },
