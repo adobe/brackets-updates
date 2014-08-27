@@ -1,5 +1,42 @@
 [
     {
+        "buildNumber": 14322,
+        "versionString": "Release 0.43",
+        "dateString": "2014-09-01",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-0.43",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "SCSS/LESS Support",
+                "description": "Quick Edit, Quick Find Definition & Live Preview Highlight now support SCSS & LESS \u2013 the same as they do for plain CSS."
+            },
+            {
+                "name": "Improved Dark Mode",
+                "description": "More parts of the Brackets UI become dark when a dark theme is selected."
+            },
+            {
+                "name": "Find/Replace: Show Match Index",
+                "description": "The Find/Replace bar shows the index of the current match, e.g. \"7 of 32\"."
+            },
+            {
+                "name": "Themes Tab in Extension Manager",
+                "description": "Themes are listed in a separate tab so they're easier to find. The Extensions tab filters out themes."
+            },
+            {
+                "name": "Save Language Mode Changes",
+                "description": "Permanently change the language for all files with the same extension by choosing \"Set as Default\" from the the status bar language switcher."
+            },
+            {
+                "name": "Live Preview",
+                "description": "Reliability improvements and support for .xhtml files."
+            },
+            {
+                "name": "Ukrainian Translation",
+                "description": "Brackets has a new, community-contributed Ukrainian translation."
+            }
+        ]
+    },
+    {
         "buildNumber": 13957,
         "versionString": "Release 0.42",
         "dateString": "2014-08-01",
