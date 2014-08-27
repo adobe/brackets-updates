@@ -9,7 +9,7 @@
         "newFeatures": [
             {
                 "name": "SCSS/LESS Support",
-                "description": "Quick Edit, Quick Find Definition & Live Preview Highlight now support SCSS & LESS - the same as they do for plain CSS."
+                "description": "Quick Edit, Quick Find Definition & Live Preview Highlight now support SCSS & LESS \u2013 the same as they do for plain CSS."
             },
             {
                 "name": "Improved Dark Mode",
@@ -17,11 +17,11 @@
             },
             {
                 "name": "Find/Replace: Show Match Index",
-                "description": "The Find/Replace bar shows the index of the current match, e.g. \"7 of 32.\""
+                "description": "The Find/Replace bar shows the index of the current match, e.g. \"7 of 32\"."
             },
             {
-                "name": "Theme Listing",
-                "description": "Themes are listed in a separate Extension Manager tab so they're easier to find, and don't clutter the list of other extensions."
+                "name": "Themes Tab in Extension Manager",
+                "description": "Themes are listed in a separate tab so they're easier to find. The Extensions tab filters out themes."
             },
             {
                 "name": "Save Language Mode Changes",
@@ -30,6 +30,10 @@
             {
                 "name": "Live Preview",
                 "description": "Reliability improvements and support for .xhtml files."
+            },
+            {
+                "name": "Ukrainian Translation",
+                "description": "Brackets has a new, community-contributed Ukrainian translation."
             }
         ]
     },
