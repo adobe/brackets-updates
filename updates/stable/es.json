@@ -20,15 +20,15 @@
             },
             {
                 "name": "Pestaña de temas en el Administrador de extensiones",
-                "description": "Los temas ahora se muestran en una pestaña separada para encontrarlos fácilmente y no se muestran en la pestaña disponibles."
+                "description": "Los temas ahora se muestran en una pestaña separada para encontrarlos fácilmente y no se muestran en la pestaña de extensiones disponibles."
             },
             {
                 "name": "Guardar el cambio en el lenguaje de programación",
-                "description": "Cambie permanentemente el languaje de programación para todos los archivos con la misma extensión eligiendo \"Establecer como predeterminado\" desde el menu del lenguaje en la barra de estado."
+                "description": "Cambie permanentemente el lenguaje de programación para todos los archivos con la misma extensión eligiendo \"Establecer como predeterminado\" desde el menu del lenguaje en la barra de estado."
             },
             {
                 "name": "Vista previa",
-                "description": "Mejoras de confiabilidad y compatibilidad con archivos .xhtml."
+                "description": "Mejoras de estabilidad. Soporte de archivos .xhtml."
             },
             {
                 "name": "Traducción al ucraniano",
