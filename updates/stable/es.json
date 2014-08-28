@@ -15,7 +15,7 @@
                 "description": "Más partes de la interfaz de Brackets ahora tienen un diseño oscuro cuando un tema oscuro es seleccionado."
             },
             {
-                "name": "Buscar/Reemplazar: Muestra el índice",
+                "name": "Buscar/Reemplazar: Mostrar el índice",
                 "description": "La barra para buscar/reemplazar ahora muestra el índice de la coincidencia marcada, ej. \"7 de 32\"."
             },
             {
@@ -24,7 +24,7 @@
             },
             {
                 "name": "Guardar el cambio en el lenguaje de programación",
-                "description": "Cambie permanentemente el language de programación para todos los archivos con la misma extensión eligiendo \"Establecer como predeterminado\" desde el menu del lenguaje en la barra de estado."
+                "description": "Cambie permanentemente el languaje de programación para todos los archivos con la misma extensión eligiendo \"Establecer como predeterminado\" desde el menu del lenguaje en la barra de estado."
             },
             {
                 "name": "Vista previa",
