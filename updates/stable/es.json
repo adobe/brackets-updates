@@ -7,32 +7,32 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "SCSS/LESS Support",
-                "description": "Quick Edit, Quick Find Definition & Live Preview Highlight now support SCSS & LESS \u2013 the same as they do for plain CSS."
+                "name": "Soporte para SCSS/LESS",
+                "description": "Edición rápida, Búsqueda rápida de definición y Resaltado en vista previa en vivo ahora soportan SCSS y LESS \u2013 igual que CSS."
             },
             {
-                "name": "Improved Dark Mode",
-                "description": "More parts of the Brackets UI become dark when a dark theme is selected."
+                "name": "Modo oscuro mejorado",
+                "description": "Más partes de la interfaz de Brackets ahora tienen un diseño oscuro cuando un tema oscuro es seleccionado."
             },
             {
-                "name": "Find/Replace: Show Match Index",
-                "description": "The Find/Replace bar shows the index of the current match, e.g. \"7 of 32\"."
+                "name": "Buscar/Reemplazar: Mostrar el índice",
+                "description": "La barra para buscar/reemplazar ahora muestra el índice de la coincidencia marcada, ej. \"7 de 32\"."
             },
             {
-                "name": "Themes Tab in Extension Manager",
-                "description": "Themes are listed in a separate tab so they're easier to find. The Extensions tab filters out themes."
+                "name": "Pestaña de temas en el Administrador de extensiones",
+                "description": "Los temas ahora se muestran en una pestaña separada para encontrarlos fácilmente y no se muestran en la pestaña de extensiones disponibles."
             },
             {
-                "name": "Save Language Mode Changes",
-                "description": "Permanently change the language for all files with the same extension by choosing \"Set as Default\" from the the status bar language switcher."
+                "name": "Guardar el cambio en el lenguaje de programación",
+                "description": "Cambie permanentemente el lenguaje de programación para todos los archivos con la misma extensión eligiendo \"Establecer como predeterminado\" desde el menu del lenguaje en la barra de estado."
             },
             {
-                "name": "Live Preview",
-                "description": "Reliability improvements and support for .xhtml files."
+                "name": "Vista previa",
+                "description": "Mejoras de estabilidad. Soporte de archivos .xhtml."
             },
             {
-                "name": "Ukrainian Translation",
-                "description": "Brackets has a new, community-contributed Ukrainian translation."
+                "name": "Traducción al ucraniano",
+                "description": "Brackets tiene una nueva traducción, ucraniano, realizada por la comunidad."
             }
         ]
     },
