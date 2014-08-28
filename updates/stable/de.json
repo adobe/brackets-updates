@@ -7,32 +7,32 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "SCSS/LESS Support",
-                "description": "Quick Edit, Quick Find Definition & Live Preview Highlight now support SCSS & LESS \u2013 the same as they do for plain CSS."
+                "name": "SCSS/LESS-Unterstützung",
+                "description": "Schnelles Bearbeiten, schnelles Finden der Definition und Live-Vorschau Highlight sind nun auch in SCSS & LESS verfügbar \u2013 genauso wie in normalem CSS."
             },
             {
-                "name": "Improved Dark Mode",
-                "description": "More parts of the Brackets UI become dark when a dark theme is selected."
+                "name": "Verbesserungen im dunklen Modus",
+                "description": "Mehr Bereiche der Brackets-Oberfläche werden dunkel, wenn ein dunkles Design genutzt wird."
             },
             {
-                "name": "Find/Replace: Show Match Index",
-                "description": "The Find/Replace bar shows the index of the current match, e.g. \"7 of 32\"."
+                "name": "Suchen/Ersetzen: Anzeigen der Ergebnisnummer",
+                "description": "Die Suchen/Ersetzen-Leiste zeigt die Nummer des aktuellen Ergebnisses an, z.B. \"7 von 32\"."
             },
             {
-                "name": "Themes Tab in Extension Manager",
-                "description": "Themes are listed in a separate tab so they're easier to find. The Extensions tab filters out themes."
+                "name": "Designs-Tab in der Erweiterungsverwaltung",
+                "description": "Designs werden in einem separaten Tab aufgelistet und sind so einfacher aufzufinden. Der normale Erweiterungen-Tab filtert Designs heraus."
             },
             {
-                "name": "Save Language Mode Changes",
-                "description": "Permanently change the language for all files with the same extension by choosing \"Set as Default\" from the the status bar language switcher."
+                "name": "Sprachzuweisungen speichern",
+                "description": "Stellen Sie die Sprache von Dateien mit derselben Erweiterung dauerhaft ein, indem Sie im Sprachmenü in der Statusleiste \"Als Standard festlegen\" wählen."
             },
             {
-                "name": "Live Preview",
-                "description": "Reliability improvements and support for .xhtml files."
+                "name": "Live-Vorschau",
+                "description": "Verbesserungen und Unterstützung für .xhtml-Dateien."
             },
             {
-                "name": "Ukrainian Translation",
-                "description": "Brackets has a new, community-contributed Ukrainian translation."
+                "name": "Ukrainische Übersetzung",
+                "description": "Brackets ist nun auch in Ukrainisch verfügbar. Die Übersetzung wurde von der Community bereitgestellt."
             }
         ]
     },
