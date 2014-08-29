@@ -2,37 +2,37 @@
     {
         "buildNumber": 14322,
         "versionString": "Release 0.43",
-        "dateString": "01-08-2014",
+        "dateString": "01-09-2014",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-0.43",
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "SCSS/LESS Support",
-                "description": "Quick Edit, Quick Find Definition & Live Preview Highlight now support SCSS & LESS \u2013 the same as they do for plain CSS."
+                "name": "Prise en charge SCSS/LESS",
+                "description": "Les fonctions « Edition rapide », « Accès rapide à la définition » et « Surlignement dans l’Aperçu en direct » sont désormais compatibles avec les langages SCSS et LESS, de la même manière qu’avec le code CSS normal."
             },
             {
-                "name": "Improved Dark Mode",
-                "description": "More parts of the Brackets UI become dark when a dark theme is selected."
+                "name": "Amélioration du mode sombre",
+                "description": "Si vous sélectionnez un thème sombre pour l’interface utilisateur de Brackets, davantage d’éléments apparaissent foncés."
             },
             {
-                "name": "Find/Replace: Show Match Index",
-                "description": "The Find/Replace bar shows the index of the current match, e.g. \"7 of 32\"."
+                "name": "Rechercher/Remplacer : Afficher l’indice du résultat",
+                "description": "La barre Rechercher/Remplacer affiche l’indice du résultat en cours, par exemple « 7 sur 32 »."
             },
             {
-                "name": "Themes Tab in Extension Manager",
-                "description": "Themes are listed in a separate tab so they're easier to find. The Extensions tab filters out themes."
+                "name": "Onglet Thèmes dans Extension Manager",
+                "description": "Les thèmes sont répertoriés dans un onglet distinct, pour que l’utilisateur trouve plus facilement ce qu’il recherche. L’onglet Extensions applique un filtre afin d’exclure les thèmes."
             },
             {
-                "name": "Save Language Mode Changes",
-                "description": "Permanently change the language for all files with the same extension by choosing \"Set as Default\" from the the status bar language switcher."
+                "name": "Enregistrement des changements de mode de langue",
+                "description": "Vous pouvez changer de manière définitive la langue de tous les fichiers portant la même extension en utilisant l’option « Utiliser par défaut » depuis le sélecteur de langue de la barre d’état."
             },
             {
-                "name": "Live Preview",
-                "description": "Reliability improvements and support for .xhtml files."
+                "name": "Aperçu en direct",
+                "description": "Fiabilité renforcée et prise en charge des fichiers .xhtml"
             },
             {
-                "name": "Ukrainian Translation",
-                "description": "Brackets has a new, community-contributed Ukrainian translation."
+                "name": "Traduction en ukrainien",
+                "description": "Une nouvelle traduction de Brackets en ukrainien a vu le jour grâce au travail de la communauté."
             }
         ]
     },
