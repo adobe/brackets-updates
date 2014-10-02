@@ -1,5 +1,34 @@
 [
     {
+        "buildNumber": 14800,
+        "versionString": "Release 0.44",
+        "dateString": "2014-10-03",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-0.44",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Split View",
+                "description": "Edit two files side by side or one above the other. Move files between panes using drag & drop across working sets."
+            },
+            {
+                "name": " Project Tree Improvements",
+                "description": "Many bug and performance fixes in the file tree. Notably, it's now possible to right-click files that Brackets cannot open (such as binary files)."
+            },
+            {
+                "name": "Stylesheet Editing Improvements",
+                "description": "Fixed a case where Brackets would freeze during Live Preview in CSS/SCSS/LESS files. Fixed another case where a CSS inline editor would be blank."
+            },
+            {
+                "name": "Preferences",
+                "description": "New preference to show cursor in selected text. By default, Brackets still hides the blinking cursor when you have a text selection."
+            },
+            {
+                "name": "Localization",
+                "description": "The information displayed in Extension Manager, such as extension name & description, can now be localized by extension authors."
+            }
+        ]
+    },
+    {
         "buildNumber": 14375,
         "versionString": "Release 0.43",
         "dateString": "2014-09-04",
@@ -7,32 +36,32 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "SCSS／LESS サポート",
-                "description": "「クイック編集」、「定義をクイック検索」および「ライブプレビューハイライト」で、プレーン CSS と同様に、SCSS と LESS がサポートされるようになりました。"
+                "name": "SCSS/LESS Support",
+                "description": "Quick Edit, Quick Find Definition & Live Preview Highlight now support SCSS & LESS \u2013 the same as they do for plain CSS."
             },
             {
-                "name": "ダークモードの強化",
-                "description": "ダークテーマ選択時に Brackets UI で暗くなる部分が増えました。"
+                "name": "Improved Dark Mode",
+                "description": "More parts of the Brackets UI become dark when a dark theme is selected."
             },
             {
-                "name": "検索／置換：検索結果インデックスの表示",
-                "description": "検索／置換バーに現在の検索結果のインデックス（「7／32」など）が表示されるようになりました。"
+                "name": "Find/Replace: Show Match Index",
+                "description": "The Find/Replace bar shows the index of the current match, e.g. \"7 of 32\"."
             },
             {
-                "name": "Extension Manager の「テーマ」タブ",
-                "description": "テーマが独立したタブに一覧表示されるようになったため、見つけやすくなりました。「拡張機能」タブからテーマが除外されました。"
+                "name": "Themes Tab in Extension Manager",
+                "description": "Themes are listed in a separate tab so they're easier to find. The Extensions tab filters out themes."
             },
             {
-                "name": "言語モードの変更の保存",
-                "description": "ステータスバーの言語切り替えで「デフォルトに設定」を選択すると、同じ拡張子を持つすべてのファイルの言語が完全に変更されます。"
+                "name": "Save Language Mode Changes",
+                "description": "Permanently change the language for all files with the same extension by choosing \"Set as Default\" from the the status bar language switcher."
             },
             {
-                "name": "ライブプレビュー",
-                "description": "信頼性が向上し、.xhtml ファイルのサポートが追加されました。"
+                "name": "Live Preview",
+                "description": "Reliability improvements and support for .xhtml files."
             },
             {
-                "name": "ウクライナ語の翻訳",
-                "description": "コミュニティの協力によりウクライナ語の翻訳に Brackets が対応しました。"
+                "name": "Ukrainian Translation",
+                "description": "Brackets has a new, community-contributed Ukrainian translation."
             }
         ]
     },
