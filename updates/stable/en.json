@@ -16,7 +16,7 @@
             },
             {
                 "name": "Stylesheet Editing Improvements",
-                "description": "Fixed problem with Brackets freezing during Live Preview on a line within a CSS/SCSS/LESS block comment that contains nothing but '}' with no indent. Also fixed inline editor being blank if CSS rule contains a vendor-prefixed property that uses a rgb()-like color value."
+                "description": "Fixed a case where Brackets would freeze during Live Preview in CSS/SCSS/LESS files. Fixed another case where a CSS inline editor would be blank."
             },
             {
                 "name": "Preferences",
