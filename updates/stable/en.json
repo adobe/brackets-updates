@@ -24,11 +24,7 @@
             },
             {
                 "name": "Localization",
-                "description": "The information displayed in Extension Manager, such as extension name & description, can now be localized via the package-i18n property."
-            },
-            {
-                "name": "Translations",
-                "description": "Language translation updates for Czech, Finnish, Galician, Italian, Persian, Romainian, and Spanish."
+                "description": "The information displayed in Extension Manager, such as extension name & description, can now be localized."
             }
         ]
     },
