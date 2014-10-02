@@ -20,11 +20,11 @@
             },
             {
                 "name": "Preferences",
-                "description": "There is a new preference to show cursor in selected text. By default, Brackets hides the blinking cursor when you have a text selection."
+                "description": "New preference to show cursor in selected text. By default, Brackets still hides the blinking cursor when you have a text selection."
             },
             {
                 "name": "Localization",
-                "description": "The information displayed in Extension Manager, such as extension name & description, can now be localized."
+                "description": "The information displayed in Extension Manager, such as extension name & description, can now be localized by extension authors."
             }
         ]
     },
