@@ -7,24 +7,24 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Split View",
-                "description": "Edit two files side by side or one above the other. Move files between panes using drag & drop across working sets."
+                "name": "Vue fractionnée",
+                "description": "Affichez deux fichiers simultanément en les plaçant côte à côte ou l’un au-dessus de l’autre. Utilisez la fonction de glisser-déposer sur les ensembles de travail pour déplacer les fichiers d’un volet à un autre."
             },
             {
-                "name": " Project Tree Improvements",
-                "description": "Many bug and performance fixes in the file tree. Notably, it's now possible to right-click files that Brackets cannot open (such as binary files)."
+                "name": "Améliorations relatives à l’arborescence de projets",
+                "description": "De nombreux bugs ont été corrigés au niveau de l’arborescence et les performances ont été améliorées. Il est notamment possible, désormais, de cliquer avec le bouton droit de la souris sur les fichiers que Brackets ne peut pas ouvrir (les fichiers binaires, par exemple)."
             },
             {
-                "name": "Stylesheet Editing Improvements",
-                "description": "Fixed a case where Brackets would freeze during Live Preview in CSS/SCSS/LESS files. Fixed another case where a CSS inline editor would be blank."
+                "name": "Améliorations concernant la modification de feuilles de style",
+                "description": "Nous avons résolu le problème suite auquel l’application Brackets se figeait lors d’un aperçu un direct dans des fichiers CSS/SCSS/LESS. Le problème d’éditeur intégré CSS qui apparaissait vide a également été corrigé."
             },
             {
-                "name": "Preferences",
-                "description": "New preference to show cursor in selected text. By default, Brackets still hides the blinking cursor when you have a text selection."
+                "name": "Préférences",
+                "description": "Une nouvelle préférence permettant d’afficher le curseur dans le texte sélectionné a été ajoutée. Par défaut, Brackets continue à masquer le curseur clignotant quand vous sélectionnez du texte."
             },
             {
-                "name": "Localization",
-                "description": "The information displayed in Extension Manager, such as extension name & description, can now be localized by extension authors."
+                "name": "Traduction",
+                "description": "Les informations affichées dans Extension Manager, comme le nom d’une extension et sa description, peuvent maintenant être traduites par l’auteur de l’extension."
             }
         ]
     },

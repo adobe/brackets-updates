@@ -7,24 +7,24 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Split View",
-                "description": "Edit two files side by side or one above the other. Move files between panes using drag & drop across working sets."
+                "name": "分割ビュー",
+                "description": "2 つのファイルを左右または上下に並べて編集できます。ワーキングセットにまたがりドラッグ＆ドロップを使用してペイン間でファイルを移動できます。"
             },
             {
-                "name": " Project Tree Improvements",
-                "description": "Many bug and performance fixes in the file tree. Notably, it's now possible to right-click files that Brackets cannot open (such as binary files)."
+                "name": "プロジェクトツリーの改良点",
+                "description": "ファイルツリーの多数のバグおよびパフォーマンスが修正されました。大きな改良点は、Brackets で開けないファイル（バイナリファイルなど）を右クリックできるようになったことです。"
             },
             {
-                "name": "Stylesheet Editing Improvements",
-                "description": "Fixed a case where Brackets would freeze during Live Preview in CSS/SCSS/LESS files. Fixed another case where a CSS inline editor would be blank."
+                "name": "スタイルシートの編集における改良点",
+                "description": "CSS/SCSS/LESS ファイルでのライブプレビュー中に Brackets がフリーズする問題が解決されました。CSS インラインエディターがブランクになる問題も解決されました。"
             },
             {
-                "name": "Preferences",
-                "description": "New preference to show cursor in selected text. By default, Brackets still hides the blinking cursor when you have a text selection."
+                "name": "環境設定",
+                "description": "環境設定を使用して、選択したテキストでカーソルを表示できるようになりました。初期設定では、テキスト選択範囲があると、点滅カーソルが Brackets で引き続き非表示になります。"
             },
             {
-                "name": "Localization",
-                "description": "The information displayed in Extension Manager, such as extension name & description, can now be localized by extension authors."
+                "name": "ローカライズ",
+                "description": "Extension Manager に表示される情報（拡張機能の名前や説明など）を拡張機能の制作者がローカライズできるようになりました。"
             }
         ]
     },
