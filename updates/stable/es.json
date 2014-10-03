@@ -11,7 +11,7 @@
                 "description": "Edit two files side by side or one above the other. Move files between panes using drag & drop across working sets."
             },
             {
-                "name": " Project Tree Improvements",
+                "name": "Project Tree Improvements",
                 "description": "Many bug and performance fixes in the file tree. Notably, it's now possible to right-click files that Brackets cannot open (such as binary files)."
             },
             {
