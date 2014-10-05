@@ -7,24 +7,24 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Split View",
-                "description": "Edit two files side by side or one above the other. Move files between panes using drag & drop across working sets."
+                "name": "Geteilte Ansicht",
+                "description": "Bearbeiten Sie zwei Dateien neben- oder übereinander. Verschieben Sie Dateien per Drag & Drop zwischen Ansichten."
             },
             {
-                "name": "Project Tree Improvements",
-                "description": "Many bug and performance fixes in the file tree. Notably, it's now possible to right-click files that Brackets cannot open (such as binary files)."
+                "name": "Verbesserungen im Dateibaum",
+                "description": "Viele Bugfixes und Performance-Verbesserungen für den Dateibaum. Außerdem ist es nun möglich, mit der rechten Maustaste auf Dateien zu klicken, die Brackets nicht öffnen kann (zum Beispiel binäre Dateien)."
             },
             {
-                "name": "Stylesheet Editing Improvements",
-                "description": "Fixed a case where Brackets would freeze during Live Preview in CSS/SCSS/LESS files. Fixed another case where a CSS inline editor would be blank."
+                "name": "Verbesserungen beim Bearbeiten von Stylesheets",
+                "description": "Es wurde ein Bug behoben, der einen Absturz von Brackets verursachte, wenn während der Live-Vorschau eine CSS/SCSS/LESS-Datei geöffnet war. Zudem wurde ein Fehler behoben, bei dem der Editor für Schnelles Bearbeiten von CSS leer war."
             },
             {
-                "name": "Preferences",
-                "description": "New preference to show cursor in selected text. By default, Brackets still hides the blinking cursor when you have a text selection."
+                "name": "Einstellungen",
+                "description": "Neue Einstellung, um den Cursor beim Auswählen von Text anzuzeigen. Standardmäßig blendet Brackets den blinkenden Cursor weiterhin aus."
             },
             {
-                "name": "Localization",
-                "description": "The information displayed in Extension Manager, such as extension name & description, can now be localized by extension authors."
+                "name": "Lokalisierung",
+                "description": "Die in der Erweiterungs-Verwaltung angezeigten Informationen, wie Name und Beschreibung der Erweiterung, können von Erweiterungsentwicklern übersetzt werden."
             }
         ]
     },
@@ -89,7 +89,7 @@
                 "description": "Es gibt neue Einstellungen, mit denen die komplette Code-Vervollständigung oder ein einzelner Anbieter deaktiviert werden kann."
             },
             {
-                "name": "Drag-and-Drop-Installation von Erweiterungen",
+                "name": "Drag-&-Drop-Installation von Erweiterungen",
                 "description": "Installieren Sie Erweiterungen durch das Ziehen von .zip-Dateien in den Erweiterungsverwaltungs-Dialog."
             },
             {
@@ -560,7 +560,7 @@
                 "description": "Die Erweiterungs-Verwaltung hat jetzt einen Tab, auf dem verfügbare Erweiterungen für Brackets aufgeführt werden. Sie können eine Erweiterung aus der Liste mit einem Klick installieren oder auf die neueste Version updaten. Entwickler können Erweiterungen über brackets-registry.aboutweb.com auf den Server hochladen."
             },
             {
-                "name": "Drag and Drop vom Betriebssystem",
+                "name": "Drag & Drop vom Betriebssystem",
                 "description": "Sie können jetzt Dateien vom Betriebssystem auf das Brackets-Fenster ziehen, um sie zu öffnen. Sie können auch einen Ordner auf das Brackets-Fenster ziehen, um ihn in der Seitenleiste zu öffnen."
             },
             {
