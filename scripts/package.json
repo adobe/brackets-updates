@@ -1,0 +1,14 @@
+{
+  "name": "deployUpdateNotification",
+  "version": "0.0.1",
+  "description": "Upload the gzipped json files to the S3 bucket",
+  "main": "deployUpdateNotification.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ingo Richter <ingo.richter@adobe.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.0.18"
+  }
+}

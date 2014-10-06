@@ -1,0 +1,5 @@
+{
+    "aws.accesskey": "<YOUR AWS ACCESSKEY HERE>",
+    "aws.secretkey": "<YOUR AWS SECRETKEY HERE>",
+    "s3.bucket": "files.brackets.io/updates/stable"
+}
