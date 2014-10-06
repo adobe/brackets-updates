@@ -1,14 +1,14 @@
 [
     {
-        "buildNumber": 14800,
+        "buildNumber": 14876,
         "versionString": "Release 0.44",
-        "dateString": "03-10-2014",
+        "dateString": "06-10-2014",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-0.44",
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
                 "name": "Dividir editor",
-                "description": "Ahora es posible editar dos archivos uno al lado del otro o uno arriba del otro. Es posible mover los archivos entre los paneles arrastrándolos y soltándolos entre las áreas de trabajo." 
+                "description": "Ahora es posible editar dos archivos uno al lado del otro o uno arriba del otro. Es posible mover los archivos entre los paneles arrastrándolos y soltándolos entre las áreas de trabajo."
             },
             {
                 "name": "Mejoras en el árbol del proyecto",
