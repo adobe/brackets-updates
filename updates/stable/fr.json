@@ -1,30 +1,26 @@
 [
     {
-        "buildNumber": 14876,
-        "versionString": "Release 0.44",
-        "dateString": "06-10-2014",
-        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-0.44",
+        "buildNumber": 15001,
+        "versionString": "Release 1.0",
+        "dateString": "04-11-2014",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-0.45",
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Vue fractionnée",
-                "description": "Affichez deux fichiers simultanément en les plaçant côte à côte ou l’un au-dessus de l’autre. Utilisez la fonction de glisser-déposer sur les ensembles de travail pour déplacer les fichiers d’un volet à un autre."
+                "name": "Brackets Version 1.0",
+                "description": "It's official -- Release 0.45 is our Version 1.0 build!"
             },
             {
-                "name": "Améliorations relatives à l’arborescence de projets",
-                "description": "De nombreux bugs ont été corrigés au niveau de l’arborescence et les performances ont été améliorées. Il est notamment possible, désormais, de cliquer avec le bouton droit de la souris sur les fichiers que Brackets ne peut pas ouvrir (les fichiers binaires, par exemple)."
+                "name": "Customizable Keyboard Shortcuts",
+                "description": "Edit a user preference file and add your key binding overrides for Bracket's commands."
             },
             {
-                "name": "Améliorations concernant la modification de feuilles de style",
-                "description": "Nous avons résolu le problème suite auquel l’application Brackets se figeait lors d’un aperçu un direct dans des fichiers CSS/SCSS/LESS. Le problème d’éditeur intégré CSS qui apparaissait vide a également été corrigé."
+                "name": "Collapse Quick Edit Results",
+                "description": "Quickly collapse results from CSS, SCSS, or LESS files in the Quick Edit result file list using the keyboard."
             },
             {
-                "name": "Préférences",
-                "description": "Une nouvelle préférence permettant d’afficher le curseur dans le texte sélectionné a été ajoutée. Par défaut, Brackets continue à masquer le curseur clignotant quand vous sélectionnez du texte."
-            },
-            {
-                "name": "Traduction",
-                "description": "Les informations affichées dans Extension Manager, comme le nom d’une extension et sa description, peuvent maintenant être traduites par l’auteur de l’extension."
+                "name": "Code Hints Case Matching",
+                "description": "Code Hints now prefer case matches so case sensitive matches are displayed first in hint lists for javascript, quick open, etc..."
             }
         ]
     },
