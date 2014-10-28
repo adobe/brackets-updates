@@ -12,15 +12,19 @@
             },
             {
                 "name": "Customizable Keyboard Shortcuts",
-                "description": "Edit a user preference file and add your key binding overrides for Bracket's commands."
+                "description": "Edit a user preference file and add your key binding overrides for Brackets Commands."
             },
             {
                 "name": "Collapse Quick Edit Results",
-                "description": "Quickly collapse results from CSS, SCSS, or LESS files in the Quick Edit result file list using the keyboard."
+                "description": "Quickly collapse results Quick Edit results from multiple JS, CSS, SCSS, or LESS files in the Quick Edit results file list."
             },
             {
                 "name": "Code Hints Case Matching",
-                "description": "Code Hints now prefer case matches so case sensitive matches are displayed first in hint lists for javascript, quick open, etc..."
+                "description": "Code Hints now prefer case matches so case sensitive matches are displayed first in hint lists for Javascript, Quick Open, etc..."
+            },
+            {
+                "name": "Performance Imrovements",
+                "description": "This release is has many performance improvements over Release 0.44."
             }
         ]
     },    
