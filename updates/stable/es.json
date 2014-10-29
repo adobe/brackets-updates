@@ -16,11 +16,11 @@
             },
             {
                 "name": "Collapse Quick Edit Results",
-                "description": "Quick Edit results are now grouped by file and collapsible."
+                "description": "Quick Edit results are now grouped by file and collapsible so you can easily hide results from unwanted CSS files."
             },
             {
-                "name": "Code Hints Case Matching",
-                "description": "Code Hints and Quick Open now prefer same case matches, providing better results when you use type upper case letters in your searches."
+                "name": "Better Case-Sensitive Suggestive Matching",
+                "description": "Code Hints and Quick Open now suggest results based on the letter case of what was typed, providing better results when you type upper or lower case letters."
             },
             {
                 "name": "Performance Improvements",
