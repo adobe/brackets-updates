@@ -1,5 +1,5 @@
 [
-   {
+    {
         "buildNumber": 15001,
         "versionString": "Release 1.0",
         "dateString": "2014-11-04",
@@ -12,11 +12,11 @@
             },
             {
                 "name": "Customizable Keyboard Shortcuts",
-                "description": "Edit a user preference file and add your key binding overrides for Brackets Commands."
+                "description": "Key bindings for default and extensions shortcuts can be overridden in a user editable JSON file."
             },
             {
                 "name": "Collapse Quick Edit Results",
-                "description": "Quickly collapse results Quick Edit results from multiple JS, CSS, SCSS, or LESS files in the Quick Edit results file list."
+                "description": "Quick Edit results are now grouped by file and collapsible."
             },
             {
                 "name": "Code Hints Case Matching",
