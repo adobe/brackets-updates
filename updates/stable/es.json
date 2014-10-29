@@ -12,7 +12,7 @@
             },
             {
                 "name": "Customizable Keyboard Shortcuts",
-                "description": "Key bindings for default and extensions shortcuts can be overridden in a user editable JSON file."
+                "description": "Key bindings for default and extension shortcuts can be overridden in a user editable JSON file."
             },
             {
                 "name": "Collapse Quick Edit Results",
@@ -20,11 +20,11 @@
             },
             {
                 "name": "Code Hints Case Matching",
-                "description": "Code Hints now prefer case matches so case sensitive matches are displayed first in hint lists for Javascript, Quick Open, etc..."
+                "description": "Code Hints and Quick Open now prefer same case matches, providing better results when you use type upper case letters in your searches."
             },
             {
-                "name": "Performance Imrovements",
-                "description": "This release is has many performance improvements over Release 0.44."
+                "name": "Performance Improvements",
+                "description": "This release has many performance improvements over Release 0.44."
             }
         ]
     },
