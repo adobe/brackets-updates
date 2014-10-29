@@ -56,7 +56,7 @@
                 "description": "Les informations affichées dans Extension Manager, comme le nom d’une extension et sa description, peuvent maintenant être traduites par l’auteur de l’extension."
             }
         ]
-    },    
+    },
     {
         "buildNumber": 14375,
         "versionString": "Release 0.43",
