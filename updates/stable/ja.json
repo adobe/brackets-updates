@@ -19,7 +19,7 @@
                 "description": "Quick Edit results are now grouped by file and collapsible so you can easily hide results from unwanted CSS files."
             },
             {
-                "name": "Better Case-Sensitive Suggestive Matching",
+                "name": "Better Code Hints & Quick Open Results",
                 "description": "Code Hints and Quick Open now suggest results based on the letter case of what was typed, providing better results when you type upper or lower case letters."
             },
             {
