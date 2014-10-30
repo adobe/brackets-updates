@@ -8,23 +8,23 @@
         "newFeatures": [
             {
                 "name": "Brackets 1.0",
-                "description": "It's official: Brackets 1.0 is here!"
+                "description": "Jetzt ist es offiziell: Brackets 1.0 ist da!"
             },
             {
-                "name": "Customizable Keyboard Shortcuts",
-                "description": "Key bindings for default and extension shortcuts can be overridden in a user editable JSON file."
+                "name": "Anpassbare Tastenkürzel",
+                "description": "Tastenkombinationen von Brackets und Erweiterungen können mithilfe einer JSON-Datei geändert werden."
             },
             {
-                "name": "Collapse Quick Edit Results",
-                "description": "Quick Edit results are now grouped by file and collapsible so you can easily hide results from unwanted CSS files."
+                "name": "Ausblenden von Ergebnissen beim Schnellen Bearbeiten",
+                "description": "Ergebnisse beim Schnellen Bearbeiten werden nun nach Datei gruppiert und Ergebnisse in unerwünschten CSS-Dateien können einfach ausgeblendet werden."
             },
             {
-                "name": "Better Code Hints & Quick Open Results",
-                "description": "Code Hints and Quick Open now suggest results based on the letter case of what was typed, providing better results when you type upper or lower case letters."
+                "name": "Bessere Ergebnisse bei Code-Vervollständigung und beim Schnellen Öffnen",
+                "description": "Code-Vervollständigung und Schnelles Öffnen zeigen jetzt treffendere Ergebnisse unter Berücksichtung der Groß-/Kleinschreibung von Buchstaben an."
             },
             {
-                "name": "Performance Improvements",
-                "description": "This release has many performance improvements over Release 0.44."
+                "name": "Performance-Verbesserungen",
+                "description": "Dieser Release beinhaltet gegenüber Release 0.44 viele Performance-Verbesserungen."
             }
         ]
     },    
