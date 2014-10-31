@@ -8,23 +8,23 @@
         "newFeatures": [
             {
                 "name": "Brackets 1.0",
-                "description": "It's official: Brackets 1.0 is here!"
+                "description": "公式発表：Brackets 1.0、登場!"
             },
             {
-                "name": "Customizable Keyboard Shortcuts",
-                "description": "Key bindings for default and extension shortcuts can be overridden in a user editable JSON file."
+                "name": "カスタマイズ可能なキーボードショートカット",
+                "description": "ユーザーの編集可能な JSON ファイルで、初期設定および拡張機能のショートカットのキーバインドを上書きできます。"
             },
             {
-                "name": "Collapse Quick Edit Results",
-                "description": "Quick Edit results are now grouped by file and collapsible so you can easily hide results from unwanted CSS files."
+                "name": "クイック編集の結果を折りたたむ",
+                "description": "クイック編集の結果がファイル別にグループ化されるようになったため、不要な CSS ファイルの結果を簡単に隠すことができます。"
             },
             {
-                "name": "Better Code Hints & Quick Open Results",
-                "description": "Code Hints and Quick Open now suggest results based on the letter case of what was typed, providing better results when you type upper or lower case letters."
+                "name": "コードヒントとクイック オープンの結果の向上",
+                "description": "コードヒントとクイックオープンで入力内容の大文字と小文字に基づいて結果が提案されるようになったため、大文字または小文字を入力したときの結果が向上します。"
             },
             {
-                "name": "Performance Improvements",
-                "description": "This release has many performance improvements over Release 0.44."
+                "name": "パフォーマンスの改善",
+                "description": "このリリースでは、リリース 0.44 のパフォーマンスが多くの点で改善されています。"
             }
         ]
     },    
