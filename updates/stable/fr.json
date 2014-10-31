@@ -7,24 +7,24 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Brackets 1.0",
-                "description": "It's official: Brackets 1.0 is here!"
+                "name": "Brackets 1.0",
+                "description": "C’est officiel : Brackets 1.0 est arrivé !"
             },
             {
-                "name": "Customizable Keyboard Shortcuts",
-                "description": "Key bindings for default and extension shortcuts can be overridden in a user editable JSON file."
+                "name": "Raccourcis clavier personnalisables",
+                "description": "L’utilisateur peut modifier les combinaisons de touches par défaut et les raccourcis des extensions dans un fichier JSON."
             },
             {
-                "name": "Collapse Quick Edit Results",
-                "description": "Quick Edit results are now grouped by file and collapsible so you can easily hide results from unwanted CSS files."
+                "name": "Réduction des résultats de l’édition rapide",
+                "description": "Les résultats de l’édition rapide sont à présent regroupés par fichier, et vous pouvez les réduire afin de facilement masquer les résultats de fichiers CSS non souhaités."
             },
             {
-                "name": "Better Code Hints & Quick Open Results",
-                "description": "Code Hints and Quick Open now suggest results based on the letter case of what was typed, providing better results when you type upper or lower case letters."
+                "name": "Meilleurs résultats pour les indicateurs de code et Ouverture rapide",
+                "description": "Les indicateurs de code et Ouverture rapide suggèrent à présent des résultats sensibles à la casse et fournissent ainsi de meilleurs résultats lorsque vous saisissez des lettres majuscules ou minuscules."
             },
             {
-                "name": "Performance Improvements",
-                "description": "This release has many performance improvements over Release 0.44."
+                "name": "Améliorations des performances",
+                "description": "Cette version possède de nombreuses améliorations des performances par rapport à la version 0.44."
             }
         ]
     },
