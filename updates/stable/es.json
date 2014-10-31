@@ -8,23 +8,23 @@
         "newFeatures": [
             {
                 "name": "Brackets 1.0",
-                "description": "It's official: Brackets 1.0 is here!"
+                "description": "Es oficial: ¡Brackets 1.0 está aquí!"
             },
             {
-                "name": "Customizable Keyboard Shortcuts",
-                "description": "Key bindings for default and extension shortcuts can be overridden in a user editable JSON file."
+                "name": "Atajos de teclado personalizables",
+                "description": "Ahora se puede sobreescribir los atajos de teclado para los comandos de Brackets y de las extensiones en un archivo JSON."
             },
             {
-                "name": "Collapse Quick Edit Results",
-                "description": "Quick Edit results are now grouped by file and collapsible so you can easily hide results from unwanted CSS files."
+                "name": "Colapsar los resultados en la Edición rápida",
+                "description": "Los resultados en la Edición rápida ahora están agrupadas por archivo y son colapsables para que se puedan ocultar los resultados de archivos CSS no deseados."
             },
             {
-                "name": "Better Code Hints & Quick Open Results",
-                "description": "Code Hints and Quick Open now suggest results based on the letter case of what was typed, providing better results when you type upper or lower case letters."
+                "name": "Mejores Sugerencias de código y resultados en la Apertura rápida",
+                "description": "Las Sugerencias de código y la Apertura rápida ahora sugieren resultados basados en las mayúsculas y minúsculas escritas, devolviendo mejores resultados."
             },
             {
-                "name": "Performance Improvements",
-                "description": "This release has many performance improvements over Release 0.44."
+                "name": "Mejoras en el rendimiento",
+                "description": "Esta versión tiene muchas mejoras de rendimiento sobre la versión 0.44."
             }
         ]
     },
