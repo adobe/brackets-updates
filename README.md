@@ -1,6 +1,6 @@
-This repo contains update notification JSON files for [Brackets](http://brackets.io) ([repo](https://github.com/adobe/brackets)). As a end user, you'll see them using _Help > Check for Updates_, or whenever a new version is released.
-However, the actual production files are fetched from a [fixed S3 URL](https://s3.amazonaws.com/files.brackets.io/updates/stable).
-Thus, this repo is mostly about reviewing proposals and translating final versions.
+This repo contains update notification JSON files for [Brackets](http://brackets.io) ([repo](https://github.com/adobe/brackets)). As an end user, you'll see them using _Help > Check for Updates_, or whenever a new version is released.
+
+Brackets checks for updates by downloading a copy of this JSON info from a [fixed S3 URL](https://s3.amazonaws.com/files.brackets.io/updates/stable). Updating this repo does not automatically push the changes "live" to S3. This repo is used to discuss changes and prepare translations before the updates files go live.
 
 ## To push new update files
 
