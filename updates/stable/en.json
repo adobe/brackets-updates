@@ -8,11 +8,11 @@
         "newFeatures": [
             {
                 "name": "Live Preview Multiple Browser Support",
-                "description": "This is disabled by default and needs to be enabled with `livedev.multibrowser` preference. Live Preview will open in default browser. You can copy/paste url to any other browser. All browsers will updated simultaneously."
+                "description": "This is disabled by default and needs to be enabled with `livedev.multibrowser` preference. Live Preview will open in default browser. You can copy/paste url to any other browser. All browsers will be updated simultaneously."
             },
             {
                 "name": "Improved AltGr Key Support",
-                "description": "This fixes conflicts with Brackets keyboard shortcuts."
+                "description": "This Release fixes conflicts between Brackets' own shortcuts and several keyboard layouts."
             },
             {
                 "name": "Improved Stability",
@@ -25,6 +25,10 @@
             {
                 "name": "Improved Code Hint Performance",
                 "description": "The list of code hints is now limited to 50 by default so list is displayed faster. This can be overridden with new `maxCodeHints` preference."
+            },
+            {
+                "name": "Multiple Linter Configuration",
+                "description": "Linter execution can now be configured through preferences."
             }
         ]
     },
