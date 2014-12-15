@@ -19,8 +19,8 @@
                 "description": "Brackets core objects use a new event-listener API that protects against misbehaved extensions."
             },
             {
-                "name": "Live Preview Support for Chrome 40",
-                "description": "Fixed issue with API update made in Chrome 40 that broke Live Preview."
+                "name": "Preferences Language Layer",
+                "description": "Preferences can now be configured per-language."
             },
             {
                 "name": "Improved Code Hint Performance",
