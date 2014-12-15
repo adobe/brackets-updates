@@ -24,7 +24,7 @@
             },
             {
                 "name": "Improved Code Hint Performance",
-                "description": "The list of code hints is now limited to 50 entries so that list is displayed faster. This can be overridden with new `maxCodeHints` preference."
+                "description": "The list of code hints is now limited to 50 entries so that it's displayed faster. This can be overridden with new `maxCodeHints` preference."
             },
             {
                 "name": "Multiple Linter Configuration",
