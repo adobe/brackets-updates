@@ -1,5 +1,34 @@
 [
     {
+        "buildNumber": 15500,
+        "versionString": "Release 1.1",
+        "dateString": "12-15-2014",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.1",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Live Preview Multiple Browser Support",
+                "description": "This is disabled by default and needs to be enabled with `livedev.multibrowser` preference. Live Preview will open in default browser. You can copy/paste url to any other browser. All browsers will updated simultaneously."
+            },
+            {
+                "name": "Improved AltGr Key Support",
+                "description": "This fixes conflicts with Brackets keyboard shortcuts."
+            },
+            {
+                "name": "Improved Stability",
+                "description": "Brackets core objects use a new event-listener API that protects against misbehaved extensions."
+            },
+            {
+                "name": "Live Preview Support for Chrome 40",
+                "description": "Fixed issue with API update made in Chrome 40 that broke Live Preview."
+            },
+            {
+                "name": "Improved Code Hint Performance",
+                "description": "The list of code hints is now limited to 50 by default so list is displayed faster. This can be overridden with new `maxCodeHints` preference."
+            }
+        ]
+    },
+    {
         "buildNumber": 15191,
         "versionString": "Release 1.0",
         "dateString": "11-04-2014",
