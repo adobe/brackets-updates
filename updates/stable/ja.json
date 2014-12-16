@@ -7,28 +7,28 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Available to Try: Live Preview Support for Multiple Browsers",
-                "description": "This is disabled by default and needs to be enabled with `livedev.multibrowser` preference. Live Preview will open in default browser. You can copy/paste url to any other browser. All browsers will be updated simultaneously."
+                "name": "お試しください：複数のブラウザーに対応したライブプレビューサポート",
+                "description": "このサポートは既定では無効です。livedev.multibrowser 環境設定で有効にする必要があります。ライブプレビューは既定のブラウザーで開かれます。url は、他の任意のブラウザーにコピー＆ペーストできます。すべてのブラウザーが同時に更新されます。"
             },
             {
-                "name": "Improved Support for Typing Accented Letters with AltGr",
-                "description": "This Release fixes conflicts between Brackets' own shortcuts and several keyboard layouts (on Windows)."
+                "name": "AltGr によるアクセント記号付き文字の入力サポートが改善",
+                "description": "このリリースでは、Brackets 独自のショートカットといくつかのキーボード レイアウト（Windows）間の競合を修正します。"
             },
             {
-                "name": "Improved Stability",
-                "description": "Brackets core objects use a new event-listener API that protects against misbehaved extensions."
+                "name": "安定性の向上",
+                "description": "Brackets コアオブジェクトでは、異常な動作をする拡張機能に対して保護機能を持つ新しいイベントリスナー API を使用します。"
             },
             {
-                "name": "File Type-Specific Preferences",
-                "description": "Preferences can now be configured via the `language` layer."
+                "name": "ファイルタイプ固有の環境設定",
+                "description": "言語レイヤーを使用して環境設定を構成できるようになりました。"
             },
             {
-                "name": "Improved Typing Performance with Code Hints",
-                "description": "The list of code hints is now limited to 50 entries so that it's displayed faster. This can be overridden with new `maxCodeHints` preference."
+                "name": "コードヒントによる入力パフォーマンスの向上",
+                "description": "コードヒントのリストが 50 エントリに制限され、表示が速くなりました。この設定は、新しい maxCodeHints 環境設定で上書きできます。"
             },
             {
-                "name": "Selectively enable Linters via Preferences",
-                "description": "Linter execution and order can now be configured per project."
+                "name": "環境設定を使用して有効にするリンターを選択",
+                "description": "リンターの実行と順序をプロジェクトごとに構成できるようになりました。"
             }
         ]
     },
