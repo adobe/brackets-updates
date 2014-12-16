@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 15500,
+        "versionString": "Release 1.1",
+        "dateString": "15-12-2014",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.1",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Available to Try: Live Preview Support for Multiple Browsers",
+                "description": "This is disabled by default and needs to be enabled with `livedev.multibrowser` preference. Live Preview will open in default browser. You can copy/paste url to any other browser. All browsers will be updated simultaneously."
+            },
+            {
+                "name": "Improved Support for Typing Accented Letters with AltGr",
+                "description": "This Release fixes conflicts between Brackets' own shortcuts and several keyboard layouts (on Windows)."
+            },
+            {
+                "name": "Improved Stability",
+                "description": "Brackets core objects use a new event-listener API that protects against misbehaved extensions."
+            },
+            {
+                "name": "File Type-Specific Preferences",
+                "description": "Preferences can now be configured via the `language` layer."
+            },
+            {
+                "name": "Improved Typing Performance with Code Hints",
+                "description": "The list of code hints is now limited to 50 entries so that it's displayed faster. This can be overridden with new `maxCodeHints` preference."
+            },
+            {
+                "name": "Selectively enable Linters via Preferences",
+                "description": "Linter execution and order can now be configured per project."
+            }
+        ]
+    },
+    {
         "buildNumber": 15191,
         "versionString": "Release 1.0",
         "dateString": "04-11-2014",
