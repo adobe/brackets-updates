@@ -7,28 +7,28 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Live Preview Multiple Browser Support",
+                "name": "Available to Try: Live Preview Support for Multiple Browsers",
                 "description": "This is disabled by default and needs to be enabled with `livedev.multibrowser` preference. Live Preview will open in default browser. You can copy/paste url to any other browser. All browsers will be updated simultaneously."
             },
             {
-                "name": "Improved AltGr Key Support",
-                "description": "This Release fixes conflicts between Brackets' own shortcuts and several keyboard layouts."
+                "name": "Improved Support for Typing Accented Letters with AltGr",
+                "description": "This Release fixes conflicts between Brackets' own shortcuts and several keyboard layouts (on Windows)."
             },
             {
                 "name": "Improved Stability",
                 "description": "Brackets core objects use a new event-listener API that protects against misbehaved extensions."
             },
             {
-                "name": "Preferences Language Layer",
-                "description": "Preferences can now be configured per-language."
+                "name": "File Type-Specific Preferences",
+                "description": "Preferences can now be configured via the `language` layer."
             },
             {
-                "name": "Improved Code Hint Performance",
+                "name": "Improved Typing Performance with Code Hints",
                 "description": "The list of code hints is now limited to 50 entries so that it's displayed faster. This can be overridden with new `maxCodeHints` preference."
             },
             {
-                "name": "Multiple Linter Configuration",
-                "description": "Linter execution can now be configured through preferences."
+                "name": "Selectively enable Linters via Preferences",
+                "description": "Linter execution and order can now be configured per project."
             }
         ]
     },
