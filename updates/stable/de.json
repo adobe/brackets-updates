@@ -7,28 +7,28 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Available to Try: Live Preview Support for Multiple Browsers",
-                "description": "This is disabled by default and needs to be enabled with `livedev.multibrowser` preference. Live Preview will open in default browser. You can copy/paste url to any other browser. All browsers will be updated simultaneously."
+                "name": "Zum Ausprobieren bereit: Live-Vorschau in verschiedenen Browsern",
+                "description": "Dieses Feature ist standardmäßig deaktiviert und muss erst mit der Einstellung `livedev.multibrowser` aktiviert werden. Die Live-Vorschau öffnet sich im Standardbrowser. Sie können die URL dann in jeden beliebigen anderen Browser kopieren. Alle Browser werden gleichzeitig aktualisiert."
             },
             {
-                "name": "Improved Support for Typing Accented Letters with AltGr",
-                "description": "This Release fixes conflicts between Brackets' own shortcuts and several keyboard layouts (on Windows)."
+                "name": "Verbesserte Unterstützung für Zeichen, bei denen Alt Gr gedrückt wird",
+                "description": "Dieser Release behebt (unter Windows) Konflikte zwischen den Tastenkürzeln von Brackets und verschiedenen Tastaturlayouts."
             },
             {
-                "name": "Improved Stability",
-                "description": "Brackets core objects use a new event-listener API that protects against misbehaved extensions."
+                "name": "Verbesserte Stabilität",
+                "description": "Brackets nutzt nun eine neue Eventhandling-API, die vor Fehlern in Erweiterungen schützt."
             },
             {
-                "name": "File Type-Specific Preferences",
-                "description": "Preferences can now be configured via the `language` layer."
+                "name": "Dateitypspezifische Einstellungen",
+                "description": "Einstellungen können jetzt mithilfe der `language`-Ebene gesetzt werden."
             },
             {
-                "name": "Improved Typing Performance with Code Hints",
-                "description": "The list of code hints is now limited to 50 entries so that it's displayed faster. This can be overridden with new `maxCodeHints` preference."
+                "name": "Verbesserte Tippgeschwindigkeit mit Code-Vervollständigung",
+                "description": "Die Code-Vervollständigungs-Liste wird deutlich schneller angezeigt, da sie nur noch 50 Einträge anzeigt. Diese Zahl kann mit der Einstellung `maxCodeHints` geändert werden."
             },
             {
-                "name": "Selectively enable Linters via Preferences",
-                "description": "Linter execution and order can now be configured per project."
+                "name": "Selektives Aktivieren von Lintern durch die Einstellungen",
+                "description": "Die Ausführung und Reihenfolge von Lintern kann pro Projekt eingestellt werden."
             }
         ]
     },
