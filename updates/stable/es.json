@@ -7,28 +7,28 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Available to Try: Live Preview Support for Multiple Browsers",
-                "description": "This is disabled by default and needs to be enabled with `livedev.multibrowser` preference. Live Preview will open in default browser. You can copy/paste url to any other browser. All browsers will be updated simultaneously."
+                "name": "Disponible para probar: Vista previa dinámica en múltiples navegadores",
+                "description": "Ésta característica está deshabitada por defecto y necesita ser habilitada utilizando la preferencia `livedev.multibrowser`. La vista previa dinámica se abrirá en el navegador por defecto. Puede copiar y pegar la url en cualquier otro navegador. Todos los navegadores se actualizarán al mismo tiempo."
             },
             {
-                "name": "Improved Support for Typing Accented Letters with AltGr",
-                "description": "This Release fixes conflicts between Brackets' own shortcuts and several keyboard layouts (on Windows)."
+                "name": "Soporte mejorado para escribir letras acentuadas con AltGr",
+                "description": "En ésta versión se corrigieron los conflictos entre los atajos de teclado utilizados por Brackets y diferentes teclados que usan la tecla AltGr (en Windows)."
             },
             {
-                "name": "Improved Stability",
-                "description": "Brackets core objects use a new event-listener API that protects against misbehaved extensions."
+                "name": "Mayor estabilidad",
+                "description": "Brackets ahora utiliza un nuevo API para administrar los eventos que protege contra las extensiones con errores."
             },
             {
-                "name": "File Type-Specific Preferences",
-                "description": "Preferences can now be configured via the `language` layer."
+                "name": "Preferencias para tipos de archivos",
+                "description": "Ahora es posible agregar preferencias globales para ciertos tipos de archivos."
             },
             {
-                "name": "Improved Typing Performance with Code Hints",
-                "description": "The list of code hints is now limited to 50 entries so that it's displayed faster. This can be overridden with new `maxCodeHints` preference."
+                "name": "Mejoras en el rendimiento de la escritura con sugerencias de código",
+                "description": "La lista con las sugerencias de código ahora esta limitada a 50 entradas para que se muestre más rápida. Esto puede ser modificado con la preferencia `maxCodeHints`."
             },
             {
-                "name": "Selectively enable Linters via Preferences",
-                "description": "Linter execution and order can now be configured per project."
+                "name": "Habilitar inspeccionadores de código mediante las preferencias",
+                "description": "Ahora puede configurar que inspeccionadores de código se ejecutan y en que orden para cada proyecto o de forma global."
             }
         ]
     },
