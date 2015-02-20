@@ -7,24 +7,28 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Drag & drop to move multiple selected text (Experimental)",
-                "description": "Select multiple segments of code in the editor (Ctrl+ click and drag over multiple text segments). You can start a drag gesture from any of the selected segment and drop it anywhere on the editor to move the selected text. You can try out this feature by setting “dragDropText” preference to true."
+                "name": "Reorganizar el texto arrastrando y soltando",
+                "description": "Se puede habilitar esta característica con la preferencia `dragDropText` para poder arrastrar y soltar el texto seleccionado. ¡También funciona con múltiples selecciones!"
             },
             {
-                "name": "SVG code hints",
-                "description": "Brackets now supports code hints for SVG files. (Note that SVG code hints doesn’t work with SVG code mixed in HTML files)."
+                "name": "Sugerencias de código para colores",
+                "description": "Hay nuevas sugerencias de código para los colores con nombre en CSS/LESS/SCSS, incluyendo una vista previa del color."
             },
             {
-                "name": "Windows High DPI support",
-                "description": "Brackets in now HiDPI ready on devices running Windows 7 or higher. Text and images would be rendered crisper in win 8.1+ devices when OS scaling is applied. (Brackets is not optimized for per monitor DPI settings in a multimonitor setup)."
+                "name": "Sugerencias de código para SVG",
+                "description": "Hay nuevas sugerencias de código en los archivos .svg para etiquetas, atributos, y colores con nombre."
             },
             {
-                "name": "Experimental Live Preview",
-                "description": "Experimental multi-browser live preview can be enabled/disabled Under “File -> Enable Experimental Live Preview” menu (This does not currently support pages that use your own custom server)."
+                "name": "Soporte para alta definición en Windows",
+                "description": "Brackets automáticamente reproduce el texto, los iconos, y las imágenes más nítidamente en monitores con alta definición."
             },
             {
-                "name": "Dart language mode support",
-                "description": "Brackets now supports the Dart language mode."
+                "name": "Indicadores de búsqueda",
+                "description": "Los indicadores de búsqueda para buscar/reemplazar en la barra de desplazamiento, ahora resaltan la coincidencia seleccionada."
+            },
+            {
+                "name": "Mejora en el posicionamiento de la ventana",
+                "description": "En Windows, Brackets se mantiene posicionado en la pantalla luego de que el monitor es desconectado o la resolución de la pantalla es modificada."
             }
         ]
     },
