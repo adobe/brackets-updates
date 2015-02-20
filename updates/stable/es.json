@@ -7,28 +7,28 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Drag & Drop to Rearrange Text",
-                "description": "Enable the `dragDropText` preference to drag and drop selected text. Works with multiple selections too!"
+                "name": "Reorganizar el texto arrastrando y soltando",
+                "description": "Se puede habilitar esta característica con la preferencia `dragDropText` para poder arrastrar y soltar el texto seleccionado. ¡También funciona con múltiples selecciones!"
             },
             {
-                "name": "CSS Color Name Hints",
-                "description": "Code hints for standard named colors in CSS/LESS/SCSS, including color swatch previews."
+                "name": "Sugerencias de código para colores",
+                "description": "Hay nuevas sugerencias de código para los colores con nombre en CSS/LESS/SCSS, incluyendo una vista previa del color."
             },
             {
-                "name": "SVG Code Hints",
-                "description": "Code hints in .svg files for tags, attributes, and named colors."
+                "name": "Sugerencias de código para SVG",
+                "description": "Hay nuevas sugerencias de código en los archivos .svg para etiquetas, atributos, y colores con nombre."
             },
             {
-                "name": "Windows High DPI Support",
-                "description": "Brackets automatically renders text, icons, and images more crisply on high-DPI displays."
+                "name": "Soporte para alta definición en Windows",
+                "description": "Brackets automáticamente reproduce el texto, los iconos, y las imágenes más nítidamente en monitores con alta definición."
             },
             {
-                "name": "Search Tickmark Indicator",
-                "description": "Find/Replace scrollbar tickmarks now highlight the currently selected match."
+                "name": "Indicadores de búsqueda",
+                "description": "Los indicadores de búsqueda para buscar/reemplazar en la barra de desplazamiento, ahora resaltan la coincidencia seleccionada."
             },
             {
-                "name": "Improved Window Positioning",
-                "description": "On Windows, Brackets stays positioned onscreen after a monitor is unplugged or screen resolution is changed."
+                "name": "Mejora en el posicionamiento de la ventana",
+                "description": "En Windows, Brackets se mantiene posicionado en la pantalla luego de que el monitor es desconectado o la resolución de la pantalla es modificada."
             }
         ]
     },
