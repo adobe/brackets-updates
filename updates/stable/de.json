@@ -7,8 +7,8 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Umstrukturieren von Text per Drag & Drop",
-                "description": "Nachdem die Einstellung `dragDropText` aktiviert wurde, kann markierter Text via Drag & Drop bewegt werden. Das funktioniert sogar mit mehreren Auswahlen!"
+                "name": "Umstrukturieren von Text per Drag & Drop (Experimentell)",
+                "description": "Nachdem die Einstellung `dragDropText` aktiviert wurde, kann markierter Text via Drag & Drop bewegt werden. Das funktioniert sogar mit einer Mehrfachauswahl!"
             },
             {
                 "name": "Code-Vervollständigung für CSS-Farbnamen",
@@ -19,7 +19,7 @@
                 "description": "Code-Vervollständigung in .svg-Dateien für Tags, Attribute und Farbnamen."
             },
             {
-                "name": "Unterstützung von hochaufgelösten Displays unter Windows",
+                "name": "Unterstützung von hochauflösenden Displays unter Windows",
                 "description": "Brackets stellt Text, Icons und Bilder auf Displays mit hohem DPI-Wert automatisch schärfer dar."
             },
             {
