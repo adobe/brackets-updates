@@ -2,29 +2,33 @@
     {
         "buildNumber": 15695,
         "versionString": "Release 1.2",
-        "dateString": "02-18-2015",
+        "dateString": "18.02.2015",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.2",
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Drag & drop to move multiple selected text (Experimental)",
-                "description": "Select multiple segments of code in the editor (Ctrl+ click and drag over multiple text segments). You can start a drag gesture from any of the selected segment and drop it anywhere on the editor to move the selected text. You can try out this feature by setting “dragDropText” preference to true."
+                "name": "Umstrukturieren von Text per Drag & Drop (Experimentell)",
+                "description": "Nachdem die Einstellung `dragDropText` aktiviert wurde, kann markierter Text via Drag & Drop bewegt werden. Das funktioniert sogar mit einer Mehrfachauswahl!"
             },
             {
-                "name": "SVG code hints",
-                "description": "Brackets now supports code hints for SVG files. (Note that SVG code hints doesn’t work with SVG code mixed in HTML files)."
+                "name": "Code-Vervollständigung für CSS-Farbnamen",
+                "description": "Code-Vervollständigung für benannte Farben in CSS/LESS/SCSS, inklusive einer Vorschau der Farbe."
             },
             {
-                "name": "Windows High DPI support",
-                "description": "Brackets in now HiDPI ready on devices running Windows 7 or higher. Text and images would be rendered crisper in win 8.1+ devices when OS scaling is applied. (Brackets is not optimized for per monitor DPI settings in a multimonitor setup)."
+                "name": "Code-Vervollständigung für SVG",
+                "description": "Code-Vervollständigung in .svg-Dateien für Tags, Attribute und Farbnamen."
             },
             {
-                "name": "Experimental Live Preview",
-                "description": "Experimental multi-browser live preview can be enabled/disabled Under “File -> Enable Experimental Live Preview” menu (This does not currently support pages that use your own custom server)."
+                "name": "Unterstützung von hochauflösenden Displays unter Windows",
+                "description": "Brackets stellt Text, Icons und Bilder auf Displays mit hohem DPI-Wert automatisch schärfer dar."
             },
             {
-                "name": "Dart language mode support",
-                "description": "Brackets now supports the Dart language mode."
+                "name": "Markierung des aktuellen Suchergebnisses",
+                "description": "In der Scrollbar wird das aktuelle Such-/Ersetzungsergebnis hervorgehoben."
+            },
+            {
+                "name": "Verbesserte Positionierung unter Windows",
+                "description": "Brackets bleibt unter Windows sichtbar, wenn ein Bildschirm nicht mehr angeschlossen oder die Bildschirmauflösung geändert wird."
             }
         ]
     },
