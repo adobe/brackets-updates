@@ -1,5 +1,30 @@
 [
     {
+        "buildNumber": 15996,
+        "versionString": "Release 1.3",
+        "dateString": "04-25-2015",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.3",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Code Editing",
+                "description": "Expand/collapse blocks of code using the indicators next to the line numbers, or use the shortcuts in the View menu."
+            },
+            {
+                "name": "Brackets Health Report",
+                "description": "Anonymous data to help improve Brackets, which can be previewed as well. You could also opt-out, if desired."
+            },
+            {
+                "name": "Improved Search",
+                "description": "Improved search which makes quick open much snappier."
+            },
+            {
+                "name": "Command Line Integration",
+                "description": "Launch Brackets from command line. Now you can open files just by right clicking on any file/folder and choosing \"Open With Brackets\""
+            }
+        ]
+    },
+    {
         "buildNumber": 15697,
         "versionString": "Release 1.2",
         "dateString": "03-02-2015",
