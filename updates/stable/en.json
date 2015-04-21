@@ -7,20 +7,20 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Code Editing",
-                "description": "Expand/collapse blocks of code using the indicators next to the line numbers, or use the shortcuts in the View menu."
+                "name": "Command Line Integration",
+                "description": "Launch Brackets and open files/folders from the command line on Mac or Windows. Brackets can also integrate with the Windows Explorer context menu. On Windows these are installer options; on Mac, use File > Install Command Line Shortcut to enable."
+            },
+            {
+                "name": "Code Folding",
+                "description": "Expand/collapse blocks of code using indicators next to the line numbers, or via keyboard shortcuts."
+            },
+            {
+                "name": "Fixed Windows Scroll Speed",
+                "description": "Restores mouse wheel scrolling speed to the behavior of Brackets 1.0."
             },
             {
                 "name": "Brackets Health Report",
-                "description": "Anonymous data to help improve Brackets, which can be previewed as well. You could also opt-out, if desired."
-            },
-            {
-                "name": "Improved Search",
-                "description": "Improved search which makes quick open much snappier."
-            },
-            {
-                "name": "Command Line Integration",
-                "description": "Launch Brackets from command line. Now you can open files just by right clicking on any file/folder and choosing \"Open With Brackets\""
+                "description": "Anonymous data to help improve Brackets. You can preview the data that will be sent, or opt-out if desired. We've gone to great lengths to protect your privacy and maintain transparency - see Help > Health Report for details."
             }
         ]
     },
