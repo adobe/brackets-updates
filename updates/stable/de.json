@@ -7,20 +7,20 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Command Line Integration",
-                "description": "Launch Brackets and open files/folders from the command line on Mac or Windows. Brackets can also integrate with the Windows Explorer context menu. On Windows these are installer options; on Mac, use File > Install Command Line Shortcut to enable."
+                "name": "Kommandozeilenintegration",
+                "description": "Nutzen Sie die Kommandozeile, um Brackets unter Windows und auf dem Mac zu starten und um Dateien oder Ordner zu öffnen. Brackets lässt sich auch in das Kontextmenü vom Windows Explorer integrieren. Unter Windows können diese Optionen bei der Installation einzeln ausgewählt werden; auf dem Mac können sie via Datei > Kommandozeilenverknüpfung einrichten aktiviert werden."
             },
             {
                 "name": "Code Folding",
-                "description": "Expand/collapse blocks of code using indicators next to the line numbers, or via keyboard shortcuts."
+                "description": "Klappe Codeblöcke mittels Symbolen, die sich neben den Zeilennummern befinden, oder mittels Tastenkombinationen ein bzw. aus."
             },
             {
-                "name": "Fixed Windows Scroll Speed",
-                "description": "Restores mouse wheel scrolling speed to the behavior of Brackets 1.0."
+                "name": "Scrollgeschwindigkeit unter Windows behoben",
+                "description": "Die Scrollgeschwindigkeit wurde wieder auf die von Release 1.0 heruntergesetzt."
             },
             {
-                "name": "Brackets Health Report",
-                "description": "Anonymous data to help improve Brackets. You can preview the data that will be sent, or opt-out if desired. We've gone to great lengths to protect your privacy and maintain transparency - see Help > Health Report for details."
+                "name": "Brackets-Statusbericht",
+                "description": "Anonyme Daten, die Brackets verbessern. Sie können die Daten, die gesendet werden, einsehen und das Übermitteln dieser sogar komplett deaktivieren. Wir haben uns darum bemüht, Ihre Privatsphäre zu schützen und das System gleichzeitig transparent zu gestalten - mehr dazu unter Hilfe > Statusbericht."
             }
         ]
     },
