@@ -7,20 +7,20 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Command Line Integration",
-                "description": "Launch Brackets and open files/folders from the command line on Mac or Windows. Brackets can also integrate with the Windows Explorer context menu. On Windows these are installer options; on Mac, use File > Install Command Line Shortcut to enable."
+                "name": "コマンドラインの統合",
+                "description": "Brackets を起動し、Mac または Windows のコマンドラインからファイルまたはフォルダーを開きます。Brackets は、Windows エクスプローラーのコンテキストメニューとも統合できます。Windows には次のインストーラーオプションが用意されています：（Mac）ファイル／コマンドラインショートカットをインストールを選択して有効にします。"
             },
             {
-                "name": "Code Folding",
-                "description": "Expand/collapse blocks of code using indicators next to the line numbers, or via keyboard shortcuts."
+                "name": "コードの折りたたみ",
+                "description": "行番号の横にあるインジケーター、またはキーボードショートカットを使って、コードのブロックを展開／縮小します。"
             },
             {
-                "name": "Fixed Windows Scroll Speed",
-                "description": "Restores mouse wheel scrolling speed to the behavior of Brackets 1.0."
+                "name": "修正された Windows スクロール速度",
+                "description": "マウスホイールのスクロール速度は Brackets 1.0 のビヘイビアーに復元されます。"
             },
             {
-                "name": "Brackets Health Report",
-                "description": "Anonymous data to help improve Brackets. You can preview the data that will be sent, or opt-out if desired. We've gone to great lengths to protect your privacy and maintain transparency - see Help > Health Report for details."
+                "name": "Brackets の正常性レポート",
+                "description": "Brackets の品質向上に役立つ匿名のデータです。送信されるデータをプレビューしたり、必要に応じて送信されないように選択できます。お客様のプライバシーを保護し、透明性を確保するために万全の配慮が施されています - 詳しくは、ヘルプ／正常性レポートを参照してください。"
             }
         ]
     },
