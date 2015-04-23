@@ -7,20 +7,20 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Integración con la línea de comandos",
-                "description": "Ahora es posible abrir Brackets y abrir archivos/carpetas desde la línea de comandos en Mac y Windows. Brackets también se integra con el menú contextual en el explorador de Windows. En Windows estas son opciones del instalador; en Mac, se puede usar Archivo > Install Command Line Shortcut para habilitarlo."
+                "name": "Integración de la línea de comandos",
+                "description": "Inicie Brackets y abra los archivos y carpetas desde la línea de comandos en Mac o Windows. Brackets también se puede integrar con el menú contextual del explorador de Windows. En Windows, se presentan como opciones del programa de instalación. Para habilitarlo en Mac, seleccione Archivo > Instalar método abreviado de la línea de comandos."
             },
             {
-                "name": "Colapsar/expandir el código",
-                "description": "Ahora se puede expandir/colapsar bloques de código usando los indicadores junto a los números de línea, a través de atajos de teclado."
+                "name": "Plegado de código",
+                "description": "Amplíe y contraiga bloques de código mediante los indicadores ubicados junto a los números de línea o a través de métodos abreviados del teclado."
             },
             {
-                "name": "Arreglada la velocidad de desplazamiento en Windows",
-                "description": "Restaura la velocidad de desplazamiento de la rueda del ratón a como funcionaba en Brackets 1.0."
+                "name": "Velocidad fija de desplazamiento en Windows",
+                "description": "Restaura la velocidad a la que se desplaza la rueda del ratón de acuerdo con el comportamiento de Brackets 1.0."
             },
             {
-                "name": "Reporte de Salud de Brackets",
-                "description": "Información anónima para ayudar a mejorar Brackets. Puedes ver una vista previa con la información que se va a enviar, o darse de baja si lo deseas. Hemos hecho todo lo posible para proteger su privacidad y mantener la transparencia - consulta Ayuda > Health Report para obtener más detalles."
+                "name": "Informe de estado de Brackets",
+                "description": "Datos anónimos para ayudar a mejorar Brackets. Puede obtener una vista previa de los datos que se enviarán o darse de baja si lo desea. Nos hemos esforzado muchísimo para proteger su privacidad y mantener nuestra transparencia. Para obtener más información, consulte Ayuda > Informe de estado."
             }
         ]
     },
@@ -1132,3 +1132,4 @@
         ]
     }
 ]
+
