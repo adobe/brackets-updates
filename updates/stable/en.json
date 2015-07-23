@@ -7,20 +7,24 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Find In Files",
-                "description": "Searching across files has never been this faster. We have worked from ground up to make searching across files, a lot faster. The improvements were so good that we went ahead and introduced `instant search`. The results are now displayed as and when you type the keyword in the search box."
+                "name": "Instant Search in Files",
+                "description": "Searching across files has never been this faster. The search results are now displayed as and when you type in the search box."
             },
             {
-                "name": "Improved Preferences Workflows",
-                "description": "All preferences are now available as code hints, while editing the `brackets.json` preferences file. Also Debug > Open Preferences Files now is going to open user preferences along with default preferences in a split view."
+                "name": "Improved Preferences Experience",
+                "description": "All preferences are now available as code hints while editing the `brackets.json` preferences file. Opening the Preferences Files will also open the default preferences in a split view for reference."
             },
             {
-                "name": "Fixed text rendering on Mac",
-                "description": "Fixed the blurry text issues, on Mac, by enabling subpixel antialiasing rendering and making it default. You could switch to the older text rendering by setting the preference `fonts.fontSmoothing` to `antialiasing`."
+                "name": "Enable/Disable Extensions",
+                "description": "Extensions can now be individually enabled/disabled from the Extension Manager at the click of a button."
             },
             {
-                "name": "Greek and Cyrillic character sets support",
-                "description": "We have now updated the editor font, Source Code Pro, that has improved support for Greek and Cyrillic character sets."
+                "name": "Improved Text Rendering on Mac",
+                "description": "Crisp text rendering on Mac with subpixel antialiasing enabled by default. You can use the older text rendering by setting the `fonts.fontSmoothing` preference to `antialiasing`."
+            },
+            {
+                "name": "Greek and Cyrillic character set support",
+                "description": "Updated editor font (Source Code Pro) with improved support for Greek and Cyrillic character sets."
             }
         ]
     },
