@@ -20,7 +20,7 @@
             },
             {
                 "name": "Rendu du texte amélioré sur Mac",
-                "description": "L’anticrénelage des sous-pixels, activé par défaut, permet un rendu du texte parfaitement net sur Mac. Vous pouvez cependant rétablir l’ancien rendu de texte en définissant la valeur « antialiasing » pour la préférence « fonts.fontSmoothing »."
+                "description": "L’anticrénelage des sous-pixels, activé par défaut, permet un rendu du texte parfaitement net sur Mac. Vous pouvez cependant rétablir l’ancien rendu de texte en définissant la valeur « antialiased » pour la préférence « fonts.fontSmoothing »."
             },
             {
                 "name": "Prise en charge des caractères grecs et cyrilliques",

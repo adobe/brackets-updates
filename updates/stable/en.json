@@ -20,7 +20,7 @@
             },
             {
                 "name": "Improved Text Rendering on Mac",
-                "description": "Crisp text rendering on Mac with subpixel antialiasing enabled by default. You can use the older text rendering by setting the `fonts.fontSmoothing` preference to `antialiasing`."
+                "description": "Crisp text rendering on Mac with subpixel antialiasing enabled by default. You can use the older text rendering by setting the `fonts.fontSmoothing` preference to `antialiased`."
             },
             {
                 "name": "Greek and Cyrillic character set support",
