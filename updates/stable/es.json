@@ -20,7 +20,7 @@
             },
             {
                 "name": "Representación mejorada de texto en Mac",
-                "description": "Se ha optimizado la representación del texto en Mac gracias al suavizado de subpíxel, que está activado de forma predeterminada. Puede optar por la representación de texto antigua, solo tiene que configurar las preferencias “fonts.fontSmoothing” como “antialiasing”."
+                "description": "Se ha optimizado la representación del texto en Mac gracias al suavizado de subpíxel, que está activado de forma predeterminada. Puede optar por la representación de texto antigua, solo tiene que configurar las preferencias “fonts.fontSmoothing” como “antialiased”."
             },
             {
                 "name": "Compatibilidad con el conjunto de caracteres griegos y cirílicos",

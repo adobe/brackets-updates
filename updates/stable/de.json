@@ -20,7 +20,7 @@
             },
             {
                 "name": "Verbessertes Textrendering auf dem Mac",
-                "description": "Auf dem Mac wird Text jetzt standardmäßig gestochen scharf mit Subpixel-Antialiasing gerendert. Wenn Sie das bisherige Textrendering verwenden möchten, legen Sie die Voreinstellung „fonts.fontSmoothing“ auf „antialiasing“ fest."
+                "description": "Auf dem Mac wird Text jetzt standardmäßig gestochen scharf mit Subpixel-Antialiasing gerendert. Wenn Sie das bisherige Textrendering verwenden möchten, legen Sie die Voreinstellung „fonts.fontSmoothing“ auf „antialiased“ fest."
             },
             {
                 "name": "Unterstützung für griechische und kyrillische Zeichensätze",
