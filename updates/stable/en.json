@@ -8,22 +8,22 @@
         "newFeatures": [
             {
                 "name": "Instant Search in Files",
-                "description": "Searching across files has never been this faster. The search results are now displayed as and when you type in the search box."
+                "description": "Searching across files is faster than ever. Results are now displayed incrementally and updated as you type."
             },
             {
-                "name": "Improved Preferences Experience",
-                "description": "All preferences are now available as code hints while editing the `brackets.json` preferences file. Opening the Preferences Files will also open the default preferences in a split view for reference."
+                "name": "Easier Preferences Editing",
+                "description": "All preferences are now available as code hints while editing the `brackets.json` preferences file. Opening a preferences file will also open the default preferences in a second pane."
             },
             {
-                "name": "Enable/Disable Extensions",
-                "description": "Extensions can now be individually enabled/disabled from the Extension Manager at the click of a button."
+                "name": "Disable Extensions Individually",
+                "description": "Extensions can now be individually enabled/disabled from the Extension Manager."
             },
             {
                 "name": "Improved Text Rendering on Mac",
-                "description": "Crisp text rendering on Mac with subpixel antialiasing enabled by default. You can use the older text rendering by setting the `fonts.fontSmoothing` preference to `antialiasing`."
+                "description": "Crisp text rendering on Mac with subpixel antialiasing enabled by default. You can use the older text rendering by setting the `fonts.fontSmoothing` preference to `antialiased`."
             },
             {
-                "name": "Greek and Cyrillic character set support",
+                "name": "Greek and Cyrillic Character support",
                 "description": "Updated editor font (Source Code Pro) with improved support for Greek and Cyrillic character sets."
             }
         ]
