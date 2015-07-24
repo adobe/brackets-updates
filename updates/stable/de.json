@@ -8,15 +8,15 @@
         "newFeatures": [
             {
                 "name": "Sofortsuche im Projekt",
-                "description": "Im Projekt zu suchen war nie schneller. Die Suchergebnisse werden schon angezeigt während der Suchbegriff noch eingegeben wird."
+                "description": "Im Projekt zu suchen war nie schneller. Die Ergebnisse werden schon angezeigt, während der Suchbegriff noch eingegeben wird."
             },
             {
-                "name": "Verbesserter Umgang mit Einstellungen",
-                "description": "Es werden Code Hints für alle Einstellungen angezeigt, während die Einstellungsdatei `brackets.json` bearbeitet wird. Beim Öffnen der Einstellungsdatei werden zusätzlich die Standardeinstellungen zu Referenzzwecken angezeigt."
+                "name": "Vereinfachtes Bearbeiten von Einstellungen",
+                "description": "Es werden Code Hints für alle Einstellungen angezeigt, während die Einstellungsdatei `brackets.json` bearbeitet wird. Beim Öffnen einer Einstellungsdatei werden die Standardeinstellungen zu Referenzzwecken zusätzlich in einer zweiten Ansicht angezeigt."
             },
             {
-                "name": "Aktivieren/Deaktivieren von Erweiterungen",
-                "description": "Erweiterungen können in der Erweiterungsverwaltung mit nur einem Klick de- und wieder reaktiviert werden."
+                "name": "Deaktivieren von einzelnen Erweiterungen",
+                "description": "Erweiterungen können in der Erweiterungsverwaltung de- und wieder reaktiviert werden."
             },
             {
                 "name": "Optimierte Textdarstellung auf dem Mac",
