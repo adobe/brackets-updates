@@ -7,24 +7,24 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Instant Search in Files",
-                "description": "Searching across files has never been this faster. The search results are now displayed as and when you type in the search box."
+                "name": "ファイルのクイック検索",
+                "description": "複数のファイルの一括検索が、これまでにないほど高速になりました。検索ボックスに入力中に検索結果が表示されます。"
             },
             {
-                "name": "Improved Preferences Experience",
-                "description": "All preferences are now available as code hints while editing the `brackets.json` preferences file. Opening the Preferences Files will also open the default preferences in a split view for reference."
+                "name": "環境設定エクスペリエンスの向上",
+                "description": "brackets.json 環境設定ファイルを編集した場合に、すべての環境設定をコードヒントとして利用できるようになりました。環境設定ファイルを開くと、デフォルトの環境設定も分割ビューで開き、参照できます。"
             },
             {
-                "name": "Enable/Disable Extensions",
-                "description": "Extensions can now be individually enabled/disabled from the Extension Manager at the click of a button."
+                "name": "拡張機能の有効化／無効化",
+                "description": "ボタンをクリックして、Extension Manager から拡張機能を個別に有効化／無効化できるようになりました。"
             },
             {
-                "name": "Improved Text Rendering on Mac",
-                "description": "Crisp text rendering on Mac with subpixel antialiasing enabled by default. You can use the older text rendering by setting the `fonts.fontSmoothing` preference to `antialiasing`."
+                "name": "テキストレンダリングの強化（Mac）",
+                "description": "サブピクセルアンチエイリアスがデフォルトで有効になり、Mac でのテキストレンダリングが鮮明になりました。fonts.fontSmoothing 環境設定を antialiasing に設定して、古いテキストレンダリングも使用できます。"
             },
             {
-                "name": "Greek and Cyrillic character set support",
-                "description": "Updated editor font (Source Code Pro) with improved support for Greek and Cyrillic character sets."
+                "name": "ギリシャ語とキリル文字セットのサポート",
+                "description": "エディターフォント（Source Code Pro）でギリシャ語とキリル文字セットのサポートが強化されました。"
             }
         ]
     },

@@ -7,24 +7,24 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Sofortsuche im Projekt",
-                "description": "Im Projekt zu suchen war nie schneller. Die Suchergebnisse werden schon angezeigt während der Suchbegriff noch eingegeben wird."
+                "name": "Schnellsuche in Dateien",
+                "description": "Das Durchsuchen von Dateien geht jetzt noch schneller. Die Suchergebnisse werden angezeigt, sobald Sie Text im Suchfeld eingeben."
             },
             {
-                "name": "Verbesserter Umgang mit Einstellungen",
-                "description": "Es werden Code Hints für alle Einstellungen angezeigt, während die Einstellungsdatei `brackets.json` bearbeitet wird. Beim Öffnen der Einstellungsdatei werden zusätzlich die Standardeinstellungen zu Referenzzwecken angezeigt."
+                "name": "Einfacher zu bedienende Voreinstellungen",
+                "description": "Beim Bearbeiten der Voreinstellungendatei „brackets.json“ stehen jetzt alle Voreinstellungen als Codehinweise zur Verfügung. Wenn Sie die Voreinstellungendatei öffnen, werden die Standardvoreinstellungen zu Referenzzwecken in einer geteilten Ansicht geladen."
             },
             {
-                "name": "Aktivieren/Deaktivieren von Erweiterungen",
-                "description": "Erweiterungen können in der Erweiterungsverwaltung mit nur einem Klick de- und wieder reaktiviert werden."
+                "name": "Erweiterungen aktivieren/deaktivieren",
+                "description": "Erweiterungen können jetzt im Extension Manager einzeln mit nur einem Mausklick aktiviert und deaktiviert werden."
             },
             {
-                "name": "Optimierte Textdarstellung auf dem Mac",
-                "description": "Scharfe Textdarstellung mit aktiviertem Subpixel-Antialiasing ist auf dem Mac standardmäßig aktiviert. Setzen sie die Einstellung `fonts.fontSmoothing` auf `antialiased`, um zur alten Darstellung zu wechseln."
+                "name": "Verbessertes Textrendering auf dem Mac",
+                "description": "Auf dem Mac wird Text jetzt standardmäßig gestochen scharf mit Subpixel-Antialiasing gerendert. Wenn Sie das bisherige Textrendering verwenden möchten, legen Sie die Voreinstellung „fonts.fontSmoothing“ auf „antialiasing“ fest."
             },
             {
-                "name": "Unterstützung für griechische und kyrillische Schriftzeichen",
-                "description": "Durch eine Aktualisierung der Standardschriftart (Source Code Pro) werden nun auch griechische und kyrillische Schriftzeichen unterstützt."
+                "name": "Unterstützung für griechische und kyrillische Zeichensätze",
+                "description": "Die Schriftart für den Editor („Source Code Pro“) wurde überarbeitet und die Unterstützung für griechische und kyrillische Zeichensätze verbessert."
             }
         ]
     },
