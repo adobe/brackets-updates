@@ -12,7 +12,7 @@
             },
             {
                 "name": "Easier Preferences Editing",
-                "description": "All preferences are now available as code hints while editing the `brackets.json` preferences file. Opening a preferences file will also open the default preferences in a second pane."
+                "description": "All preferences are now available as code hints while editing the `brackets.json` preferences file. Opening a preferences file will also open the default preferences in a second pane for reference."
             },
             {
                 "name": "Disable Extensions Individually",
@@ -23,7 +23,7 @@
                 "description": "Crisp text rendering on Mac with subpixel antialiasing enabled by default. You can use the older text rendering by setting the `fonts.fontSmoothing` preference to `antialiased`."
             },
             {
-                "name": "Greek and Cyrillic Character support",
+                "name": "Greek and Cyrillic Character Support",
                 "description": "Updated editor font (Source Code Pro) with improved support for Greek and Cyrillic character sets."
             }
         ]
