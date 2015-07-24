@@ -7,24 +7,24 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Instant Search in Files",
-                "description": "Searching across files has never been this faster. The search results are now displayed as and when you type in the search box."
+                "name": "Búsqueda instantánea en los archivos",
+                "description": "Se ha agilizado la búsqueda en varios archivos. Ahora, los resultados se muestran a medida que se escribe en el cuadro de búsqueda."
             },
             {
-                "name": "Improved Preferences Experience",
-                "description": "All preferences are now available as code hints while editing the `brackets.json` preferences file. Opening the Preferences Files will also open the default preferences in a split view for reference."
+                "name": "Experiencia de preferencias mejorada",
+                "description": "Ahora, todas las preferencias están disponibles como sugerencias de código cuando se edita el archivo de preferencias “brackets.json”. Al abrir los archivos de preferencias, también se abrirán las preferencias predeterminadas en la vista dividida para la referencia del usuario."
             },
             {
-                "name": "Enable/Disable Extensions",
-                "description": "Extensions can now be individually enabled/disabled from the Extension Manager at the click of a button."
+                "name": "Activación y desactivación de las extensiones",
+                "description": "Ahora, las extensiones se pueden activar o desactivar desde Extension Manager, a tan solo un clic de ratón."
             },
             {
-                "name": "Improved Text Rendering on Mac",
-                "description": "Crisp text rendering on Mac with subpixel antialiasing enabled by default. You can use the older text rendering by setting the `fonts.fontSmoothing` preference to `antialiasing`."
+                "name": "Representación mejorada de texto en Mac",
+                "description": "Se ha optimizado la representación del texto en Mac gracias al suavizado de subpíxel, que está activado de forma predeterminada. Puede optar por la representación de texto antigua, solo tiene que configurar las preferencias “fonts.fontSmoothing” como “antialiasing”."
             },
             {
-                "name": "Greek and Cyrillic character set support",
-                "description": "Updated editor font (Source Code Pro) with improved support for Greek and Cyrillic character sets."
+                "name": "Compatibilidad con el conjunto de caracteres griegos y cirílicos",
+                "description": "Se ha actualizado la fuente del editor (Source Code Pro) y se ha mejorado la compatibilidad de los conjuntos de caracteres griegos y cirílicos."
             }
         ]
     },
