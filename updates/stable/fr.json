@@ -1,8 +1,8 @@
 [
     {
-        "buildNumber": 16337,
+        "buildNumber": 16380,
         "versionString": "Release 1.4",
-        "dateString": "24-07-2015",
+        "dateString": "27-07-2015",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.4",
         "downloadURL": "http://brackets.io",
         "newFeatures": [
