@@ -1,5 +1,30 @@
 [
     {
+        "buildNumber": 16538,
+        "versionString": "Release 1.5",
+        "dateString": "2015-10-09",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.5",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Fold Selected Text",
+                "description": "Select any text block in the editor and fold markers will appear to collapse the selected text."
+            },
+            {
+                "name": "Improved Stability and Instant Search",
+                "description": "Major stability and performance improvements. Find in Files can now index and search robustly in thousands of files instantly."
+            },
+            {
+                "name": "CSS Code Hints in PHP",
+                "description": "CSS code hints are now available for style elements inside PHP files."
+            },
+            {
+                "name": "Remember Linter collapsed",
+                "description": "Remember collapsed state of linters on switching files."
+            }
+        ]
+    },
+    {
         "buildNumber": 16380,
         "versionString": "Release 1.4",
         "dateString": "2015-07-27",
