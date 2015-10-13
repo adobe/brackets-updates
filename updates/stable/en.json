@@ -11,7 +11,7 @@
                 "description": "Select any text block in the editor and fold markers will appear to collapse the selected text."
             },
             {
-                "name": "Improved Stability and Instant Search",
+                "name": "Instant Search: Improved Stability and Performance",
                 "description": "Major stability and performance improvements. Find in Files can now index and search robustly in thousands of files instantly."
             },
             {
@@ -19,7 +19,7 @@
                 "description": "CSS code hints are now available for style elements inside PHP files."
             },
             {
-                "name": "Remember Linter collapsed",
+                "name": "Remember Collapsed Linters",
                 "description": "Remember collapsed state of linters on switching files."
             }
         ]
