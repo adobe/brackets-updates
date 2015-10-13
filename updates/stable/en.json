@@ -12,7 +12,7 @@
             },
             {
                 "name": "Instant Search: Improved Stability and Performance",
-                "description": "Find in Files is now more stable as Brackets can now index and search robustly in thousands of files instantly."
+                "description": "ajor stability and performance improvements. Find in Files can now index and search robustly in thousands of files instantly."
             },
             {
                 "name": "CSS Code Hints in PHP",
