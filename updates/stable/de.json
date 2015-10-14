@@ -7,20 +7,20 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Fold Selected Text",
-                "description": "Select any text block in the editor and fold markers will appear to collapse the selected text."
+                "name": "Ausgewählten Text einklappen",
+                "description": "Für Auswahlen im Text erscheinen Symbole, mit denen du den Abschnitt ein- und ausklappen kannst."
             },
             {
-                "name": "Improved Stability and Instant Search",
-                "description": "Major stability and performance improvements. Find in Files can now index and search robustly in thousands of files instantly."
+                "name": "Verbesserte Stabilität und Sofortsuche",
+                "description": "Umfangreiche Stabilitäts- und Performanceverbesserungen. Tausende von Dateien im Projekt können nun robuster und ohne jegliche Wartezeit durchsucht werden."
             },
             {
                 "name": "CSS Code Hints in PHP",
-                "description": "CSS code hints are now available for style elements inside PHP files."
+                "description": "CSS Code Hints werden jetzt auch in <style>-Elementen in PHP-Dateien angezeigt."
             },
             {
-                "name": "Remember Linter collapsed",
-                "description": "Remember collapsed state of linters on switching files."
+                "name": "Merken eingeklappter Linter",
+                "description": "Beim Wechsel zwischen Dateien merkt sich Brackets, welche Linter eingeklappt sind."
             }
         ]
     },
