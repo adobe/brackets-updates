@@ -2,25 +2,25 @@
     {
         "buildNumber": 16538,
         "versionString": "Release 1.5",
-        "dateString": "09-10-2015",
+        "dateString": "14-10-2015",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.5",
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Fold Selected Text",
-                "description": "Select any text block in the editor and fold markers will appear to collapse the selected text."
+                "name": "Plier le texte sélectionné",
+                "description": "Sélectionnez un bloc de texte dans l’éditeur et utilisez les repères de pliage qui s’affichent pour réduire le texte."
             },
             {
-                "name": "Improved Stability and Instant Search",
-                "description": "Major stability and performance improvements. Find in Files can now index and search robustly in thousands of files instantly."
+                "name": "Stabilité renforcée et recherche instantanée",
+                "description": "Améliorations majeures des performances et de la stabilité. La fonction « Rechercher dans les fichiers » peut désormais indexer des milliers de fichiers et rechercher instantanément ceux qui vous intéressent."
             },
             {
-                "name": "CSS Code Hints in PHP",
-                "description": "CSS code hints are now available for style elements inside PHP files."
+                "name": "Conseils de code CSS dans PHP",
+                "description": "Des conseils de code CSS sont désormais disponibles pour les éléments de style dans les fichiers PHP."
             },
             {
-                "name": "Remember Linter collapsed",
-                "description": "Remember collapsed state of linters on switching files."
+                "name": "Maintien de l’apparence réduite des outils d’analyse Linting",
+                "description": "Quand l’utilisateur change de fichier, le système garde en mémoire que les outils d’analyse Linting sont réduits."
             }
         ]
     },
