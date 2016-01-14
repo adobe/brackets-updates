@@ -1,26 +1,26 @@
 [
     {
-        "buildNumber": 16666,
+        "buildNumber": 16680,
         "versionString": "Release 1.6",
-        "dateString": "01-14-2016",
+        "dateString": "18-01-2016",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.6",
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Move files between in split panes using flip buttons",
-                "description": "Move files between different split panes using the new flip button."
+                "name": "Vue fractionnée (même document)",
+                "description": "Ouvrez le même fichier dans les deux volets, lorsque vous êtes dans la vue fractionnée."
             },
             {
-                "name": "Type inference in hint list",
-                "description": "Javascript code hints now provide more information like type inference and associated documentation."
+                "name": "Utilisez les bouton de symétrie pour déplacer les fichiers entre les volets fractionnés.",
+                "description": "Utilisez le nouveau bouton de symétrie pour déplacer les fichiers entre les différents volets fractionnés."
             },
             {
-                "name": "Split View(Same Document)",
-                "description": "Open the same file in both the panes, when in split view."
+                "name": "Inférence de types dans la liste de conseils",
+                "description": "Les conseils du code JavaScript fournissent désormais plus d’informations comme l’inférence de types et la documentation associée."
             },
             {
-                "name": "Toggle panels and no-Distraction mode",
-                "description": "Cmd-Shit-2 will now enable no-distraction mode, that will allow you to work with very minial UI."
+                "name": "Volets Activer/Désactiver et mode Aucune distraction",
+                "description": "Cmd-Shift-2 va à présent activer le mode Aucune distraction qui vous permettra de travailler avec une interface utilisateur très minime."
             }
         ]
     },
