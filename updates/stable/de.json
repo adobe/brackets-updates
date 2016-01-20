@@ -19,7 +19,7 @@
                 "description": "In JavaScript-Codehinweisen finden Sie jetzt weitere Informationen wie die Typinferenz und zugehörige Dokumentation."
             },
             {
-                "name": "Bedienfelder ein- und ausblenden und reduzierter Modus",
+                "name": "Reduzierter Modus ohne unnötige Bedienfelder",
                 "description": "Mit Befehl-Umschalt-2 können Sie jetzt den reduzierten Modus aktivieren, um mit einer auf das Nötigste beschränkten Benutzeroberfläche zu arbeiten."
             }
         ]
