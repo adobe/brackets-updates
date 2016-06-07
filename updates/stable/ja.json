@@ -12,7 +12,7 @@
             },
             {
                 "name": "Recent Files Navigation dialog",
-                "description": "The new \"Recent Files\" navigation dialog shows a history of all opened files, allowing one to switch to a file visually. The new dialog also tracks opened files that are not in the working set."
+                "description": "Ctrl + Tab is now going to bring up the new \"Recent Files\" navigation dialog showing a history of all opened files and allowing one to switch to a file visually. The new dialog also tracks opened files that are not in the working set."
             },
             {
                 "name": "64 bit on MAC",
