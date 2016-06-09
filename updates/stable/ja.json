@@ -1,22 +1,22 @@
 [
     {
-        "buildNumber": 16888,
+        "buildNumber": 16898,
         "versionString": "Release 1.7",
-        "dateString": "06-08-2016",
+        "dateString": "2016-06-10",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.7",
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "CEF shell upgrade to 2623",
-                "description": "Brackets app shell is now upgraded to CEF 2623. The long standing issue with mouse scroll being too fast on Windows is now fixed with the CEF upgrade."
+                "name": "CEF シェルの 2623 へのアップグレード",
+                "description": "Brackets アプリシェルは、CEF 2623 にアップグレードされました。Windows ではマウススクロールが早すぎるという長く続いていた問題が CEF アップグレードにより修正されました。"
             },
             {
-                "name": "Recent Files Navigation dialog",
-                "description": "Ctrl + Tab is now going to bring up the new \"Recent Files\" navigation dialog showing a history of all opened files and allowing one to switch to a file visually. The new dialog also tracks opened files that are not in the working set."
+                "name": "最近使用したファイルのナビゲーションダイアログ",
+                "description": "Ctrl + Tab タブによって表示される「最近使用したファイル」ナビゲーションダイアログが新しくなり、開いているすべてのファイルの履歴を表示し、いずれかのファイルに視覚的に切り替えられるようになりました。新しいダイアログでは、ワーキングセットに含まれない開いているファイルも記録されます。"
             },
             {
-                "name": "64 bit on MAC",
-                "description": "Brackets on MAC is now 64 bit!"
+                "name": "MAC 版が 64 bit に",
+                "description": "MAC 版の Brackets が 64 ビットになりました!"
             }
         ]
     },

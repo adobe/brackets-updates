@@ -1,22 +1,22 @@
 [
     {
-        "buildNumber": 16888,
+        "buildNumber": 16898,
         "versionString": "Release 1.7",
-        "dateString": "06-08-2016",
+        "dateString": "10-06-2016",
         "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.7",
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "CEF shell upgrade to 2623",
-                "description": "Brackets app shell is now upgraded to CEF 2623. The long standing issue with mouse scroll being too fast on Windows is now fixed with the CEF upgrade."
+                "name": "Mise à niveau du shell du CEF à la version 2623",
+                "description": "Le shell de l’application Brackets comporte désormais la mise à niveau au cadre CEF 2623. Le problème de longue date d’un défilement trop rapide de la souris sous Windows est maintenant corrigé avec la mise à niveau du CEF."
             },
             {
-                "name": "Recent Files Navigation dialog",
-                "description": "Ctrl + Tab is now going to bring up the new \"Recent Files\" navigation dialog showing a history of all opened files and allowing one to switch to a file visually. The new dialog also tracks opened files that are not in the working set."
+                "name": "Boîte de dialogue de navigation Fichiers récents",
+                "description": "La combinaison Ctrl+Tab appelle maintenant la nouvelle boîte de dialogue de navigation « Fichiers récents » qui affiche un historique de tous les fichiers ouverts et permet de basculer visuellement vers un fichier. La nouvelle boîte de dialogue effectue également le suivi de fichiers ouverts non inclus dans l’ensemble de travail."
             },
             {
-                "name": "64 bit on MAC",
-                "description": "Brackets on MAC is now 64 bit!"
+                "name": "64 bits sur MAC",
+                "description": "L’application Brackets sur MAC est désormais conçue pour les systèmes 64 bits !"
             }
         ]
     },    
