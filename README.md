@@ -29,6 +29,6 @@ In order to deploy the update notifications to S3, some required libs have to be
 1. Change [`UpdateNotification._getVersionInfoURL()`](https://github.com/adobe/brackets/blob/master/src/utils/UpdateNotification.js#L101-L109)
    to always return...
      * A local URL like: file://C:/code/brackets-updates/updates/stable/en.json
-     * A GitHub raw URL like: https://raw2.github.com/adobe/brackets-updates/master/updates/stable/en.json
+     * A GitHub raw URL like: https://raw.githubusercontent.com/adobe/brackets-updates/master/updates/stable/en.json
        <br>(this can point at version on a PR's branch, too)
 2. Reload, then _Help > Check for Updates_
