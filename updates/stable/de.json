@@ -7,20 +7,20 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Node upgrade to 6.3.1",
-                "description": "Brackets 1.8 ships with Node 6.3.1. With this upgrade, you can take advantage of all the latest NPM modules to develop extensions for Brackets."
+                "name": "Node-Upgrade auf Version 6.3.1",
+                "description": "Brackets 1.8 wird mit Node 6.3.1 ausgeliefert. Mit diesem Upgrade können Sie die neuesten NPM-Module bei der Entwicklung von Erweiterungen für Brackets nutzen."
             },
             {
-                "name": "New editor Context menu items",
-                "description": "Cut, Copy and Paste operations are now available in the context menu."
+                "name": "Neue Befehle im Editor-Kontextmenü",
+                "description": "„Ausschneiden“, „Kopieren“ und „Einfügen“ sind jetzt im Kontextmenü verfügbar."
             },
             {
-                "name": "Code-folding support for handlebars template files",
-                "description": "Code-folding has now been enabled for blocks and helpers in handlebar template files."
+                "name": "Unterstützung für Codefaltung in Handlebars-Vorlagendateien",
+                "description": "Die Codefaltung von Blöcken und Hilfen ist jetzt in Handlebars-Vorlagendateien möglich."
             },
             {
-                "name": "ARIA code hints",
-                "description": "Brackets 1.8 now supports 'ARIA' attributes for html attribute code hints."
+                "name": "ARIA-Codehinweise",
+                "description": "Brackets 1.8 unterstützt jetzt ARIA-Attribute in Codehinweisen zu HTML-Attributen."
             }
         ]
     },
