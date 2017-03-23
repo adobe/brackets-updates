@@ -8,7 +8,7 @@
         "newFeatures": [
             {
                 "name": "Reverse inspect in Live Preview",
-                "description": "Brackets 1.9 ships with Reverse-inspect in Live Preview. Now clicking on an element in Live Preview highlights the corresponding tag in the source code."
+                "description": "Brackets 1.9 ships with reverse inspect in Live Preview. Now clicking on an element in Live Preview highlights the corresponding tag in the source code."
             },
             {
                 "name": "Support for “Replace All” action in Find & Replace",
@@ -27,8 +27,8 @@
                 "description": "Focus can be swapped between panes using keyboard shortcut."
             },
             {
-                "name": "Github organization support for Brackets extensions",
-                "description": "Github organizations can now own brackets extensions. All public owners of organization can update extensions."
+                "name": "GitHub organization support for Brackets extensions",
+                "description": "GitHub organizations can now own Brackets extensions. All public owners of organization can update extensions."
             }
         ]
     },
