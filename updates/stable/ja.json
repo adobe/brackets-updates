@@ -1,5 +1,38 @@
 [
     {
+        "buildNumber": 17312,
+        "versionString": "Release 1.9",
+        "dateString": "2017-03-23",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.9",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "ライブプレビューでのリバースインスペクト",
+                "description": "ライブプレビューで Brackets 1.9 にリバースインスペクトが搭載されました。ライブプレビューでエレメントをクリックすると、ソースコードの対応するタグがハイライト表示されます。"
+            },
+            {
+                "name": "検索と置換での「すべて置換」操作のサポート",
+                "description": "Brackets の検索と置換でバッチ処理に加え、「すべて置換」がサポートされるようになりました。"
+            },
+            {
+                "name": "ダウンロード数の表示とダウンロード数に基づいた拡張機能のソート",
+                "description": "Extension Manager で、一覧表示された拡張機能のダウンロード数が表示されるようになりました。「入手可能」タブや「テーマ」タブでダウンロード数または公開日に基づいて、拡張機能を並べ替えられるようになりました。"
+            },
+            {
+                "name": "名称未設定のドキュメントでのモードの切り替え",
+                "description": "名称未設定のドキュメントの言語モードを切り替えられるようになりました。また、選択したモードのコードの色付けとコードヒントも名称未設定のドキュメントでサポートされるようになりました。"
+            },
+            {
+                "name": "分割ビューでのドキュメントの切り替え",
+                "description": "ショートカットキーを使用して、ペイン間でフォーカスを切り替えられます。"
+            },
+            {
+                "name": "Brackets 拡張機能での Github 組織のサポート",
+                "description": "Github 組織で Brackets 拡張機能を所有できるようになりました。組織のすべてのパブリック所有者が拡張機能を更新できます。"
+            }
+        ]
+    },
+    {
         "buildNumber": 17108,
         "versionString": "Release 1.8",
         "dateString": "2016-11-10",
