@@ -1,4 +1,41 @@
-[
+[   
+    {
+        "buildNumber": 17483,
+        "versionString": "Release 1.10",
+        "dateString": "07-07-2017",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.10",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Multiple encoding support",
+                "description": "Brackets now supports more than 40 different file encodings. You can now Open/Save files with different encodings."
+            },
+            {
+                "name": "Forward/Backward navigation in edit history",
+                "description": "Navigate backward/forward using Alt-I, Alt-Shift-I across explicit cursor positions."
+            },
+            {
+                "name": "Enable/Disable default extensions",
+                "description": "You can now enable/disable default extensions, that are shipped with Brackets."
+            },
+            {
+                "name": "Search History",
+                "description": "Access all your most recently searched queries from the search bar."
+            },
+            {
+                "name": "Native Menus for Linux",
+                "description": "HTML menus are replaced with native menus in Linux."
+            },
+            {
+                "name": "@rule and pseudo-selector code hints",
+                "description": "CSS code hints now support @rule and pseudo selector/element code hints."
+            },
+            {
+                "name": "Inline CSS code hints",
+                "description": "Brackets now provides CSS code hints in style attribute value in html."
+            }
+        ]
+    },
     {
         "buildNumber": 17312,
         "versionString": "Release 1.9",

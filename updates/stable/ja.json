@@ -1,5 +1,42 @@
 [
     {
+        "buildNumber": 17483,
+        "versionString": "Release 1.10",
+        "dateString": "2017-07-07",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.10",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "複数のエンコードのサポート",
+                "description": "Brackets が 40 種類以上のファイルエンコードに対応するようになりました。様々なエンコードを使用して、ファイルを表示/保存できます。"
+            },
+            {
+                "name": "編集履歴での次に進む/前に戻る操作",
+                "description": "明示的なカーソル位置全体で Alt-I、Alt-Shift-I を使用して、前や後ろに移動します。"
+            },
+            {
+                "name": "初期設定の拡張機能の有効化/無効化",
+                "description": "Brackets に付属の初期設定の拡張機能を有効化/無効化できるようになりました。"
+            },
+            {
+                "name": "検索履歴",
+                "description": "検索バーから、最近検索したすべてのクエリにアクセスできます。"
+            },
+            {
+                "name": "Linux 向けのネイティブメニュー",
+                "description": "Linux での HTML メニューが、ネイティブメニューに置き換えられました。"
+            },
+            {
+                "name": "@rule および擬似セレクターのコードヒント",
+                "description": "CSS コードヒントで @rule および擬似セレクター/エレメントのコードヒントがサポートされるようになりました。"
+            },
+            {
+                "name": "CSS コードヒントのインライン表示",
+                "description": "Brackets で、html のスタイル属性の値で CSS コードヒントが表示されるようになりました。"
+            }
+        ]
+    },
+    {
         "buildNumber": 17312,
         "versionString": "Release 1.9",
         "dateString": "2017-03-23",
