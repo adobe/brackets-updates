@@ -1,5 +1,22 @@
 [
     {
+        "buildNumber": 17524,
+        "versionString": "Release 1.11",
+        "dateString": "2017-09-25",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.11",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "ECMAScript 2015 のサポート",
+                "description": "Brackets が ECMAScript 2015 に対応するようになりました。クラス、メソッド、アロー関数、ジェネレーター関数などをクイック入力できるようになりました。また、EcmaScript コードの構文チェックがサポートされ、ESLint が既定の JavaScript 構文チェッカーとして使用されるようになります。"
+            },
+            {
+                "name": "Linux での Brackets",
+                "description": "Brackets で Linux プラットフォームの完全なサポートが提供されるようになりました。新しいバージョンの CEF でのシェルへのアップデートにより、Brackets が Linux で完全に機能するようになります。"
+            }
+        ]
+    },
+    {
         "buildNumber": 17483,
         "versionString": "Release 1.10",
         "dateString": "2017-07-07",
