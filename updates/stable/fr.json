@@ -7,8 +7,8 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Prise en charge d’EcmaScript 6",
-                "description": "Brackets est désormais compatible avec EcmaScript 6. À présent, la liste de saisie prédictive inclut les classes, méthodes, fonctions de flèche, fonctions de générateur et autres éléments. Brackets prend également en charge l’analyse lint du code EcmaScript, ESLint étant utilisé comme utilitaire lint JavaScript par défaut."
+                "name": "Prise en charge d’ECMAScript 2015",
+                "description": "Brackets est désormais compatible avec ECMAScript 2015. À présent, la liste de saisie prédictive inclut les classes, méthodes, fonctions de flèche, fonctions de générateur et autres éléments. Brackets prend également en charge l’analyse lint du code EcmaScript, ESLint étant utilisé comme utilitaire lint JavaScript par défaut."
             },
             {
                 "name": "Brackets sur Linux",

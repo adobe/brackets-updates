@@ -6,8 +6,8 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "Support for EcmaScript 6",
-                "description": "Brackets now supports EcmaScript 6. Quick-type listing now classes, methods, arrow functions, generator functions and much more. Brackets also supports linting of EcmaScript code, with ESLint defaulting as JavaScript linter, as well."
+                "name": "Support for ECMAScript 2015",
+                "description": "Brackets now supports ECMAScript 2015. Quick-type listing now classes, methods, arrow functions, generator functions and much more. Brackets also supports linting of EcmaScript code, with ESLint defaulting as JavaScript linter, as well."
             },
             {
                 "name": "Brackets on Linux",

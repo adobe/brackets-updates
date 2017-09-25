@@ -7,8 +7,8 @@
         "downloadURL": "http://brackets.io",
         "newFeatures": [
             {
-                "name": "EcmaScript 6 のサポート",
-                "description": "Brackets が EcmaScript 6 に対応するようになりました。クラス、メソッド、アロー関数、ジェネレーター関数などをクイック入力できるようになりました。また、EcmaScript コードの構文チェックがサポートされ、ESLint が既定の JavaScript 構文チェッカーとして使用されるようになります。"
+                "name": "ECMAScript 2015 のサポート",
+                "description": "Brackets が ECMAScript 2015 に対応するようになりました。クラス、メソッド、アロー関数、ジェネレーター関数などをクイック入力できるようになりました。また、EcmaScript コードの構文チェックがサポートされ、ESLint が既定の JavaScript 構文チェッカーとして使用されるようになります。"
             },
             {
                 "name": "Linux での Brackets",
