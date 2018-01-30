@@ -1,5 +1,42 @@
 [
     {
+        "buildNumber": 17619,
+        "versionString": "Release 1.12",
+        "dateString": "2018-01-30",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.12",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "JS リファクタリング",
+                "description": "JavaScript 固有のコードのリファクタリング機能"
+            },
+            {
+                "name": "名前変更",
+                "description": "JS モードの機能で、Tern のスコープ分析と推論機能を使用して、ファイル/スコープ機能でのインテリジェントな名前変更が可能になります。名前変更の機能を使用するには、変数 def/ref を選択するか、カーソルを置くか、Ctrl+R を使用します。"
+            },
+            {
+                "name": "Try Catch/Condition で選択範囲を囲む",
+                "description": "try catch または condition ブロックで選択されたコードを囲みます。この機能はカーソルを置くことで使用できます。明示的なセクションで Brackets がステートメントスコープを特定し、try catch ブロックでこれを囲む必要がありません。"
+            },
+            {
+                "name": "アロー式に変換",
+                "description": "匿名の式/関数ブロックを 1 クリックしてアロー式に変換します。"
+            },
+            {
+                "name": "Getters/Setters の作成",
+                "description": "クラス/コンストラクトのコンテキストで現在アクティブな識別子の getters/setters を作成します。"
+            },
+            {
+                "name": "変数として抽出",
+                "description": "式は、現在のスコープ内の変数として抽出できます。"
+            },
+            {
+                "name": "関数として抽出",
+                "description": "選択されたコードブロックを、選択可能なスコープチェーンの関数として抽出でき、Brackets によって依存シンボルのパラメーター化が実行されます。"
+            }
+        ]
+    },
+    {
         "buildNumber": 17524,
         "versionString": "Release 1.11",
         "dateString": "2017-09-25",

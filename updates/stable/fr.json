@@ -1,5 +1,42 @@
 [
     {
+        "buildNumber": 17619,
+        "versionString": "Release 1.12",
+        "dateString": "30-01-2018",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.12",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Remaniement JS",
+                "description": "fonctionnalité de remaniement de code spécifique à JavaScript."
+            },
+            {
+                "name": "Renommer",
+                "description": "fonctionnalité du mode JS qui permet de renommer des éléments de manière intelligente en mode fichier/portée à l’aide des fonctions Tern d’inférence et d’analyse de la portée. Pour utiliser la fonction Renommer, l’utilisateur doit sélectionner un élément def/ref variable ou placer le curseur dans le texte et appuyer sur Ctrl+R."
+            },
+            {
+                "name": "Encapsuler la sélection dans un bloc Try Catch/Condition",
+                "description": "permet d’encapsuler le code sélectionné dans un bloc Try Catch ou Condition. Pour utiliser cette fonctionnalité, l’utilisateur doit placer le curseur dans le texte, sans rien sélectionner explicitement, à l’endroit où Brackets identifie la portée de l’instruction et l’encapsule dans un bloc Try Catch."
+            },
+            {
+                "name": "Convertir en expression de flèche",
+                "description": "conversion en un clic d’un bloc de fonction/d’expression anonyme en expression de flèche."
+            },
+            {
+                "name": "Créer des getters/setters",
+                "description": "permet de créer des getters/setters pour l’identifiant actif dans le contexte d’une classe/construction."
+            },
+            {
+                "name": "Extraire comme variable",
+                "description": "les expressions peuvent être extraites en tant que variable dans la portée active."
+            },
+            {
+                "name": "Extraire comme fonction",
+                "description": "les blocs de code sélectionnés peuvent être extraits en tant que fonction dans une chaîne de portée sélectionnable, et Brackets se charge de paramétrer les symboles de dépendance."
+            }
+        ]
+    },
+    {
         "buildNumber": 17524,
         "versionString": "Release 1.11",
         "dateString": "25-09-2017",
