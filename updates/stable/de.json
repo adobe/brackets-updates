@@ -1,5 +1,37 @@
 [
     {
+        "buildNumber": 17666,
+        "versionString": "Release 1.13 Pre-Release-1",
+        "dateString": "03.05.2018",
+        "releaseNotesURL": "#",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Drag and Drop in FileTreeView",
+                "description": "Drag and drop files in FileTreeView"
+            }
+        ],
+        "platforms" : {
+            "WIN": {
+                "checksum": "0745cb2e0193fac5a3e270aaa40ee121d6555be2ef635b59d70e66d24fd01271",
+                "downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.13-prerelease-1/Brackets.Release.release-1.13-prerelease-1.msi"
+            },
+            "OSX": {
+                "checksum": "35c290f5150598844e739409aac1883c24c5d472a301a8a2b184a2622478574c",
+                "downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.13-prerelease-1/Brackets.Release.release-1.13-prerelease-1.dmg"
+            },
+            "LINUX32" : {
+                "checksum": "405cd777369777a1e1b91ea65323462041458e9313a148eb236e46dc37e4b851",
+                "downloadURL" : "https://github.com/adobe/brackets/releases/download/release-1.13-prerelease-1/Brackets.Release.release-1.13-prerelease-1.32-bit.deb"
+            },
+            "LINUX64" : {
+                "checksum" : "7b28ae0b5deaf5432c9b0d72ea88ea7e648ee720e3b034eb4bec494860205547",
+                "downloadURL" : "https://github.com/adobe/brackets/releases/download/release-1.13-prerelease-1/Brackets.Release.release-1.13-prerelease-1.64-bit.deb"
+            }
+        },
+        "prerelease" : "true"
+    },
+    {
         "buildNumber": 17621,
         "versionString": "Release 1.12",
         "dateString": "30.01.2018",
