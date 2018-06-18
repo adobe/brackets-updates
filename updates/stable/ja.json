@@ -1,5 +1,26 @@
 [
     {
+        "buildNumber": 17696,
+        "versionString": "Release 1.13",
+        "dateString": "2018-06-18",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.13",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "ファイルツリーのファイルとフォルダーを整理する",
+                "description": "クラス/コンストラクトのコンテキストで現在アクティブな識別子の getters/setters を作成します。"
+            },
+            {
+                "name": "リモートファイルを開く",
+                "description": "Brackets でリモートでホストされた web ページを開けるようになりました。ショートカットの Ctrl / Cmd+Shift+O キーを使用し、URL を入力すればすぐにファイルが開き、Brackets 内でコードを確認できます。"
+            },
+            {
+                "name": "自動更新",
+                "description": "コードエディターを終了しなくても、Brackets を自動的に更新できるようになりました。"
+            }
+        ]
+    },
+    {
         "buildNumber": 17621,
         "versionString": "Release 1.12",
         "dateString": "2018-01-30",

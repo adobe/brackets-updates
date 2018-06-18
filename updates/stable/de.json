@@ -1,5 +1,26 @@
 [
     {
+        "buildNumber": 17696,
+        "versionString": "Release 1.13",
+        "dateString": "18.06.2018",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.13",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Dateien/Ordner in Dateistruktur anordnen",
+                "description": "Sie können nun die Ordnerstruktur innerhalb von Brackets bearbeiten.Verschieben Sie eine Datei oder einen Ordner einfach mit Drag & Drop von einem Ordner zu einem anderen."
+            },
+            {
+                "name": "Remote-Dateien öffnen",
+                "description": "Jetzt können Sie Webseiten in Brackets öffnen, die remote gehostet werden.Verwenden Sie die Tastenkombination Strg/Befehl+Umschalt+O und geben Sie eine URL ein, um die Datei schnell zu öffnen und den Code in Brackets zu überprüfen."
+            },
+            {
+                "name": "Automatische Aktualisierung",
+                "description": "Brackets kann jetzt automatisch aktualisiert werden, ohne den Code-Editor zu verlassen."
+            }
+        ]
+    },
+    {
         "buildNumber": 17621,
         "versionString": "Release 1.12",
         "dateString": "30.01.2018",
