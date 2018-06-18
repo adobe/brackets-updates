@@ -39,6 +39,38 @@
         },
         "prerelease" : "false"
      },
+	 {
+		"buildNumber": 17689,
+		"versionString": "Release 1.13 Pre-Release-3",
+		"dateString": "05-06-2018",
+		"releaseNotesURL": "#",
+		"downloadURL": "http://brackets.io",
+		"newFeatures": [
+			{
+				"name": "Remote File Open",
+				"description": "Use Quick open to open a remote file"
+			}
+		],
+		"platforms" : {
+			"WIN": {
+				"checksum": "10371f31ce9bd3ff3cf09e95df586d1c2d0cca6e016595969ef3a513122a6011",
+				"downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.13-prerelease-3/Brackets.Release.release-1.13-prerelease-3.msi"
+			},
+			"OSX": {
+				"checksum": "2825d2324b077513ae2bd6a49deba3cc5fdc24cd426ef0d2bc83b4f32803b32a",
+				"downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.13-prerelease-3/Brackets.Release.release-1.13-prerelease-3.dmg"
+			},
+			"LINUX32" : {
+				"checksum": "5792326c49787a8d32209a049db0069d5501fbb452429ce11304efc4eb4a2bf0",
+				"downloadURL" : "https://github.com/adobe/brackets/releases/download/release-1.13-prerelease-3/Brackets.Release.release-1.13-prerelease-3.32-bit.deb"
+			},
+			"LINUX64" : {
+				"checksum" : "816db6574d358204bb1e2c6d248154a49d128420cd87bea58d54d3270b7d1f08",
+				"downloadURL" : "https://github.com/adobe/brackets/releases/download/release-1.13-prerelease-3/Brackets.Release.release-1.13-prerelease-3.64-bit.deb"
+			}
+		},
+		"prerelease" : "true"
+	},
      {
         "buildNumber": 17666,
         "versionString": "Release 1.13 Pre-Release-1",
