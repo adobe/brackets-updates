@@ -1,5 +1,45 @@
 [
     {
+        "buildNumber": 17696,
+        "versionString": "Release 1.13",
+        "dateString": "18.06.2018",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.13",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Dateien/Ordner in Dateistruktur anordnen",
+                "description": "Sie können nun die Ordnerstruktur innerhalb von Brackets bearbeiten.Verschieben Sie eine Datei oder einen Ordner einfach mit Drag & Drop von einem Ordner zu einem anderen."
+            },
+            {
+                "name": "Remote-Dateien öffnen",
+                "description": "Jetzt können Sie Webseiten in Brackets öffnen, die remote gehostet werden.Verwenden Sie die Tastenkombination Strg/Befehl+Umschalt+O und geben Sie eine URL ein, um die Datei schnell zu öffnen und den Code in Brackets zu überprüfen."
+            },
+            {
+                "name": "Automatische Aktualisierung",
+                "description": "Brackets kann jetzt automatisch aktualisiert werden, ohne den Code-Editor zu verlassen."
+            }
+        ],
+        "platforms" : {
+            "WIN": {
+                "checksum": "a1020f55d4ec92c824ed6e5a3db941eaae6ffeb2334a77fa3465fe2736304a86",
+                "downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.13/Brackets.Release.1.13.msi"
+            },
+            "OSX": {
+                "checksum": "34d8960d78e7301febcc6b68b85970d119b7a904cdb9a0ecfc445348de1e4bd4",
+                "downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.13/Brackets.Release.1.13.dmg"
+            },
+            "LINUX32" : {
+                "checksum": "3a83332e4e54fa3721dfa7e67a9d143c0b2658aec9de9b0c1042435f5f496624",
+                "downloadURL" : "https://github.com/adobe/brackets/releases/download/release-1.13/Brackets.Release.1.13.32-bit.deb"
+            },
+            "LINUX64" : {
+                "checksum" : "5c489a51d14b66d696f1b167018dae598f9a27c1bd08a4026334e300f7dc93cf",
+                "downloadURL" : "https://github.com/adobe/brackets/releases/download/release-1.13/Brackets.Release.1.13.64-bit.deb"
+            }
+        },
+        "prerelease" : "false"
+    },
+    {
         "buildNumber": 17666,
         "versionString": "Release 1.13 Pre-Release-1",
         "dateString": "03.05.2018",
