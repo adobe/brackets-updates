@@ -1,5 +1,25 @@
 [
     {
+        "buildNumber": 17699,
+        "versionString": "Release 1.13",
+        "dateString": "13.12.2018",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.13",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Nur Windows",
+                "description": "Dieses Update umfasst Korrekturen zur Verbesserung der Brackets-Gesamtleistung vom Start bis zu wichtigen Programmierabläufen."
+            }
+        ],
+        "platforms" : {
+            "WIN": {
+                "checksum": "1d9879807aef35a322e9129e0692fcc7d1d2704daab6d5c65767ede23d3c7384",
+                "downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.13/Brackets.Release.1.13.msi"
+            }
+        },
+        "prerelease" : "false"
+    },
+    {
         "buildNumber": 17696,
         "versionString": "Release 1.13",
         "dateString": "18.06.2018",
