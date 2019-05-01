@@ -1,5 +1,41 @@
 [
     {
+        "buildNumber": 17740,
+        "versionString": "Release 1.14",
+        "dateString": "05-02-2019",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.14",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Support for Language Server Protocol",
+                "description": "Brackets now supports Language Server Protocol. The inbuilt language client can be used and customized to facilitate integration of language servers (such as PHP, Python, and more) to provide features like code hinting, parameter hinting, jump to definition etc."
+            },
+            {
+                "name": "PHP Support",
+                "description": "Brackets now supports PHP via integration of a PHP language server. When writing PHP code, you can take advantage of code hinting, function parameter hinting, jump to definition, document and project wide symbols, find references and linting."
+            }
+        ],
+        "platforms" : {
+            "WIN": {
+                "checksum": "e26205e7591336e08c81cfa1b9ff7252b9597799d8b3408f20b33c41bf7333be",
+                "downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.14/Brackets.Release.1.14.msi"
+            },
+            "OSX": {
+                "checksum": "d1545549863a79a3c4824f9a35866e78f2822664ddeeaeb3cf85a14b491a86cb",
+                "downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.14/Brackets.Release.1.14.dmg"
+            },
+            "LINUX32" : {
+                "checksum": "2c0053fb50d1d79071d455a35fbe6f4f9cdb3cd1edf90bec55a4c0c90661a1f1",
+                "downloadURL" : "https://github.com/adobe/brackets/releases/download/release-1.14/Brackets.Release.1.14.32-bit.deb"
+            },
+            "LINUX64" : {
+                "checksum" : "4df8490efb8a35ff93ac6975655ab4af9a56547eb4a346514803aa2e1f20f30e",
+                "downloadURL" : "https://github.com/adobe/brackets/releases/download/release-1.14/Brackets.Release.1.14.64-bit.deb"
+            }
+        },
+        "prerelease" : "false"
+    },
+    {
         "buildNumber": 17699,
         "versionString": "Release 1.13",
         "dateString": "12-13-2018",
