@@ -1,4 +1,35 @@
-[
+[   {
+        "buildNumber": 17752,
+        "versionString": "Release 1.14.1",
+        "dateString": "05.12.2019",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.14.1",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Sicherheitsupdate",
+                "description": "Mit diesem Sicherheitsupdate wird eine Schwachstelle beim Remote-Debugging beseitigt, das beim Anwendungsstart automatisch aktiviert wurde."
+            }
+        ],
+        "platforms" : {
+            "WIN": {
+                "checksum": "a5b25126acac7a94ef97430b37dc9ab8a628688e1fe21de9317b6d287eb1eb9d",
+                "downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.14.1/Brackets.Release.1.14.1.msi"
+            },
+            "OSX": {
+                "checksum": "9e95b89544796ef959b6acb36db77a712f1cf55d09294cff4b6dde648f055160",
+                "downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.14.1/Brackets.Release.1.14.1.dmg"
+            },
+            "LINUX32" : {
+                "checksum": "6ef1567b75a197236b3d35785afa744752a28b74cfa51b93b7b78d0a50acbfd4",
+                "downloadURL" : "https://github.com/adobe/brackets/releases/download/release-1.14.1/Brackets.Release.1.14.1.32-bit.deb"
+            },
+            "LINUX64" : {
+                "checksum" : "dd8346ee7061e8820ecb7859f5cdccb6f199b144dd17192c217dd49512c4452b",
+                "downloadURL" : "https://github.com/adobe/brackets/releases/download/release-1.14.1/Brackets.Release.1.14.1.64-bit.deb"
+            }
+        },
+        "prerelease" : "false"
+    },
     {
         "buildNumber": 17740,
         "versionString": "Release 1.14",
