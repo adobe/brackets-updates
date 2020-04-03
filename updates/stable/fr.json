@@ -1,4 +1,28 @@
 [   {
+        "buildNumber": 17770,
+        "versionString": "Release 1.14.2",
+        "dateString": "04-06-2020",
+        "releaseNotesURL": "https://github.com/adobe/brackets/wiki/Release-Notes:-1.14.2",
+        "downloadURL": "http://brackets.io",
+        "newFeatures": [
+            {
+                "name": "Prise en charge de l’association de types de fichiers avec des éditeurs externes",
+                "description": "Brackets permet désormais d’associer des types de fichiers non pris en charge à des éditeurs externes. Vous pouvez maintenant ouvrir les types de fichiers associés directement dans les applications externes en double-cliquant sur les fichiers dans l’arborescence des fichiers."
+            }
+        ],
+        "platforms" : {
+            "WIN": {
+                "checksum": "5f059e271fe78fefe224e187b6ef559445b1efadd6dca9446a99ca1a53eb4e56",
+                "downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.msi"
+            },
+            "OSX": {
+                "checksum": "716be1a75099079aa1a22dedab403c9839155c4b99aab6677d8a24589f7f9a15",
+                "downloadURL": "https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.dmg"
+            }
+        },
+        "prerelease" : "false"
+    },
+    {
         "buildNumber": 17752,
         "versionString": "Release 1.14.1",
         "dateString": "05-12-2019",
