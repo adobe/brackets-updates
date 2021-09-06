@@ -1,3 +1,5 @@
+| :warning: On September 1, 2021, Adobe will end support for Brackets. If you would like to continue using, maintaining, and improving Brackets, you may fork the project on [GitHub](https://github.com/adobe/brackets). Through Adobe’s partnership with Microsoft, we encourage users to migrate to [Visual Studio Code](https://aka.ms/brackets-to-vscode), Microsoft’s free code editor built on open source.
+| ---
 This repo contains update notification JSON files for [Brackets](http://brackets.io) ([repo](https://github.com/adobe/brackets)). As an end user, you'll see them using _Help > Check for Updates_, or whenever a new version is released.
 
 Brackets checks for updates by downloading a copy of this JSON info from a [fixed S3 URL](https://s3.amazonaws.com/files.brackets.io/updates/stable). Updating this repo does not automatically push the changes "live" to S3. This repo is used to discuss changes and prepare translations before the updates files go live.
